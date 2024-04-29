@@ -76,7 +76,7 @@ var exposure_response_stimuli = [
   "grammatical_2.mp3",
   "grammatical_3.mp3",
   "grammatical_4.mp3",
-  "grammatical_9.mp3", //conversion error?
+  "grammatical_5.mp3", 
   "grammatical_6.mp3",
   "grammatical_7.mp3",
   "grammatical_8.mp3",
@@ -87,7 +87,7 @@ var grammar_learning_stimuli = [
   {stimulus: "grammatical_2.mp3"},
   {stimulus: "grammatical_3.mp3"},
   {stimulus: "grammatical_4.mp3"},
-  {stimulus: "grammatical_9.mp3"}, //conversion error?
+  {stimulus: "grammatical_5.mp3"}, 
   {stimulus: "grammatical_6.mp3"},
   {stimulus: "grammatical_7.mp3"},
   {stimulus: "grammatical_8.mp3"},
@@ -96,7 +96,7 @@ var grammar_learning_stimuli = [
   {stimulus: "agrammatical_2.mp3"},
   {stimulus: "agrammatical_3.mp3"},
   {stimulus: "agrammatical_4.mp3"},
-  {stimulus: "agrammatical_9.mp3"}, //conversion error?
+  {stimulus: "agrammatical_5.mp3"}, 
   {stimulus: "agrammatical_6.mp3"},
   {stimulus: "agrammatical_7.mp3"},
   {stimulus: "agrammatical_8.mp3"},

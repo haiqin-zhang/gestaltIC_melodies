@@ -1,4 +1,5 @@
 #CHANGE THE CONDITION TO MATCH THE CONDITION USED IN MELODY GENERATION
+#also moves the intermediate generation files to the relevant folders
 
 condition='5'
 
