@@ -1,5 +1,11 @@
  //------------------------------------INITIALIZING EXPERIMENT PARAMETERS-------------------------------
- const jsPsych = initJsPsych({
+//    Make sure these parameters are correct before running 
+  //############################################
+  var condition_assignment = 'tonic G4' //in case we decide to use different grammars in the future
+  current_mode = 'real' //or 'real' --> changes number of trials and whether you can skip trials
+  //############################################
+
+  const jsPsych = initJsPsych({
     on_finish: function() { 
       //TO CHANGE don't show csv in the real experiment
       //jsPsych.data.displayData('csv');
@@ -8,8 +14,6 @@
 
   // generate a random subject ID with 6 characters
   var subject_id = jsPsych.randomization.randomID(6);
-
-  var condition_assignment = 'tonic Bb4' //in case we decide to use different grammars in the future
 
   // record the condition assignment in the jsPsych data
   // this adds a property called 'subject' and a property called 'condition' to every trial
@@ -20,6 +24,14 @@
 
   var timeline = [];
 
+  if (current_mode == 'test'){
+    skip = true
+    n_exposure_trials = 5
+  }
+  else if (current_mode == 'real'){
+    skip = false
+    n_exposure_trials = 60
+  }
   //------------------------------STIMULI LIST----------------------------------------------
 
 
@@ -339,8 +351,7 @@ var fc_stimuli = [
       prompt: `Please listen...`,
       //TO CHANGE
       trial_duration: 23000, 
-      //response_ends_trial: false,
-      response_ends_trial: true, //change to true for demo version
+        response_ends_trial: skip,
       
       stimulus: function(){
         var melody = jsPsych.randomization.sampleWithReplacement(exposure_noresponse_stimuli, 1)
@@ -431,7 +442,7 @@ var fc_stimuli = [
     //specifies the number of trials to randomly make
 
     //5 trials 
-    timeline: jsPsych.randomization.sampleWithReplacement([exposure_noresponse, exposure_response, exposure_attncheck_easy, exposure_attncheck_int, exposure_attncheck_hard], 5, [20, 1, 3, 1, 1]),
+    timeline: jsPsych.randomization.sampleWithReplacement([exposure_noresponse, exposure_response, exposure_attncheck_easy, exposure_attncheck_int, exposure_attncheck_hard], n_exposure_trials, [20, 1, 3, 1, 1]),
     
     //60 trials (real experiment)
     //timeline: jsPsych.randomization.sampleWithReplacement([exposure_noresponse, exposure_response, exposure_attncheck_easy, exposure_attncheck_int, exposure_attncheck_hard], 60, [20, 1, 3, 1, 1]),
