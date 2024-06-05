@@ -3,5 +3,8 @@ __pycache__/
 
 old_files/
 figures/
+experiment_stimuli/
+intermediate_files/
+analysis_figs/
 
 *.png

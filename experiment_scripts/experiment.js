@@ -166,7 +166,7 @@ var fc_stimuli = [
       also collect demographic information about you and your musical background. 
       Your participation is voluntary and you can exit the experiment at any time (however, 
       <b>you need to complete the experiment to receive compensation</b>). 
-      The data collected is completely anonymous.</p>`,
+      The data collected is completely anonymous. By clicking continue, you provide your consent to participate.</p>`,
     html: `<p> Enter your Prolific ID if you have one: <input name="prolific_id" type="text" /></p> `
   };
 

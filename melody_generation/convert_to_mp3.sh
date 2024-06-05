@@ -1,7 +1,8 @@
 #CHANGE THE CONDITION TO MATCH THE CONDITION USED IN MELODY GENERATION
 #also moves the intermediate generation files to the relevant folders
+#to run in terminal: bash convert_to_mp3.sh
 
-condition='5'
+condition='4'
 
 # Convert MIDI files to MP3
 for file in *.mid; do

@@ -1,65 +1,1249 @@
 subject,condition,filename,sequence,IC,high_IC_chosen,target_pos,target_metric_2,target_metric_4,accent,musician
-a237ah,tonic G4,fc_IC_accent_5_4.mp3,"[1, 2, 6, 5, 4, 5, 3, 1]",,1,4,1,1,1,0
-a237ah,tonic G4,fc_IC_default_3_4.mp3,"[1, 3, 6, 3, 2, 5, 3, 1]",,0,4,1,1,0,0
-a237ah,tonic G4,fc_IC_accent_3_3.mp3,"[1, 2, 6, 3, 2, 3, 1]",,1,4,1,1,1,0
-a237ah,tonic G4,fc_IC_default_5_2.mp3,"[1, 2, 6, 5, 4, 3, 1]",,0,4,1,1,0,0
-a237ah,tonic G4,fc_IC_accent_3_4.mp3,"[1, 2, 6, 3, 2, 3, 1]",,1,4,1,1,1,0
-a237ah,tonic G4,fc_IC_default_3_3.mp3,"[1, 2, 6, 3, 2, 5, 3, 1]",,0,4,1,1,0,0
-a237ah,tonic G4,fc_IC_default_5_1.mp3,"[1, 2, 6, 5, 4, 3, 1]",,1,4,1,1,0,0
-a237ah,tonic G4,fc_IC_default_3_1.mp3,"[1, 2, 6, 3, 2, 5, 3, 1]",,0,4,1,1,0,0
-a237ah,tonic G4,fc_IC_default_3_2.mp3,"[1, 2, 6, 3, 2, 5, 3, 1]",,0,4,1,1,0,0
-a237ah,tonic G4,fc_IC_default_5_3.mp3,"[1, 2, 6, 5, 4, 5, 3, 1]",,1,4,1,1,0,0
-a237ah,tonic G4,fc_IC_accent_5_2.mp3,"[1, 2, 6, 5, 4, 5, 3, 1]",,1,4,1,1,1,0
-a237ah,tonic G4,fc_IC_default_5_4.mp3,"[1, 2, 6, 5, 4, 5, 3, 1]",,0,4,1,1,0,0
-a237ah,tonic G4,fc_IC_accent_3_2.mp3,"[1, 3, 6, 3, 2, 3, 1]",,1,4,1,1,1,0
-a237ah,tonic G4,fc_IC_accent_3_1.mp3,"[1, 2, 6, 3, 2, 5, 3, 1]",,0,4,1,1,1,0
-a237ah,tonic G4,fc_IC_accent_5_1.mp3,"[1, 2, 6, 5, 4, 5, 3, 1]",,1,4,1,1,1,0
-a237ah,tonic G4,fc_IC_accent_5_3.mp3,"[1, 2, 5, 4, 3, 1]",,0,3,2,4,1,0
-tuyp2m,tonic G4,fc_IC_accent_3_2.mp3,"[1, 3, 6, 3, 2, 3, 1]",,0,4,1,1,1,0
-tuyp2m,tonic G4,fc_IC_accent_5_2.mp3,"[1, 2, 6, 5, 4, 5, 3, 1]",,1,4,1,1,1,0
-tuyp2m,tonic G4,fc_IC_accent_3_4.mp3,"[1, 2, 6, 3, 2, 3, 1]",,1,4,1,1,1,0
-tuyp2m,tonic G4,fc_IC_default_5_2.mp3,"[1, 2, 6, 5, 4, 3, 1]",,1,4,1,1,0,0
-tuyp2m,tonic G4,fc_IC_accent_5_4.mp3,"[1, 2, 6, 5, 4, 5, 3, 1]",,1,4,1,1,1,0
-tuyp2m,tonic G4,fc_IC_accent_3_3.mp3,"[1, 2, 6, 3, 2, 3, 1]",,0,4,1,1,1,0
-tuyp2m,tonic G4,fc_IC_default_5_1.mp3,"[1, 2, 6, 5, 4, 3, 1]",,0,4,1,1,0,0
-tuyp2m,tonic G4,fc_IC_accent_5_3.mp3,"[1, 2, 5, 4, 3, 1]",,1,3,2,4,1,0
-tuyp2m,tonic G4,fc_IC_default_3_3.mp3,"[1, 2, 6, 3, 2, 5, 3, 1]",,0,4,1,1,0,0
-tuyp2m,tonic G4,fc_IC_default_3_1.mp3,"[1, 2, 6, 3, 2, 5, 3, 1]",,1,4,1,1,0,0
-tuyp2m,tonic G4,fc_IC_accent_3_1.mp3,"[1, 2, 6, 3, 2, 5, 3, 1]",,1,4,1,1,1,0
-tuyp2m,tonic G4,fc_IC_default_3_4.mp3,"[1, 3, 6, 3, 2, 5, 3, 1]",,1,4,1,1,0,0
-tuyp2m,tonic G4,fc_IC_default_5_4.mp3,"[1, 2, 6, 5, 4, 5, 3, 1]",,1,4,1,1,0,0
-tuyp2m,tonic G4,fc_IC_accent_5_1.mp3,"[1, 2, 6, 5, 4, 5, 3, 1]",,1,4,1,1,1,0
-tuyp2m,tonic G4,fc_IC_default_3_2.mp3,"[1, 2, 6, 3, 2, 5, 3, 1]",,1,4,1,1,0,0
-tuyp2m,tonic G4,fc_IC_default_5_3.mp3,"[1, 2, 6, 5, 4, 5, 3, 1]",,0,4,1,1,0,0
-j0nqx8,tonic G4,fc_IC_default_5_1.mp3,"[1, 2, 6, 5, 4, 3, 1]",,1,4,1,1,0,0
-j0nqx8,tonic G4,fc_IC_default_5_4.mp3,"[1, 2, 6, 5, 4, 5, 3, 1]",,0,4,1,1,0,0
-j0nqx8,tonic G4,fc_IC_default_5_3.mp3,"[1, 2, 6, 5, 4, 5, 3, 1]",,0,4,1,1,0,0
-j0nqx8,tonic G4,fc_IC_accent_5_1.mp3,"[1, 2, 6, 5, 4, 5, 3, 1]",,1,4,1,1,1,0
-j0nqx8,tonic G4,fc_IC_default_3_4.mp3,"[1, 3, 6, 3, 2, 5, 3, 1]",,1,4,1,1,0,0
-j0nqx8,tonic G4,fc_IC_accent_5_2.mp3,"[1, 2, 6, 5, 4, 5, 3, 1]",,0,4,1,1,1,0
-j0nqx8,tonic G4,fc_IC_default_5_2.mp3,"[1, 2, 6, 5, 4, 3, 1]",,0,4,1,1,0,0
-j0nqx8,tonic G4,fc_IC_accent_3_3.mp3,"[1, 2, 6, 3, 2, 3, 1]",,1,4,1,1,1,0
-j0nqx8,tonic G4,fc_IC_default_3_3.mp3,"[1, 2, 6, 3, 2, 5, 3, 1]",,1,4,1,1,0,0
-j0nqx8,tonic G4,fc_IC_accent_5_4.mp3,"[1, 2, 6, 5, 4, 5, 3, 1]",,0,4,1,1,1,0
-j0nqx8,tonic G4,fc_IC_default_3_1.mp3,"[1, 2, 6, 3, 2, 5, 3, 1]",,0,4,1,1,0,0
-j0nqx8,tonic G4,fc_IC_accent_5_3.mp3,"[1, 2, 5, 4, 3, 1]",,0,3,2,4,1,0
-j0nqx8,tonic G4,fc_IC_default_3_2.mp3,"[1, 2, 6, 3, 2, 5, 3, 1]",,1,4,1,1,0,0
-j0nqx8,tonic G4,fc_IC_accent_3_1.mp3,"[1, 2, 6, 3, 2, 5, 3, 1]",,1,4,1,1,1,0
-j0nqx8,tonic G4,fc_IC_accent_3_4.mp3,"[1, 2, 6, 3, 2, 3, 1]",,0,4,1,1,1,0
-j0nqx8,tonic G4,fc_IC_accent_3_2.mp3,"[1, 3, 6, 3, 2, 3, 1]",,1,4,1,1,1,0
-yb48ry,tonic G4,fc_IC_accent_3_2.mp3,"[1, 3, 6, 3, 2, 3, 1]",,1,4,1,1,1,0
-yb48ry,tonic G4,fc_IC_default_3_4.mp3,"[1, 3, 6, 3, 2, 5, 3, 1]",,1,4,1,1,0,0
-yb48ry,tonic G4,fc_IC_accent_3_4.mp3,"[1, 2, 6, 3, 2, 3, 1]",,1,4,1,1,1,0
-yb48ry,tonic G4,fc_IC_default_5_3.mp3,"[1, 2, 6, 5, 4, 5, 3, 1]",,1,4,1,1,0,0
-yb48ry,tonic G4,fc_IC_default_5_2.mp3,"[1, 2, 6, 5, 4, 3, 1]",,1,4,1,1,0,0
-yb48ry,tonic G4,fc_IC_accent_5_2.mp3,"[1, 2, 6, 5, 4, 5, 3, 1]",,1,4,1,1,1,0
-yb48ry,tonic G4,fc_IC_default_3_1.mp3,"[1, 2, 6, 3, 2, 5, 3, 1]",,1,4,1,1,0,0
-yb48ry,tonic G4,fc_IC_default_5_4.mp3,"[1, 2, 6, 5, 4, 5, 3, 1]",,1,4,1,1,0,0
-yb48ry,tonic G4,fc_IC_accent_3_1.mp3,"[1, 2, 6, 3, 2, 5, 3, 1]",,0,4,1,1,1,0
-yb48ry,tonic G4,fc_IC_default_3_3.mp3,"[1, 2, 6, 3, 2, 5, 3, 1]",,0,4,1,1,0,0
-yb48ry,tonic G4,fc_IC_accent_5_1.mp3,"[1, 2, 6, 5, 4, 5, 3, 1]",,1,4,1,1,1,0
-yb48ry,tonic G4,fc_IC_accent_3_3.mp3,"[1, 2, 6, 3, 2, 3, 1]",,0,4,1,1,1,0
-yb48ry,tonic G4,fc_IC_accent_5_4.mp3,"[1, 2, 6, 5, 4, 5, 3, 1]",,1,4,1,1,1,0
-yb48ry,tonic G4,fc_IC_accent_5_3.mp3,"[1, 2, 5, 4, 3, 1]",,1,3,2,4,1,0
-yb48ry,tonic G4,fc_IC_default_3_2.mp3,"[1, 2, 6, 3, 2, 5, 3, 1]",,0,4,1,1,0,0
-yb48ry,tonic G4,fc_IC_default_5_1.mp3,"[1, 2, 6, 5, 4, 3, 1]",,1,4,1,1,0,0
+dykydm,tonic Cs5,fc_IC_accent_3_4.mp3,"[1, 2, 6, 3, 2, 3, 1]",,0,4,1,1,1,0
+dykydm,tonic Cs5,fc_IC_default_5_1.mp3,"[1, 2, 6, 5, 4, 3, 1]",,1,4,1,1,0,0
+dykydm,tonic Cs5,fc_IC_accent_3_2.mp3,"[1, 2, 6, 3, 2, 3, 1]",,0,4,1,1,1,0
+dykydm,tonic Cs5,fc_IC_accent_5_1.mp3,"[1, 2, 6, 5, 4, 5, 3, 1]",,0,4,1,1,1,0
+dykydm,tonic Cs5,fc_IC_default_3_4.mp3,"[1, 2, 6, 3, 2, 3, 1]",,0,4,1,1,0,0
+dykydm,tonic Cs5,fc_IC_accent_5_3.mp3,"[1, 2, 5, 4, 5, 3, 1]",,1,3,2,4,1,0
+dykydm,tonic Cs5,fc_IC_accent_3_1.mp3,"[1, 2, 6, 3, 2, 3, 1]",,0,4,1,1,1,0
+dykydm,tonic Cs5,fc_IC_accent_5_4.mp3,"[1, 2, 6, 5, 4, 3, 1]",,0,4,1,1,1,0
+dykydm,tonic Cs5,fc_IC_default_5_2.mp3,"[1, 2, 6, 5, 4, 5, 3, 1]",,1,4,1,1,0,0
+dykydm,tonic Cs5,fc_IC_accent_5_2.mp3,"[1, 3, 6, 5, 4, 5, 3, 1]",,0,4,1,1,1,0
+dykydm,tonic Cs5,fc_IC_default_3_1.mp3,"[1, 2, 6, 3, 2, 5, 3, 1]",,0,4,1,1,0,0
+dykydm,tonic Cs5,fc_IC_default_3_2.mp3,"[1, 2, 6, 3, 2, 3, 1]",,0,4,1,1,0,0
+dykydm,tonic Cs5,fc_IC_default_3_3.mp3,"[1, 2, 6, 3, 2, 5, 3, 1]",,0,4,1,1,0,0
+dykydm,tonic Cs5,fc_IC_accent_3_3.mp3,"[1, 2, 3, 6, 3, 2, 3, 1]",,0,5,2,2,1,0
+dykydm,tonic Cs5,fc_IC_default_5_4.mp3,"[1, 2, 6, 5, 4, 3, 1]",,0,4,1,1,0,0
+dykydm,tonic Cs5,fc_IC_default_5_3.mp3,"[1, 3, 6, 5, 4, 3, 1]",,1,4,1,1,0,0
+vxh5qr,tonic Cs5,fc_IC_accent_3_1.mp3,"[1, 2, 6, 3, 2, 3, 1]",,1,4,1,1,1,0
+vxh5qr,tonic Cs5,fc_IC_accent_5_4.mp3,"[1, 2, 6, 5, 4, 3, 1]",,0,4,1,1,1,0
+vxh5qr,tonic Cs5,fc_IC_accent_5_1.mp3,"[1, 2, 6, 5, 4, 5, 3, 1]",,0,4,1,1,1,0
+vxh5qr,tonic Cs5,fc_IC_default_3_1.mp3,"[1, 2, 6, 3, 2, 5, 3, 1]",,0,4,1,1,0,0
+vxh5qr,tonic Cs5,fc_IC_accent_3_4.mp3,"[1, 2, 6, 3, 2, 3, 1]",,0,4,1,1,1,0
+vxh5qr,tonic Cs5,fc_IC_default_5_2.mp3,"[1, 2, 6, 5, 4, 5, 3, 1]",,0,4,1,1,0,0
+vxh5qr,tonic Cs5,fc_IC_accent_5_2.mp3,"[1, 3, 6, 5, 4, 5, 3, 1]",,0,4,1,1,1,0
+vxh5qr,tonic Cs5,fc_IC_accent_3_3.mp3,"[1, 2, 3, 6, 3, 2, 3, 1]",,0,5,2,2,1,0
+vxh5qr,tonic Cs5,fc_IC_default_3_2.mp3,"[1, 2, 6, 3, 2, 3, 1]",,1,4,1,1,0,0
+vxh5qr,tonic Cs5,fc_IC_accent_5_3.mp3,"[1, 2, 5, 4, 5, 3, 1]",,0,3,2,4,1,0
+vxh5qr,tonic Cs5,fc_IC_default_3_4.mp3,"[1, 2, 6, 3, 2, 3, 1]",,0,4,1,1,0,0
+vxh5qr,tonic Cs5,fc_IC_default_5_3.mp3,"[1, 3, 6, 5, 4, 3, 1]",,0,4,1,1,0,0
+vxh5qr,tonic Cs5,fc_IC_accent_3_2.mp3,"[1, 2, 6, 3, 2, 3, 1]",,1,4,1,1,1,0
+vxh5qr,tonic Cs5,fc_IC_default_5_4.mp3,"[1, 2, 6, 5, 4, 3, 1]",,0,4,1,1,0,0
+vxh5qr,tonic Cs5,fc_IC_default_5_1.mp3,"[1, 2, 6, 5, 4, 3, 1]",,0,4,1,1,0,0
+vxh5qr,tonic Cs5,fc_IC_default_3_3.mp3,"[1, 2, 6, 3, 2, 5, 3, 1]",,0,4,1,1,0,0
+jkxofs,tonic Cs5,fc_IC_default_5_2.mp3,"[1, 2, 6, 5, 4, 5, 3, 1]",,1,4,1,1,0,0
+jkxofs,tonic Cs5,fc_IC_accent_3_1.mp3,"[1, 2, 6, 3, 2, 3, 1]",,1,4,1,1,1,0
+jkxofs,tonic Cs5,fc_IC_accent_5_1.mp3,"[1, 2, 6, 5, 4, 5, 3, 1]",,1,4,1,1,1,0
+jkxofs,tonic Cs5,fc_IC_accent_5_3.mp3,"[1, 2, 5, 4, 5, 3, 1]",,1,3,2,4,1,0
+jkxofs,tonic Cs5,fc_IC_default_3_1.mp3,"[1, 2, 6, 3, 2, 5, 3, 1]",,1,4,1,1,0,0
+jkxofs,tonic Cs5,fc_IC_default_3_3.mp3,"[1, 2, 6, 3, 2, 5, 3, 1]",,1,4,1,1,0,0
+jkxofs,tonic Cs5,fc_IC_accent_5_4.mp3,"[1, 2, 6, 5, 4, 3, 1]",,1,4,1,1,1,0
+jkxofs,tonic Cs5,fc_IC_default_5_3.mp3,"[1, 3, 6, 5, 4, 3, 1]",,1,4,1,1,0,0
+jkxofs,tonic Cs5,fc_IC_accent_3_3.mp3,"[1, 2, 3, 6, 3, 2, 3, 1]",,0,5,2,2,1,0
+jkxofs,tonic Cs5,fc_IC_accent_3_4.mp3,"[1, 2, 6, 3, 2, 3, 1]",,0,4,1,1,1,0
+jkxofs,tonic Cs5,fc_IC_default_5_4.mp3,"[1, 2, 6, 5, 4, 3, 1]",,1,4,1,1,0,0
+jkxofs,tonic Cs5,fc_IC_accent_3_2.mp3,"[1, 2, 6, 3, 2, 3, 1]",,0,4,1,1,1,0
+jkxofs,tonic Cs5,fc_IC_default_3_2.mp3,"[1, 2, 6, 3, 2, 3, 1]",,1,4,1,1,0,0
+jkxofs,tonic Cs5,fc_IC_accent_5_2.mp3,"[1, 3, 6, 5, 4, 5, 3, 1]",,1,4,1,1,1,0
+jkxofs,tonic Cs5,fc_IC_default_3_4.mp3,"[1, 2, 6, 3, 2, 3, 1]",,1,4,1,1,0,0
+jkxofs,tonic Cs5,fc_IC_default_5_1.mp3,"[1, 2, 6, 5, 4, 3, 1]",,1,4,1,1,0,0
+8ybm77,tonic Cs5,fc_IC_accent_3_3.mp3,"[1, 2, 3, 6, 3, 2, 3, 1]",,0,5,2,2,1,0
+8ybm77,tonic Cs5,fc_IC_default_5_2.mp3,"[1, 2, 6, 5, 4, 5, 3, 1]",,0,4,1,1,0,0
+8ybm77,tonic Cs5,fc_IC_default_5_1.mp3,"[1, 2, 6, 5, 4, 3, 1]",,0,4,1,1,0,0
+8ybm77,tonic Cs5,fc_IC_default_3_1.mp3,"[1, 2, 6, 3, 2, 5, 3, 1]",,1,4,1,1,0,0
+8ybm77,tonic Cs5,fc_IC_default_5_4.mp3,"[1, 2, 6, 5, 4, 3, 1]",,1,4,1,1,0,0
+8ybm77,tonic Cs5,fc_IC_default_5_3.mp3,"[1, 3, 6, 5, 4, 3, 1]",,0,4,1,1,0,0
+8ybm77,tonic Cs5,fc_IC_accent_5_4.mp3,"[1, 2, 6, 5, 4, 3, 1]",,1,4,1,1,1,0
+8ybm77,tonic Cs5,fc_IC_default_3_3.mp3,"[1, 2, 6, 3, 2, 5, 3, 1]",,0,4,1,1,0,0
+8ybm77,tonic Cs5,fc_IC_accent_5_2.mp3,"[1, 3, 6, 5, 4, 5, 3, 1]",,0,4,1,1,1,0
+8ybm77,tonic Cs5,fc_IC_default_3_4.mp3,"[1, 2, 6, 3, 2, 3, 1]",,0,4,1,1,0,0
+8ybm77,tonic Cs5,fc_IC_accent_3_2.mp3,"[1, 2, 6, 3, 2, 3, 1]",,1,4,1,1,1,0
+8ybm77,tonic Cs5,fc_IC_accent_5_3.mp3,"[1, 2, 5, 4, 5, 3, 1]",,0,3,2,4,1,0
+8ybm77,tonic Cs5,fc_IC_accent_5_1.mp3,"[1, 2, 6, 5, 4, 5, 3, 1]",,0,4,1,1,1,0
+8ybm77,tonic Cs5,fc_IC_default_3_2.mp3,"[1, 2, 6, 3, 2, 3, 1]",,1,4,1,1,0,0
+8ybm77,tonic Cs5,fc_IC_accent_3_4.mp3,"[1, 2, 6, 3, 2, 3, 1]",,0,4,1,1,1,0
+8ybm77,tonic Cs5,fc_IC_accent_3_1.mp3,"[1, 2, 6, 3, 2, 3, 1]",,0,4,1,1,1,0
+s6puyw,tonic Cs5,fc_IC_accent_3_4.mp3,"[1, 2, 6, 3, 2, 3, 1]",,1,4,1,1,1,0
+s6puyw,tonic Cs5,fc_IC_accent_5_4.mp3,"[1, 2, 6, 5, 4, 3, 1]",,0,4,1,1,1,0
+s6puyw,tonic Cs5,fc_IC_default_5_2.mp3,"[1, 2, 6, 5, 4, 5, 3, 1]",,0,4,1,1,0,0
+s6puyw,tonic Cs5,fc_IC_accent_5_1.mp3,"[1, 2, 6, 5, 4, 5, 3, 1]",,1,4,1,1,1,0
+s6puyw,tonic Cs5,fc_IC_default_3_1.mp3,"[1, 2, 6, 3, 2, 5, 3, 1]",,0,4,1,1,0,0
+s6puyw,tonic Cs5,fc_IC_default_3_2.mp3,"[1, 2, 6, 3, 2, 3, 1]",,0,4,1,1,0,0
+s6puyw,tonic Cs5,fc_IC_default_5_3.mp3,"[1, 3, 6, 5, 4, 3, 1]",,0,4,1,1,0,0
+s6puyw,tonic Cs5,fc_IC_default_3_4.mp3,"[1, 2, 6, 3, 2, 3, 1]",,0,4,1,1,0,0
+s6puyw,tonic Cs5,fc_IC_default_3_3.mp3,"[1, 2, 6, 3, 2, 5, 3, 1]",,1,4,1,1,0,0
+s6puyw,tonic Cs5,fc_IC_default_5_1.mp3,"[1, 2, 6, 5, 4, 3, 1]",,1,4,1,1,0,0
+s6puyw,tonic Cs5,fc_IC_accent_5_3.mp3,"[1, 2, 5, 4, 5, 3, 1]",,0,3,2,4,1,0
+s6puyw,tonic Cs5,fc_IC_accent_3_3.mp3,"[1, 2, 3, 6, 3, 2, 3, 1]",,0,5,2,2,1,0
+s6puyw,tonic Cs5,fc_IC_accent_3_2.mp3,"[1, 2, 6, 3, 2, 3, 1]",,0,4,1,1,1,0
+s6puyw,tonic Cs5,fc_IC_accent_3_1.mp3,"[1, 2, 6, 3, 2, 3, 1]",,0,4,1,1,1,0
+s6puyw,tonic Cs5,fc_IC_accent_5_2.mp3,"[1, 3, 6, 5, 4, 5, 3, 1]",,0,4,1,1,1,0
+s6puyw,tonic Cs5,fc_IC_default_5_4.mp3,"[1, 2, 6, 5, 4, 3, 1]",,0,4,1,1,0,0
+yh59cq,tonic Cs5,fc_IC_accent_5_1.mp3,"[1, 2, 6, 5, 4, 5, 3, 1]",,1,4,1,1,1,0
+yh59cq,tonic Cs5,fc_IC_default_5_2.mp3,"[1, 2, 6, 5, 4, 5, 3, 1]",,0,4,1,1,0,0
+yh59cq,tonic Cs5,fc_IC_default_3_2.mp3,"[1, 2, 6, 3, 2, 3, 1]",,0,4,1,1,0,0
+yh59cq,tonic Cs5,fc_IC_accent_3_3.mp3,"[1, 2, 3, 6, 3, 2, 3, 1]",,0,5,2,2,1,0
+yh59cq,tonic Cs5,fc_IC_accent_5_4.mp3,"[1, 2, 6, 5, 4, 3, 1]",,0,4,1,1,1,0
+yh59cq,tonic Cs5,fc_IC_default_3_3.mp3,"[1, 2, 6, 3, 2, 5, 3, 1]",,0,4,1,1,0,0
+yh59cq,tonic Cs5,fc_IC_accent_3_4.mp3,"[1, 2, 6, 3, 2, 3, 1]",,0,4,1,1,1,0
+yh59cq,tonic Cs5,fc_IC_accent_5_2.mp3,"[1, 3, 6, 5, 4, 5, 3, 1]",,1,4,1,1,1,0
+yh59cq,tonic Cs5,fc_IC_default_5_4.mp3,"[1, 2, 6, 5, 4, 3, 1]",,0,4,1,1,0,0
+yh59cq,tonic Cs5,fc_IC_accent_3_2.mp3,"[1, 2, 6, 3, 2, 3, 1]",,1,4,1,1,1,0
+yh59cq,tonic Cs5,fc_IC_default_3_4.mp3,"[1, 2, 6, 3, 2, 3, 1]",,1,4,1,1,0,0
+yh59cq,tonic Cs5,fc_IC_accent_3_1.mp3,"[1, 2, 6, 3, 2, 3, 1]",,1,4,1,1,1,0
+yh59cq,tonic Cs5,fc_IC_accent_5_3.mp3,"[1, 2, 5, 4, 5, 3, 1]",,1,3,2,4,1,0
+yh59cq,tonic Cs5,fc_IC_default_5_3.mp3,"[1, 3, 6, 5, 4, 3, 1]",,0,4,1,1,0,0
+yh59cq,tonic Cs5,fc_IC_default_5_1.mp3,"[1, 2, 6, 5, 4, 3, 1]",,0,4,1,1,0,0
+yh59cq,tonic Cs5,fc_IC_default_3_1.mp3,"[1, 2, 6, 3, 2, 5, 3, 1]",,0,4,1,1,0,0
+rz4nxs,tonic Cs5,fc_IC_accent_5_1.mp3,"[1, 2, 6, 5, 4, 5, 3, 1]",,1,4,1,1,1,1
+rz4nxs,tonic Cs5,fc_IC_accent_3_4.mp3,"[1, 2, 6, 3, 2, 3, 1]",,0,4,1,1,1,1
+rz4nxs,tonic Cs5,fc_IC_accent_5_2.mp3,"[1, 3, 6, 5, 4, 5, 3, 1]",,0,4,1,1,1,1
+rz4nxs,tonic Cs5,fc_IC_default_5_3.mp3,"[1, 3, 6, 5, 4, 3, 1]",,0,4,1,1,0,1
+rz4nxs,tonic Cs5,fc_IC_default_5_1.mp3,"[1, 2, 6, 5, 4, 3, 1]",,0,4,1,1,0,1
+rz4nxs,tonic Cs5,fc_IC_default_3_3.mp3,"[1, 2, 6, 3, 2, 5, 3, 1]",,0,4,1,1,0,1
+rz4nxs,tonic Cs5,fc_IC_accent_5_4.mp3,"[1, 2, 6, 5, 4, 3, 1]",,0,4,1,1,1,1
+rz4nxs,tonic Cs5,fc_IC_accent_3_3.mp3,"[1, 2, 3, 6, 3, 2, 3, 1]",,1,5,2,2,1,1
+rz4nxs,tonic Cs5,fc_IC_default_5_2.mp3,"[1, 2, 6, 5, 4, 5, 3, 1]",,1,4,1,1,0,1
+rz4nxs,tonic Cs5,fc_IC_accent_5_3.mp3,"[1, 2, 5, 4, 5, 3, 1]",,0,3,2,4,1,1
+rz4nxs,tonic Cs5,fc_IC_default_3_2.mp3,"[1, 2, 6, 3, 2, 3, 1]",,1,4,1,1,0,1
+rz4nxs,tonic Cs5,fc_IC_default_3_1.mp3,"[1, 2, 6, 3, 2, 5, 3, 1]",,0,4,1,1,0,1
+rz4nxs,tonic Cs5,fc_IC_default_5_4.mp3,"[1, 2, 6, 5, 4, 3, 1]",,0,4,1,1,0,1
+rz4nxs,tonic Cs5,fc_IC_accent_3_1.mp3,"[1, 2, 6, 3, 2, 3, 1]",,1,4,1,1,1,1
+rz4nxs,tonic Cs5,fc_IC_accent_3_2.mp3,"[1, 2, 6, 3, 2, 3, 1]",,1,4,1,1,1,1
+rz4nxs,tonic Cs5,fc_IC_default_3_4.mp3,"[1, 2, 6, 3, 2, 3, 1]",,0,4,1,1,0,1
+rewc3a,tonic Cs5,fc_IC_accent_5_2.mp3,"[1, 3, 6, 5, 4, 5, 3, 1]",,1,4,1,1,1,0
+rewc3a,tonic Cs5,fc_IC_default_3_2.mp3,"[1, 2, 6, 3, 2, 3, 1]",,1,4,1,1,0,0
+rewc3a,tonic Cs5,fc_IC_accent_3_4.mp3,"[1, 2, 6, 3, 2, 3, 1]",,0,4,1,1,1,0
+rewc3a,tonic Cs5,fc_IC_default_3_3.mp3,"[1, 2, 6, 3, 2, 5, 3, 1]",,0,4,1,1,0,0
+rewc3a,tonic Cs5,fc_IC_accent_5_4.mp3,"[1, 2, 6, 5, 4, 3, 1]",,0,4,1,1,1,0
+rewc3a,tonic Cs5,fc_IC_default_3_4.mp3,"[1, 2, 6, 3, 2, 3, 1]",,0,4,1,1,0,0
+rewc3a,tonic Cs5,fc_IC_default_5_2.mp3,"[1, 2, 6, 5, 4, 5, 3, 1]",,1,4,1,1,0,0
+rewc3a,tonic Cs5,fc_IC_default_3_1.mp3,"[1, 2, 6, 3, 2, 5, 3, 1]",,0,4,1,1,0,0
+rewc3a,tonic Cs5,fc_IC_accent_5_1.mp3,"[1, 2, 6, 5, 4, 5, 3, 1]",,0,4,1,1,1,0
+rewc3a,tonic Cs5,fc_IC_accent_3_2.mp3,"[1, 2, 6, 3, 2, 3, 1]",,0,4,1,1,1,0
+rewc3a,tonic Cs5,fc_IC_accent_5_3.mp3,"[1, 2, 5, 4, 5, 3, 1]",,0,3,2,4,1,0
+rewc3a,tonic Cs5,fc_IC_accent_3_3.mp3,"[1, 2, 3, 6, 3, 2, 3, 1]",,1,5,2,2,1,0
+rewc3a,tonic Cs5,fc_IC_default_5_1.mp3,"[1, 2, 6, 5, 4, 3, 1]",,1,4,1,1,0,0
+rewc3a,tonic Cs5,fc_IC_default_5_4.mp3,"[1, 2, 6, 5, 4, 3, 1]",,0,4,1,1,0,0
+rewc3a,tonic Cs5,fc_IC_default_5_3.mp3,"[1, 3, 6, 5, 4, 3, 1]",,0,4,1,1,0,0
+rewc3a,tonic Cs5,fc_IC_accent_3_1.mp3,"[1, 2, 6, 3, 2, 3, 1]",,0,4,1,1,1,0
+51s1gf,tonic Cs5,fc_IC_accent_5_4.mp3,"[1, 2, 6, 5, 4, 3, 1]",,1,4,1,1,1,0
+51s1gf,tonic Cs5,fc_IC_default_5_3.mp3,"[1, 3, 6, 5, 4, 3, 1]",,0,4,1,1,0,0
+51s1gf,tonic Cs5,fc_IC_default_5_4.mp3,"[1, 2, 6, 5, 4, 3, 1]",,0,4,1,1,0,0
+51s1gf,tonic Cs5,fc_IC_default_3_1.mp3,"[1, 2, 6, 3, 2, 5, 3, 1]",,1,4,1,1,0,0
+51s1gf,tonic Cs5,fc_IC_accent_3_2.mp3,"[1, 2, 6, 3, 2, 3, 1]",,0,4,1,1,1,0
+51s1gf,tonic Cs5,fc_IC_accent_3_4.mp3,"[1, 2, 6, 3, 2, 3, 1]",,0,4,1,1,1,0
+51s1gf,tonic Cs5,fc_IC_default_3_4.mp3,"[1, 2, 6, 3, 2, 3, 1]",,0,4,1,1,0,0
+51s1gf,tonic Cs5,fc_IC_accent_3_1.mp3,"[1, 2, 6, 3, 2, 3, 1]",,0,4,1,1,1,0
+51s1gf,tonic Cs5,fc_IC_accent_5_3.mp3,"[1, 2, 5, 4, 5, 3, 1]",,0,3,2,4,1,0
+51s1gf,tonic Cs5,fc_IC_accent_5_2.mp3,"[1, 3, 6, 5, 4, 5, 3, 1]",,0,4,1,1,1,0
+51s1gf,tonic Cs5,fc_IC_default_5_2.mp3,"[1, 2, 6, 5, 4, 5, 3, 1]",,0,4,1,1,0,0
+51s1gf,tonic Cs5,fc_IC_default_5_1.mp3,"[1, 2, 6, 5, 4, 3, 1]",,0,4,1,1,0,0
+51s1gf,tonic Cs5,fc_IC_default_3_3.mp3,"[1, 2, 6, 3, 2, 5, 3, 1]",,1,4,1,1,0,0
+51s1gf,tonic Cs5,fc_IC_accent_3_3.mp3,"[1, 2, 3, 6, 3, 2, 3, 1]",,0,5,2,2,1,0
+51s1gf,tonic Cs5,fc_IC_default_3_2.mp3,"[1, 2, 6, 3, 2, 3, 1]",,0,4,1,1,0,0
+51s1gf,tonic Cs5,fc_IC_accent_5_1.mp3,"[1, 2, 6, 5, 4, 5, 3, 1]",,1,4,1,1,1,0
+cvyowf,tonic Cs5,fc_IC_default_5_3.mp3,"[1, 3, 6, 5, 4, 3, 1]",,1,4,1,1,0,1
+cvyowf,tonic Cs5,fc_IC_accent_5_2.mp3,"[1, 3, 6, 5, 4, 5, 3, 1]",,1,4,1,1,1,1
+cvyowf,tonic Cs5,fc_IC_accent_5_3.mp3,"[1, 2, 5, 4, 5, 3, 1]",,1,3,2,4,1,1
+cvyowf,tonic Cs5,fc_IC_accent_5_4.mp3,"[1, 2, 6, 5, 4, 3, 1]",,1,4,1,1,1,1
+cvyowf,tonic Cs5,fc_IC_accent_3_2.mp3,"[1, 2, 6, 3, 2, 3, 1]",,0,4,1,1,1,1
+cvyowf,tonic Cs5,fc_IC_accent_3_1.mp3,"[1, 2, 6, 3, 2, 3, 1]",,0,4,1,1,1,1
+cvyowf,tonic Cs5,fc_IC_default_3_1.mp3,"[1, 2, 6, 3, 2, 5, 3, 1]",,0,4,1,1,0,1
+cvyowf,tonic Cs5,fc_IC_accent_3_3.mp3,"[1, 2, 3, 6, 3, 2, 3, 1]",,1,5,2,2,1,1
+cvyowf,tonic Cs5,fc_IC_accent_3_4.mp3,"[1, 2, 6, 3, 2, 3, 1]",,0,4,1,1,1,1
+cvyowf,tonic Cs5,fc_IC_accent_5_1.mp3,"[1, 2, 6, 5, 4, 5, 3, 1]",,1,4,1,1,1,1
+cvyowf,tonic Cs5,fc_IC_default_5_1.mp3,"[1, 2, 6, 5, 4, 3, 1]",,0,4,1,1,0,1
+cvyowf,tonic Cs5,fc_IC_default_3_3.mp3,"[1, 2, 6, 3, 2, 5, 3, 1]",,1,4,1,1,0,1
+cvyowf,tonic Cs5,fc_IC_default_5_4.mp3,"[1, 2, 6, 5, 4, 3, 1]",,1,4,1,1,0,1
+cvyowf,tonic Cs5,fc_IC_default_5_2.mp3,"[1, 2, 6, 5, 4, 5, 3, 1]",,0,4,1,1,0,1
+cvyowf,tonic Cs5,fc_IC_default_3_2.mp3,"[1, 2, 6, 3, 2, 3, 1]",,1,4,1,1,0,1
+cvyowf,tonic Cs5,fc_IC_default_3_4.mp3,"[1, 2, 6, 3, 2, 3, 1]",,0,4,1,1,0,1
+jvoox5,tonic Cs5,fc_IC_accent_5_3.mp3,"[1, 2, 5, 4, 5, 3, 1]",,1,3,2,4,1,1
+jvoox5,tonic Cs5,fc_IC_default_5_3.mp3,"[1, 3, 6, 5, 4, 3, 1]",,1,4,1,1,0,1
+jvoox5,tonic Cs5,fc_IC_default_5_2.mp3,"[1, 2, 6, 5, 4, 5, 3, 1]",,0,4,1,1,0,1
+jvoox5,tonic Cs5,fc_IC_accent_3_3.mp3,"[1, 2, 3, 6, 3, 2, 3, 1]",,1,5,2,2,1,1
+jvoox5,tonic Cs5,fc_IC_default_3_3.mp3,"[1, 2, 6, 3, 2, 5, 3, 1]",,0,4,1,1,0,1
+jvoox5,tonic Cs5,fc_IC_accent_3_1.mp3,"[1, 2, 6, 3, 2, 3, 1]",,0,4,1,1,1,1
+jvoox5,tonic Cs5,fc_IC_default_3_2.mp3,"[1, 2, 6, 3, 2, 3, 1]",,0,4,1,1,0,1
+jvoox5,tonic Cs5,fc_IC_accent_3_4.mp3,"[1, 2, 6, 3, 2, 3, 1]",,0,4,1,1,1,1
+jvoox5,tonic Cs5,fc_IC_accent_3_2.mp3,"[1, 2, 6, 3, 2, 3, 1]",,0,4,1,1,1,1
+jvoox5,tonic Cs5,fc_IC_accent_5_4.mp3,"[1, 2, 6, 5, 4, 3, 1]",,1,4,1,1,1,1
+jvoox5,tonic Cs5,fc_IC_default_5_4.mp3,"[1, 2, 6, 5, 4, 3, 1]",,1,4,1,1,0,1
+jvoox5,tonic Cs5,fc_IC_accent_5_1.mp3,"[1, 2, 6, 5, 4, 5, 3, 1]",,1,4,1,1,1,1
+jvoox5,tonic Cs5,fc_IC_accent_5_2.mp3,"[1, 3, 6, 5, 4, 5, 3, 1]",,1,4,1,1,1,1
+jvoox5,tonic Cs5,fc_IC_default_5_1.mp3,"[1, 2, 6, 5, 4, 3, 1]",,1,4,1,1,0,1
+jvoox5,tonic Cs5,fc_IC_default_3_4.mp3,"[1, 2, 6, 3, 2, 3, 1]",,0,4,1,1,0,1
+jvoox5,tonic Cs5,fc_IC_default_3_1.mp3,"[1, 2, 6, 3, 2, 5, 3, 1]",,0,4,1,1,0,1
+0b26we,tonic Cs5,fc_IC_default_3_1.mp3,"[1, 2, 6, 3, 2, 5, 3, 1]",,1,4,1,1,0,0
+0b26we,tonic Cs5,fc_IC_accent_5_3.mp3,"[1, 2, 5, 4, 5, 3, 1]",,1,3,2,4,1,0
+0b26we,tonic Cs5,fc_IC_default_5_4.mp3,"[1, 2, 6, 5, 4, 3, 1]",,1,4,1,1,0,0
+0b26we,tonic Cs5,fc_IC_default_5_3.mp3,"[1, 3, 6, 5, 4, 3, 1]",,1,4,1,1,0,0
+0b26we,tonic Cs5,fc_IC_default_5_2.mp3,"[1, 2, 6, 5, 4, 5, 3, 1]",,0,4,1,1,0,0
+0b26we,tonic Cs5,fc_IC_accent_5_4.mp3,"[1, 2, 6, 5, 4, 3, 1]",,0,4,1,1,1,0
+0b26we,tonic Cs5,fc_IC_default_3_2.mp3,"[1, 2, 6, 3, 2, 3, 1]",,0,4,1,1,0,0
+0b26we,tonic Cs5,fc_IC_accent_3_2.mp3,"[1, 2, 6, 3, 2, 3, 1]",,1,4,1,1,1,0
+0b26we,tonic Cs5,fc_IC_default_3_4.mp3,"[1, 2, 6, 3, 2, 3, 1]",,1,4,1,1,0,0
+0b26we,tonic Cs5,fc_IC_accent_3_3.mp3,"[1, 2, 3, 6, 3, 2, 3, 1]",,1,5,2,2,1,0
+0b26we,tonic Cs5,fc_IC_accent_5_1.mp3,"[1, 2, 6, 5, 4, 5, 3, 1]",,1,4,1,1,1,0
+0b26we,tonic Cs5,fc_IC_default_5_1.mp3,"[1, 2, 6, 5, 4, 3, 1]",,0,4,1,1,0,0
+0b26we,tonic Cs5,fc_IC_accent_5_2.mp3,"[1, 3, 6, 5, 4, 5, 3, 1]",,1,4,1,1,1,0
+0b26we,tonic Cs5,fc_IC_default_3_3.mp3,"[1, 2, 6, 3, 2, 5, 3, 1]",,0,4,1,1,0,0
+0b26we,tonic Cs5,fc_IC_accent_3_4.mp3,"[1, 2, 6, 3, 2, 3, 1]",,0,4,1,1,1,0
+0b26we,tonic Cs5,fc_IC_accent_3_1.mp3,"[1, 2, 6, 3, 2, 3, 1]",,0,4,1,1,1,0
+uu9050,tonic Cs5,fc_IC_accent_3_2.mp3,"[1, 2, 6, 3, 2, 3, 1]",,0,4,1,1,1,0
+uu9050,tonic Cs5,fc_IC_default_3_3.mp3,"[1, 2, 6, 3, 2, 5, 3, 1]",,1,4,1,1,0,0
+uu9050,tonic Cs5,fc_IC_default_5_3.mp3,"[1, 3, 6, 5, 4, 3, 1]",,1,4,1,1,0,0
+uu9050,tonic Cs5,fc_IC_accent_5_4.mp3,"[1, 2, 6, 5, 4, 3, 1]",,1,4,1,1,1,0
+uu9050,tonic Cs5,fc_IC_default_3_1.mp3,"[1, 2, 6, 3, 2, 5, 3, 1]",,0,4,1,1,0,0
+uu9050,tonic Cs5,fc_IC_default_5_2.mp3,"[1, 2, 6, 5, 4, 5, 3, 1]",,1,4,1,1,0,0
+uu9050,tonic Cs5,fc_IC_default_3_2.mp3,"[1, 2, 6, 3, 2, 3, 1]",,1,4,1,1,0,0
+uu9050,tonic Cs5,fc_IC_accent_3_3.mp3,"[1, 2, 3, 6, 3, 2, 3, 1]",,0,5,2,2,1,0
+uu9050,tonic Cs5,fc_IC_accent_5_2.mp3,"[1, 3, 6, 5, 4, 5, 3, 1]",,1,4,1,1,1,0
+uu9050,tonic Cs5,fc_IC_accent_3_4.mp3,"[1, 2, 6, 3, 2, 3, 1]",,0,4,1,1,1,0
+uu9050,tonic Cs5,fc_IC_accent_5_3.mp3,"[1, 2, 5, 4, 5, 3, 1]",,1,3,2,4,1,0
+uu9050,tonic Cs5,fc_IC_accent_5_1.mp3,"[1, 2, 6, 5, 4, 5, 3, 1]",,1,4,1,1,1,0
+uu9050,tonic Cs5,fc_IC_default_3_4.mp3,"[1, 2, 6, 3, 2, 3, 1]",,1,4,1,1,0,0
+uu9050,tonic Cs5,fc_IC_default_5_4.mp3,"[1, 2, 6, 5, 4, 3, 1]",,1,4,1,1,0,0
+uu9050,tonic Cs5,fc_IC_accent_3_1.mp3,"[1, 2, 6, 3, 2, 3, 1]",,0,4,1,1,1,0
+uu9050,tonic Cs5,fc_IC_default_5_1.mp3,"[1, 2, 6, 5, 4, 3, 1]",,1,4,1,1,0,0
+s3eylm,tonic Cs5,fc_IC_accent_3_3.mp3,"[1, 2, 3, 6, 3, 2, 3, 1]",,1,5,2,2,1,0
+s3eylm,tonic Cs5,fc_IC_default_3_4.mp3,"[1, 2, 6, 3, 2, 3, 1]",,0,4,1,1,0,0
+s3eylm,tonic Cs5,fc_IC_default_3_1.mp3,"[1, 2, 6, 3, 2, 5, 3, 1]",,0,4,1,1,0,0
+s3eylm,tonic Cs5,fc_IC_accent_5_3.mp3,"[1, 2, 5, 4, 5, 3, 1]",,1,3,2,4,1,0
+s3eylm,tonic Cs5,fc_IC_default_5_3.mp3,"[1, 3, 6, 5, 4, 3, 1]",,1,4,1,1,0,0
+s3eylm,tonic Cs5,fc_IC_accent_5_2.mp3,"[1, 3, 6, 5, 4, 5, 3, 1]",,1,4,1,1,1,0
+s3eylm,tonic Cs5,fc_IC_default_5_2.mp3,"[1, 2, 6, 5, 4, 5, 3, 1]",,0,4,1,1,0,0
+s3eylm,tonic Cs5,fc_IC_default_3_2.mp3,"[1, 2, 6, 3, 2, 3, 1]",,1,4,1,1,0,0
+s3eylm,tonic Cs5,fc_IC_accent_5_1.mp3,"[1, 2, 6, 5, 4, 5, 3, 1]",,1,4,1,1,1,0
+s3eylm,tonic Cs5,fc_IC_default_3_3.mp3,"[1, 2, 6, 3, 2, 5, 3, 1]",,1,4,1,1,0,0
+s3eylm,tonic Cs5,fc_IC_accent_3_1.mp3,"[1, 2, 6, 3, 2, 3, 1]",,1,4,1,1,1,0
+s3eylm,tonic Cs5,fc_IC_accent_3_4.mp3,"[1, 2, 6, 3, 2, 3, 1]",,0,4,1,1,1,0
+s3eylm,tonic Cs5,fc_IC_default_5_1.mp3,"[1, 2, 6, 5, 4, 3, 1]",,1,4,1,1,0,0
+s3eylm,tonic Cs5,fc_IC_accent_3_2.mp3,"[1, 2, 6, 3, 2, 3, 1]",,0,4,1,1,1,0
+s3eylm,tonic Cs5,fc_IC_default_5_4.mp3,"[1, 2, 6, 5, 4, 3, 1]",,1,4,1,1,0,0
+s3eylm,tonic Cs5,fc_IC_accent_5_4.mp3,"[1, 2, 6, 5, 4, 3, 1]",,1,4,1,1,1,0
+nveknx,tonic Cs5,fc_IC_accent_3_4.mp3,"[1, 2, 6, 3, 2, 3, 1]",,1,4,1,1,1,0
+nveknx,tonic Cs5,fc_IC_accent_5_3.mp3,"[1, 2, 5, 4, 5, 3, 1]",,1,3,2,4,1,0
+nveknx,tonic Cs5,fc_IC_default_5_3.mp3,"[1, 3, 6, 5, 4, 3, 1]",,1,4,1,1,0,0
+nveknx,tonic Cs5,fc_IC_default_3_3.mp3,"[1, 2, 6, 3, 2, 5, 3, 1]",,1,4,1,1,0,0
+nveknx,tonic Cs5,fc_IC_accent_5_4.mp3,"[1, 2, 6, 5, 4, 3, 1]",,1,4,1,1,1,0
+nveknx,tonic Cs5,fc_IC_accent_3_3.mp3,"[1, 2, 3, 6, 3, 2, 3, 1]",,1,5,2,2,1,0
+nveknx,tonic Cs5,fc_IC_accent_3_1.mp3,"[1, 2, 6, 3, 2, 3, 1]",,0,4,1,1,1,0
+nveknx,tonic Cs5,fc_IC_accent_3_2.mp3,"[1, 2, 6, 3, 2, 3, 1]",,0,4,1,1,1,0
+nveknx,tonic Cs5,fc_IC_default_5_1.mp3,"[1, 2, 6, 5, 4, 3, 1]",,1,4,1,1,0,0
+nveknx,tonic Cs5,fc_IC_default_5_2.mp3,"[1, 2, 6, 5, 4, 5, 3, 1]",,0,4,1,1,0,0
+nveknx,tonic Cs5,fc_IC_accent_5_2.mp3,"[1, 3, 6, 5, 4, 5, 3, 1]",,1,4,1,1,1,0
+nveknx,tonic Cs5,fc_IC_default_5_4.mp3,"[1, 2, 6, 5, 4, 3, 1]",,1,4,1,1,0,0
+nveknx,tonic Cs5,fc_IC_accent_5_1.mp3,"[1, 2, 6, 5, 4, 5, 3, 1]",,1,4,1,1,1,0
+nveknx,tonic Cs5,fc_IC_default_3_1.mp3,"[1, 2, 6, 3, 2, 5, 3, 1]",,1,4,1,1,0,0
+nveknx,tonic Cs5,fc_IC_default_3_4.mp3,"[1, 2, 6, 3, 2, 3, 1]",,0,4,1,1,0,0
+nveknx,tonic Cs5,fc_IC_default_3_2.mp3,"[1, 2, 6, 3, 2, 3, 1]",,1,4,1,1,0,0
+qeyhrm,tonic Cs5,fc_IC_default_5_4.mp3,"[1, 2, 6, 5, 4, 3, 1]",,0,4,1,1,0,1
+qeyhrm,tonic Cs5,fc_IC_accent_3_4.mp3,"[1, 2, 6, 3, 2, 3, 1]",,0,4,1,1,1,1
+qeyhrm,tonic Cs5,fc_IC_accent_5_3.mp3,"[1, 2, 5, 4, 5, 3, 1]",,1,3,2,4,1,1
+qeyhrm,tonic Cs5,fc_IC_accent_3_3.mp3,"[1, 2, 3, 6, 3, 2, 3, 1]",,0,5,2,2,1,1
+qeyhrm,tonic Cs5,fc_IC_default_5_3.mp3,"[1, 3, 6, 5, 4, 3, 1]",,1,4,1,1,0,1
+qeyhrm,tonic Cs5,fc_IC_default_3_1.mp3,"[1, 2, 6, 3, 2, 5, 3, 1]",,0,4,1,1,0,1
+qeyhrm,tonic Cs5,fc_IC_accent_5_1.mp3,"[1, 2, 6, 5, 4, 5, 3, 1]",,1,4,1,1,1,1
+qeyhrm,tonic Cs5,fc_IC_accent_3_2.mp3,"[1, 2, 6, 3, 2, 3, 1]",,0,4,1,1,1,1
+qeyhrm,tonic Cs5,fc_IC_accent_3_1.mp3,"[1, 2, 6, 3, 2, 3, 1]",,0,4,1,1,1,1
+qeyhrm,tonic Cs5,fc_IC_default_3_2.mp3,"[1, 2, 6, 3, 2, 3, 1]",,0,4,1,1,0,1
+qeyhrm,tonic Cs5,fc_IC_accent_5_2.mp3,"[1, 3, 6, 5, 4, 5, 3, 1]",,1,4,1,1,1,1
+qeyhrm,tonic Cs5,fc_IC_default_3_3.mp3,"[1, 2, 6, 3, 2, 5, 3, 1]",,1,4,1,1,0,1
+qeyhrm,tonic Cs5,fc_IC_default_3_4.mp3,"[1, 2, 6, 3, 2, 3, 1]",,1,4,1,1,0,1
+qeyhrm,tonic Cs5,fc_IC_accent_5_4.mp3,"[1, 2, 6, 5, 4, 3, 1]",,1,4,1,1,1,1
+qeyhrm,tonic Cs5,fc_IC_default_5_1.mp3,"[1, 2, 6, 5, 4, 3, 1]",,1,4,1,1,0,1
+qeyhrm,tonic Cs5,fc_IC_default_5_2.mp3,"[1, 2, 6, 5, 4, 5, 3, 1]",,1,4,1,1,0,1
+7rc4se,tonic Cs5,fc_IC_default_3_2.mp3,"[1, 2, 6, 3, 2, 3, 1]",,1,4,1,1,0,1
+7rc4se,tonic Cs5,fc_IC_accent_5_1.mp3,"[1, 2, 6, 5, 4, 5, 3, 1]",,0,4,1,1,1,1
+7rc4se,tonic Cs5,fc_IC_accent_5_2.mp3,"[1, 3, 6, 5, 4, 5, 3, 1]",,1,4,1,1,1,1
+7rc4se,tonic Cs5,fc_IC_accent_5_3.mp3,"[1, 2, 5, 4, 5, 3, 1]",,0,3,2,4,1,1
+7rc4se,tonic Cs5,fc_IC_default_3_4.mp3,"[1, 2, 6, 3, 2, 3, 1]",,1,4,1,1,0,1
+7rc4se,tonic Cs5,fc_IC_accent_3_1.mp3,"[1, 2, 6, 3, 2, 3, 1]",,1,4,1,1,1,1
+7rc4se,tonic Cs5,fc_IC_accent_3_4.mp3,"[1, 2, 6, 3, 2, 3, 1]",,1,4,1,1,1,1
+7rc4se,tonic Cs5,fc_IC_default_5_3.mp3,"[1, 3, 6, 5, 4, 3, 1]",,0,4,1,1,0,1
+7rc4se,tonic Cs5,fc_IC_default_5_1.mp3,"[1, 2, 6, 5, 4, 3, 1]",,1,4,1,1,0,1
+7rc4se,tonic Cs5,fc_IC_default_3_3.mp3,"[1, 2, 6, 3, 2, 5, 3, 1]",,0,4,1,1,0,1
+7rc4se,tonic Cs5,fc_IC_accent_5_4.mp3,"[1, 2, 6, 5, 4, 3, 1]",,1,4,1,1,1,1
+7rc4se,tonic Cs5,fc_IC_accent_3_3.mp3,"[1, 2, 3, 6, 3, 2, 3, 1]",,0,5,2,2,1,1
+7rc4se,tonic Cs5,fc_IC_accent_3_2.mp3,"[1, 2, 6, 3, 2, 3, 1]",,0,4,1,1,1,1
+7rc4se,tonic Cs5,fc_IC_default_5_4.mp3,"[1, 2, 6, 5, 4, 3, 1]",,1,4,1,1,0,1
+7rc4se,tonic Cs5,fc_IC_default_3_1.mp3,"[1, 2, 6, 3, 2, 5, 3, 1]",,1,4,1,1,0,1
+7rc4se,tonic Cs5,fc_IC_default_5_2.mp3,"[1, 2, 6, 5, 4, 5, 3, 1]",,0,4,1,1,0,1
+m58skb,tonic Cs5,fc_IC_accent_5_1.mp3,"[1, 2, 6, 5, 4, 5, 3, 1]",,1,4,1,1,1,1
+m58skb,tonic Cs5,fc_IC_accent_3_3.mp3,"[1, 2, 3, 6, 3, 2, 3, 1]",,1,5,2,2,1,1
+m58skb,tonic Cs5,fc_IC_default_5_4.mp3,"[1, 2, 6, 5, 4, 3, 1]",,0,4,1,1,0,1
+m58skb,tonic Cs5,fc_IC_default_3_1.mp3,"[1, 2, 6, 3, 2, 5, 3, 1]",,1,4,1,1,0,1
+m58skb,tonic Cs5,fc_IC_accent_3_4.mp3,"[1, 2, 6, 3, 2, 3, 1]",,1,4,1,1,1,1
+m58skb,tonic Cs5,fc_IC_accent_5_2.mp3,"[1, 3, 6, 5, 4, 5, 3, 1]",,0,4,1,1,1,1
+m58skb,tonic Cs5,fc_IC_default_3_4.mp3,"[1, 2, 6, 3, 2, 3, 1]",,1,4,1,1,0,1
+m58skb,tonic Cs5,fc_IC_default_3_3.mp3,"[1, 2, 6, 3, 2, 5, 3, 1]",,0,4,1,1,0,1
+m58skb,tonic Cs5,fc_IC_accent_5_4.mp3,"[1, 2, 6, 5, 4, 3, 1]",,0,4,1,1,1,1
+m58skb,tonic Cs5,fc_IC_accent_3_1.mp3,"[1, 2, 6, 3, 2, 3, 1]",,1,4,1,1,1,1
+m58skb,tonic Cs5,fc_IC_accent_3_2.mp3,"[1, 2, 6, 3, 2, 3, 1]",,1,4,1,1,1,1
+m58skb,tonic Cs5,fc_IC_default_3_2.mp3,"[1, 2, 6, 3, 2, 3, 1]",,1,4,1,1,0,1
+m58skb,tonic Cs5,fc_IC_default_5_1.mp3,"[1, 2, 6, 5, 4, 3, 1]",,0,4,1,1,0,1
+m58skb,tonic Cs5,fc_IC_default_5_3.mp3,"[1, 3, 6, 5, 4, 3, 1]",,1,4,1,1,0,1
+m58skb,tonic Cs5,fc_IC_accent_5_3.mp3,"[1, 2, 5, 4, 5, 3, 1]",,0,3,2,4,1,1
+m58skb,tonic Cs5,fc_IC_default_5_2.mp3,"[1, 2, 6, 5, 4, 5, 3, 1]",,1,4,1,1,0,1
+wzewhd,tonic A4,fc_IC_accent_5_2.mp3,"[1, 2, 6, 5, 4, 5, 3, 1]",,1,4,1,1,1,1
+wzewhd,tonic A4,fc_IC_accent_3_2.mp3,"[1, 2, 6, 3, 2, 5, 3, 1]",,0,4,1,1,1,1
+wzewhd,tonic A4,fc_IC_accent_5_3.mp3,"[1, 2, 6, 5, 4, 5, 3, 1]",,1,4,1,1,1,1
+wzewhd,tonic A4,fc_IC_accent_3_1.mp3,"[1, 2, 6, 3, 2, 5, 3, 1]",,0,4,1,1,1,1
+wzewhd,tonic A4,fc_IC_default_5_1.mp3,"[1, 2, 6, 5, 4, 5, 3, 1]",,1,4,1,1,0,1
+wzewhd,tonic A4,fc_IC_accent_3_3.mp3,"[1, 2, 6, 3, 2, 3, 1]",,0,4,1,1,1,1
+wzewhd,tonic A4,fc_IC_accent_5_1.mp3,"[1, 2, 6, 5, 4, 3, 1]",,0,4,1,1,1,1
+wzewhd,tonic A4,fc_IC_default_3_1.mp3,"[1, 2, 6, 3, 2, 5, 3, 1]",,0,4,1,1,0,1
+wzewhd,tonic A4,fc_IC_accent_3_4.mp3,"[1, 2, 6, 3, 2, 5, 3, 1]",,0,4,1,1,1,1
+wzewhd,tonic A4,fc_IC_default_5_3.mp3,"[1, 2, 6, 5, 4, 5, 3, 1]",,1,4,1,1,0,1
+wzewhd,tonic A4,fc_IC_default_5_4.mp3,"[1, 2, 6, 5, 4, 5, 3, 1]",,1,4,1,1,0,1
+wzewhd,tonic A4,fc_IC_default_3_3.mp3,"[1, 2, 6, 3, 2, 3, 1]",,0,4,1,1,0,1
+wzewhd,tonic A4,fc_IC_default_5_2.mp3,"[1, 2, 6, 5, 4, 5, 3, 1]",,1,4,1,1,0,1
+wzewhd,tonic A4,fc_IC_default_3_4.mp3,"[1, 2, 6, 3, 2, 5, 3, 1]",,0,4,1,1,0,1
+wzewhd,tonic A4,fc_IC_accent_5_4.mp3,"[1, 2, 6, 5, 4, 5, 3, 1]",,1,4,1,1,1,1
+wzewhd,tonic A4,fc_IC_default_3_2.mp3,"[1, 2, 6, 3, 2, 5, 3, 1]",,0,4,1,1,0,1
+azv8u4,tonic A4,fc_IC_default_3_4.mp3,"[1, 2, 6, 3, 2, 5, 3, 1]",,0,4,1,1,0,0
+azv8u4,tonic A4,fc_IC_default_5_4.mp3,"[1, 2, 6, 5, 4, 5, 3, 1]",,1,4,1,1,0,0
+azv8u4,tonic A4,fc_IC_accent_5_4.mp3,"[1, 2, 6, 5, 4, 5, 3, 1]",,1,4,1,1,1,0
+azv8u4,tonic A4,fc_IC_accent_5_1.mp3,"[1, 2, 6, 5, 4, 3, 1]",,1,4,1,1,1,0
+azv8u4,tonic A4,fc_IC_default_3_1.mp3,"[1, 2, 6, 3, 2, 5, 3, 1]",,0,4,1,1,0,0
+azv8u4,tonic A4,fc_IC_accent_3_1.mp3,"[1, 2, 6, 3, 2, 5, 3, 1]",,0,4,1,1,1,0
+azv8u4,tonic A4,fc_IC_accent_5_3.mp3,"[1, 2, 6, 5, 4, 5, 3, 1]",,0,4,1,1,1,0
+azv8u4,tonic A4,fc_IC_default_5_1.mp3,"[1, 2, 6, 5, 4, 5, 3, 1]",,1,4,1,1,0,0
+azv8u4,tonic A4,fc_IC_default_5_2.mp3,"[1, 2, 6, 5, 4, 5, 3, 1]",,0,4,1,1,0,0
+azv8u4,tonic A4,fc_IC_accent_3_2.mp3,"[1, 2, 6, 3, 2, 5, 3, 1]",,0,4,1,1,1,0
+azv8u4,tonic A4,fc_IC_accent_3_4.mp3,"[1, 2, 6, 3, 2, 5, 3, 1]",,0,4,1,1,1,0
+azv8u4,tonic A4,fc_IC_default_5_3.mp3,"[1, 2, 6, 5, 4, 5, 3, 1]",,0,4,1,1,0,0
+azv8u4,tonic A4,fc_IC_accent_5_2.mp3,"[1, 2, 6, 5, 4, 5, 3, 1]",,0,4,1,1,1,0
+azv8u4,tonic A4,fc_IC_default_3_3.mp3,"[1, 2, 6, 3, 2, 3, 1]",,1,4,1,1,0,0
+azv8u4,tonic A4,fc_IC_default_3_2.mp3,"[1, 2, 6, 3, 2, 5, 3, 1]",,0,4,1,1,0,0
+azv8u4,tonic A4,fc_IC_accent_3_3.mp3,"[1, 2, 6, 3, 2, 3, 1]",,1,4,1,1,1,0
+tozh5t,tonic A4,fc_IC_accent_3_1.mp3,"[1, 2, 6, 3, 2, 5, 3, 1]",,1,4,1,1,1,1
+tozh5t,tonic A4,fc_IC_accent_3_4.mp3,"[1, 2, 6, 3, 2, 5, 3, 1]",,0,4,1,1,1,1
+tozh5t,tonic A4,fc_IC_accent_5_1.mp3,"[1, 2, 6, 5, 4, 3, 1]",,1,4,1,1,1,1
+tozh5t,tonic A4,fc_IC_default_3_3.mp3,"[1, 2, 6, 3, 2, 3, 1]",,0,4,1,1,0,1
+tozh5t,tonic A4,fc_IC_default_5_3.mp3,"[1, 2, 6, 5, 4, 5, 3, 1]",,1,4,1,1,0,1
+tozh5t,tonic A4,fc_IC_default_3_1.mp3,"[1, 2, 6, 3, 2, 5, 3, 1]",,0,4,1,1,0,1
+tozh5t,tonic A4,fc_IC_default_5_1.mp3,"[1, 2, 6, 5, 4, 5, 3, 1]",,1,4,1,1,0,1
+tozh5t,tonic A4,fc_IC_default_5_2.mp3,"[1, 2, 6, 5, 4, 5, 3, 1]",,1,4,1,1,0,1
+tozh5t,tonic A4,fc_IC_accent_5_4.mp3,"[1, 2, 6, 5, 4, 5, 3, 1]",,1,4,1,1,1,1
+tozh5t,tonic A4,fc_IC_default_3_4.mp3,"[1, 2, 6, 3, 2, 5, 3, 1]",,0,4,1,1,0,1
+tozh5t,tonic A4,fc_IC_accent_5_2.mp3,"[1, 2, 6, 5, 4, 5, 3, 1]",,1,4,1,1,1,1
+tozh5t,tonic A4,fc_IC_accent_3_2.mp3,"[1, 2, 6, 3, 2, 5, 3, 1]",,0,4,1,1,1,1
+tozh5t,tonic A4,fc_IC_accent_3_3.mp3,"[1, 2, 6, 3, 2, 3, 1]",,1,4,1,1,1,1
+tozh5t,tonic A4,fc_IC_default_3_2.mp3,"[1, 2, 6, 3, 2, 5, 3, 1]",,0,4,1,1,0,1
+tozh5t,tonic A4,fc_IC_default_5_4.mp3,"[1, 2, 6, 5, 4, 5, 3, 1]",,1,4,1,1,0,1
+tozh5t,tonic A4,fc_IC_accent_5_3.mp3,"[1, 2, 6, 5, 4, 5, 3, 1]",,1,4,1,1,1,1
+5oqbe6,tonic A4,fc_IC_accent_3_2.mp3,"[1, 2, 6, 3, 2, 5, 3, 1]",,1,4,1,1,1,0
+5oqbe6,tonic A4,fc_IC_accent_5_2.mp3,"[1, 2, 6, 5, 4, 5, 3, 1]",,1,4,1,1,1,0
+5oqbe6,tonic A4,fc_IC_default_5_1.mp3,"[1, 2, 6, 5, 4, 5, 3, 1]",,0,4,1,1,0,0
+5oqbe6,tonic A4,fc_IC_accent_3_1.mp3,"[1, 2, 6, 3, 2, 5, 3, 1]",,1,4,1,1,1,0
+5oqbe6,tonic A4,fc_IC_default_3_3.mp3,"[1, 2, 6, 3, 2, 3, 1]",,1,4,1,1,0,0
+5oqbe6,tonic A4,fc_IC_accent_5_3.mp3,"[1, 2, 6, 5, 4, 5, 3, 1]",,0,4,1,1,1,0
+5oqbe6,tonic A4,fc_IC_accent_3_3.mp3,"[1, 2, 6, 3, 2, 3, 1]",,1,4,1,1,1,0
+5oqbe6,tonic A4,fc_IC_accent_5_1.mp3,"[1, 2, 6, 5, 4, 3, 1]",,1,4,1,1,1,0
+5oqbe6,tonic A4,fc_IC_default_3_4.mp3,"[1, 2, 6, 3, 2, 5, 3, 1]",,1,4,1,1,0,0
+5oqbe6,tonic A4,fc_IC_accent_3_4.mp3,"[1, 2, 6, 3, 2, 5, 3, 1]",,1,4,1,1,1,0
+5oqbe6,tonic A4,fc_IC_default_5_4.mp3,"[1, 2, 6, 5, 4, 5, 3, 1]",,1,4,1,1,0,0
+5oqbe6,tonic A4,fc_IC_default_5_2.mp3,"[1, 2, 6, 5, 4, 5, 3, 1]",,1,4,1,1,0,0
+5oqbe6,tonic A4,fc_IC_default_3_1.mp3,"[1, 2, 6, 3, 2, 5, 3, 1]",,1,4,1,1,0,0
+5oqbe6,tonic A4,fc_IC_default_3_2.mp3,"[1, 2, 6, 3, 2, 5, 3, 1]",,1,4,1,1,0,0
+5oqbe6,tonic A4,fc_IC_accent_5_4.mp3,"[1, 2, 6, 5, 4, 5, 3, 1]",,0,4,1,1,1,0
+5oqbe6,tonic A4,fc_IC_default_5_3.mp3,"[1, 2, 6, 5, 4, 5, 3, 1]",,0,4,1,1,0,0
+dfhlvp,tonic A4,fc_IC_default_5_2.mp3,"[1, 2, 6, 5, 4, 5, 3, 1]",,1,4,1,1,0,0
+dfhlvp,tonic A4,fc_IC_default_3_3.mp3,"[1, 2, 6, 3, 2, 3, 1]",,1,4,1,1,0,0
+dfhlvp,tonic A4,fc_IC_default_3_4.mp3,"[1, 2, 6, 3, 2, 5, 3, 1]",,0,4,1,1,0,0
+dfhlvp,tonic A4,fc_IC_accent_3_2.mp3,"[1, 2, 6, 3, 2, 5, 3, 1]",,1,4,1,1,1,0
+dfhlvp,tonic A4,fc_IC_default_5_4.mp3,"[1, 2, 6, 5, 4, 5, 3, 1]",,1,4,1,1,0,0
+dfhlvp,tonic A4,fc_IC_default_3_2.mp3,"[1, 2, 6, 3, 2, 5, 3, 1]",,1,4,1,1,0,0
+dfhlvp,tonic A4,fc_IC_default_5_1.mp3,"[1, 2, 6, 5, 4, 5, 3, 1]",,1,4,1,1,0,0
+dfhlvp,tonic A4,fc_IC_accent_3_4.mp3,"[1, 2, 6, 3, 2, 5, 3, 1]",,1,4,1,1,1,0
+dfhlvp,tonic A4,fc_IC_default_3_1.mp3,"[1, 2, 6, 3, 2, 5, 3, 1]",,1,4,1,1,0,0
+dfhlvp,tonic A4,fc_IC_accent_3_3.mp3,"[1, 2, 6, 3, 2, 3, 1]",,1,4,1,1,1,0
+dfhlvp,tonic A4,fc_IC_accent_5_2.mp3,"[1, 2, 6, 5, 4, 5, 3, 1]",,0,4,1,1,1,0
+dfhlvp,tonic A4,fc_IC_accent_3_1.mp3,"[1, 2, 6, 3, 2, 5, 3, 1]",,1,4,1,1,1,0
+dfhlvp,tonic A4,fc_IC_accent_5_4.mp3,"[1, 2, 6, 5, 4, 5, 3, 1]",,0,4,1,1,1,0
+dfhlvp,tonic A4,fc_IC_default_5_3.mp3,"[1, 2, 6, 5, 4, 5, 3, 1]",,0,4,1,1,0,0
+dfhlvp,tonic A4,fc_IC_accent_5_1.mp3,"[1, 2, 6, 5, 4, 3, 1]",,0,4,1,1,1,0
+dfhlvp,tonic A4,fc_IC_accent_5_3.mp3,"[1, 2, 6, 5, 4, 5, 3, 1]",,0,4,1,1,1,0
+7vdumt,tonic A4,fc_IC_accent_3_3.mp3,"[1, 2, 6, 3, 2, 3, 1]",,1,4,1,1,1,0
+7vdumt,tonic A4,fc_IC_accent_3_1.mp3,"[1, 2, 6, 3, 2, 5, 3, 1]",,1,4,1,1,1,0
+7vdumt,tonic A4,fc_IC_default_3_3.mp3,"[1, 2, 6, 3, 2, 3, 1]",,1,4,1,1,0,0
+7vdumt,tonic A4,fc_IC_default_5_4.mp3,"[1, 2, 6, 5, 4, 5, 3, 1]",,1,4,1,1,0,0
+7vdumt,tonic A4,fc_IC_default_3_4.mp3,"[1, 2, 6, 3, 2, 5, 3, 1]",,0,4,1,1,0,0
+7vdumt,tonic A4,fc_IC_default_5_2.mp3,"[1, 2, 6, 5, 4, 5, 3, 1]",,1,4,1,1,0,0
+7vdumt,tonic A4,fc_IC_accent_3_2.mp3,"[1, 2, 6, 3, 2, 5, 3, 1]",,1,4,1,1,1,0
+7vdumt,tonic A4,fc_IC_accent_5_3.mp3,"[1, 2, 6, 5, 4, 5, 3, 1]",,1,4,1,1,1,0
+7vdumt,tonic A4,fc_IC_accent_3_4.mp3,"[1, 2, 6, 3, 2, 5, 3, 1]",,1,4,1,1,1,0
+7vdumt,tonic A4,fc_IC_default_3_2.mp3,"[1, 2, 6, 3, 2, 5, 3, 1]",,0,4,1,1,0,0
+7vdumt,tonic A4,fc_IC_accent_5_4.mp3,"[1, 2, 6, 5, 4, 5, 3, 1]",,1,4,1,1,1,0
+7vdumt,tonic A4,fc_IC_default_5_1.mp3,"[1, 2, 6, 5, 4, 5, 3, 1]",,0,4,1,1,0,0
+7vdumt,tonic A4,fc_IC_accent_5_2.mp3,"[1, 2, 6, 5, 4, 5, 3, 1]",,0,4,1,1,1,0
+7vdumt,tonic A4,fc_IC_accent_5_1.mp3,"[1, 2, 6, 5, 4, 3, 1]",,0,4,1,1,1,0
+7vdumt,tonic A4,fc_IC_default_5_3.mp3,"[1, 2, 6, 5, 4, 5, 3, 1]",,0,4,1,1,0,0
+7vdumt,tonic A4,fc_IC_default_3_1.mp3,"[1, 2, 6, 3, 2, 5, 3, 1]",,1,4,1,1,0,0
+rq9vnf,tonic A4,fc_IC_default_5_1.mp3,"[1, 2, 6, 5, 4, 5, 3, 1]",,1,4,1,1,0,0
+rq9vnf,tonic A4,fc_IC_default_3_2.mp3,"[1, 2, 6, 3, 2, 5, 3, 1]",,0,4,1,1,0,0
+rq9vnf,tonic A4,fc_IC_accent_3_3.mp3,"[1, 2, 6, 3, 2, 3, 1]",,0,4,1,1,1,0
+rq9vnf,tonic A4,fc_IC_accent_3_4.mp3,"[1, 2, 6, 3, 2, 5, 3, 1]",,1,4,1,1,1,0
+rq9vnf,tonic A4,fc_IC_accent_5_3.mp3,"[1, 2, 6, 5, 4, 5, 3, 1]",,1,4,1,1,1,0
+rq9vnf,tonic A4,fc_IC_default_5_3.mp3,"[1, 2, 6, 5, 4, 5, 3, 1]",,0,4,1,1,0,0
+rq9vnf,tonic A4,fc_IC_default_3_4.mp3,"[1, 2, 6, 3, 2, 5, 3, 1]",,0,4,1,1,0,0
+rq9vnf,tonic A4,fc_IC_default_3_1.mp3,"[1, 2, 6, 3, 2, 5, 3, 1]",,1,4,1,1,0,0
+rq9vnf,tonic A4,fc_IC_accent_5_1.mp3,"[1, 2, 6, 5, 4, 3, 1]",,0,4,1,1,1,0
+rq9vnf,tonic A4,fc_IC_accent_3_2.mp3,"[1, 2, 6, 3, 2, 5, 3, 1]",,1,4,1,1,1,0
+rq9vnf,tonic A4,fc_IC_accent_5_4.mp3,"[1, 2, 6, 5, 4, 5, 3, 1]",,0,4,1,1,1,0
+rq9vnf,tonic A4,fc_IC_accent_5_2.mp3,"[1, 2, 6, 5, 4, 5, 3, 1]",,0,4,1,1,1,0
+rq9vnf,tonic A4,fc_IC_default_5_2.mp3,"[1, 2, 6, 5, 4, 5, 3, 1]",,0,4,1,1,0,0
+rq9vnf,tonic A4,fc_IC_default_3_3.mp3,"[1, 2, 6, 3, 2, 3, 1]",,0,4,1,1,0,0
+rq9vnf,tonic A4,fc_IC_default_5_4.mp3,"[1, 2, 6, 5, 4, 5, 3, 1]",,0,4,1,1,0,0
+rq9vnf,tonic A4,fc_IC_accent_3_1.mp3,"[1, 2, 6, 3, 2, 5, 3, 1]",,0,4,1,1,1,0
+hrru95,tonic A4,fc_IC_default_3_1.mp3,"[1, 2, 6, 3, 2, 5, 3, 1]",,1,4,1,1,0,0
+hrru95,tonic A4,fc_IC_accent_5_2.mp3,"[1, 2, 6, 5, 4, 5, 3, 1]",,1,4,1,1,1,0
+hrru95,tonic A4,fc_IC_accent_5_3.mp3,"[1, 2, 6, 5, 4, 5, 3, 1]",,1,4,1,1,1,0
+hrru95,tonic A4,fc_IC_default_3_3.mp3,"[1, 2, 6, 3, 2, 3, 1]",,1,4,1,1,0,0
+hrru95,tonic A4,fc_IC_accent_3_4.mp3,"[1, 2, 6, 3, 2, 5, 3, 1]",,1,4,1,1,1,0
+hrru95,tonic A4,fc_IC_default_3_2.mp3,"[1, 2, 6, 3, 2, 5, 3, 1]",,0,4,1,1,0,0
+hrru95,tonic A4,fc_IC_default_5_3.mp3,"[1, 2, 6, 5, 4, 5, 3, 1]",,1,4,1,1,0,0
+hrru95,tonic A4,fc_IC_default_5_4.mp3,"[1, 2, 6, 5, 4, 5, 3, 1]",,0,4,1,1,0,0
+hrru95,tonic A4,fc_IC_default_5_2.mp3,"[1, 2, 6, 5, 4, 5, 3, 1]",,1,4,1,1,0,0
+hrru95,tonic A4,fc_IC_accent_3_3.mp3,"[1, 2, 6, 3, 2, 3, 1]",,1,4,1,1,1,0
+hrru95,tonic A4,fc_IC_default_5_1.mp3,"[1, 2, 6, 5, 4, 5, 3, 1]",,1,4,1,1,0,0
+hrru95,tonic A4,fc_IC_accent_3_1.mp3,"[1, 2, 6, 3, 2, 5, 3, 1]",,0,4,1,1,1,0
+hrru95,tonic A4,fc_IC_accent_3_2.mp3,"[1, 2, 6, 3, 2, 5, 3, 1]",,1,4,1,1,1,0
+hrru95,tonic A4,fc_IC_accent_5_1.mp3,"[1, 2, 6, 5, 4, 3, 1]",,0,4,1,1,1,0
+hrru95,tonic A4,fc_IC_default_3_4.mp3,"[1, 2, 6, 3, 2, 5, 3, 1]",,0,4,1,1,0,0
+hrru95,tonic A4,fc_IC_accent_5_4.mp3,"[1, 2, 6, 5, 4, 5, 3, 1]",,0,4,1,1,1,0
+ktwue4,tonic A4,fc_IC_accent_5_4.mp3,"[1, 2, 6, 5, 4, 5, 3, 1]",,1,4,1,1,1,1
+ktwue4,tonic A4,fc_IC_accent_3_4.mp3,"[1, 2, 6, 3, 2, 5, 3, 1]",,1,4,1,1,1,1
+ktwue4,tonic A4,fc_IC_default_5_3.mp3,"[1, 2, 6, 5, 4, 5, 3, 1]",,0,4,1,1,0,1
+ktwue4,tonic A4,fc_IC_accent_3_1.mp3,"[1, 2, 6, 3, 2, 5, 3, 1]",,1,4,1,1,1,1
+ktwue4,tonic A4,fc_IC_accent_5_2.mp3,"[1, 2, 6, 5, 4, 5, 3, 1]",,0,4,1,1,1,1
+ktwue4,tonic A4,fc_IC_accent_5_3.mp3,"[1, 2, 6, 5, 4, 5, 3, 1]",,0,4,1,1,1,1
+ktwue4,tonic A4,fc_IC_default_3_3.mp3,"[1, 2, 6, 3, 2, 3, 1]",,1,4,1,1,0,1
+ktwue4,tonic A4,fc_IC_default_3_4.mp3,"[1, 2, 6, 3, 2, 5, 3, 1]",,1,4,1,1,0,1
+ktwue4,tonic A4,fc_IC_default_5_4.mp3,"[1, 2, 6, 5, 4, 5, 3, 1]",,0,4,1,1,0,1
+ktwue4,tonic A4,fc_IC_default_3_1.mp3,"[1, 2, 6, 3, 2, 5, 3, 1]",,1,4,1,1,0,1
+ktwue4,tonic A4,fc_IC_accent_3_3.mp3,"[1, 2, 6, 3, 2, 3, 1]",,1,4,1,1,1,1
+ktwue4,tonic A4,fc_IC_accent_3_2.mp3,"[1, 2, 6, 3, 2, 5, 3, 1]",,1,4,1,1,1,1
+ktwue4,tonic A4,fc_IC_default_5_1.mp3,"[1, 2, 6, 5, 4, 5, 3, 1]",,0,4,1,1,0,1
+ktwue4,tonic A4,fc_IC_default_3_2.mp3,"[1, 2, 6, 3, 2, 5, 3, 1]",,1,4,1,1,0,1
+ktwue4,tonic A4,fc_IC_accent_5_1.mp3,"[1, 2, 6, 5, 4, 3, 1]",,0,4,1,1,1,1
+ktwue4,tonic A4,fc_IC_default_5_2.mp3,"[1, 2, 6, 5, 4, 5, 3, 1]",,0,4,1,1,0,1
+899lar,tonic A4,fc_IC_accent_5_2.mp3,"[1, 2, 6, 5, 4, 5, 3, 1]",,1,4,1,1,1,0
+899lar,tonic A4,fc_IC_default_5_4.mp3,"[1, 2, 6, 5, 4, 5, 3, 1]",,1,4,1,1,0,0
+899lar,tonic A4,fc_IC_default_3_1.mp3,"[1, 2, 6, 3, 2, 5, 3, 1]",,0,4,1,1,0,0
+899lar,tonic A4,fc_IC_default_5_1.mp3,"[1, 2, 6, 5, 4, 5, 3, 1]",,1,4,1,1,0,0
+899lar,tonic A4,fc_IC_accent_3_3.mp3,"[1, 2, 6, 3, 2, 3, 1]",,0,4,1,1,1,0
+899lar,tonic A4,fc_IC_accent_5_3.mp3,"[1, 2, 6, 5, 4, 5, 3, 1]",,1,4,1,1,1,0
+899lar,tonic A4,fc_IC_default_3_3.mp3,"[1, 2, 6, 3, 2, 3, 1]",,0,4,1,1,0,0
+899lar,tonic A4,fc_IC_accent_3_1.mp3,"[1, 2, 6, 3, 2, 5, 3, 1]",,0,4,1,1,1,0
+899lar,tonic A4,fc_IC_accent_5_4.mp3,"[1, 2, 6, 5, 4, 5, 3, 1]",,1,4,1,1,1,0
+899lar,tonic A4,fc_IC_accent_5_1.mp3,"[1, 2, 6, 5, 4, 3, 1]",,0,4,1,1,1,0
+899lar,tonic A4,fc_IC_default_5_2.mp3,"[1, 2, 6, 5, 4, 5, 3, 1]",,0,4,1,1,0,0
+899lar,tonic A4,fc_IC_default_5_3.mp3,"[1, 2, 6, 5, 4, 5, 3, 1]",,1,4,1,1,0,0
+899lar,tonic A4,fc_IC_default_3_4.mp3,"[1, 2, 6, 3, 2, 5, 3, 1]",,0,4,1,1,0,0
+899lar,tonic A4,fc_IC_default_3_2.mp3,"[1, 2, 6, 3, 2, 5, 3, 1]",,0,4,1,1,0,0
+899lar,tonic A4,fc_IC_accent_3_4.mp3,"[1, 2, 6, 3, 2, 5, 3, 1]",,1,4,1,1,1,0
+899lar,tonic A4,fc_IC_accent_3_2.mp3,"[1, 2, 6, 3, 2, 5, 3, 1]",,0,4,1,1,1,0
+uf48fg,tonic A4,fc_IC_default_5_2.mp3,"[1, 2, 6, 5, 4, 5, 3, 1]",,1,4,1,1,0,1
+uf48fg,tonic A4,fc_IC_default_3_4.mp3,"[1, 2, 6, 3, 2, 5, 3, 1]",,0,4,1,1,0,1
+uf48fg,tonic A4,fc_IC_default_3_2.mp3,"[1, 2, 6, 3, 2, 5, 3, 1]",,0,4,1,1,0,1
+uf48fg,tonic A4,fc_IC_accent_5_1.mp3,"[1, 2, 6, 5, 4, 3, 1]",,1,4,1,1,1,1
+uf48fg,tonic A4,fc_IC_default_5_3.mp3,"[1, 2, 6, 5, 4, 5, 3, 1]",,1,4,1,1,0,1
+uf48fg,tonic A4,fc_IC_accent_5_2.mp3,"[1, 2, 6, 5, 4, 5, 3, 1]",,0,4,1,1,1,1
+uf48fg,tonic A4,fc_IC_accent_3_4.mp3,"[1, 2, 6, 3, 2, 5, 3, 1]",,0,4,1,1,1,1
+uf48fg,tonic A4,fc_IC_accent_5_4.mp3,"[1, 2, 6, 5, 4, 5, 3, 1]",,0,4,1,1,1,1
+uf48fg,tonic A4,fc_IC_default_3_1.mp3,"[1, 2, 6, 3, 2, 5, 3, 1]",,0,4,1,1,0,1
+uf48fg,tonic A4,fc_IC_accent_3_1.mp3,"[1, 2, 6, 3, 2, 5, 3, 1]",,0,4,1,1,1,1
+uf48fg,tonic A4,fc_IC_default_5_1.mp3,"[1, 2, 6, 5, 4, 5, 3, 1]",,0,4,1,1,0,1
+uf48fg,tonic A4,fc_IC_accent_3_3.mp3,"[1, 2, 6, 3, 2, 3, 1]",,0,4,1,1,1,1
+uf48fg,tonic A4,fc_IC_accent_5_3.mp3,"[1, 2, 6, 5, 4, 5, 3, 1]",,0,4,1,1,1,1
+uf48fg,tonic A4,fc_IC_accent_3_2.mp3,"[1, 2, 6, 3, 2, 5, 3, 1]",,0,4,1,1,1,1
+uf48fg,tonic A4,fc_IC_default_3_3.mp3,"[1, 2, 6, 3, 2, 3, 1]",,1,4,1,1,0,1
+uf48fg,tonic A4,fc_IC_default_5_4.mp3,"[1, 2, 6, 5, 4, 5, 3, 1]",,0,4,1,1,0,1
+bdcpw0,tonic A4,fc_IC_accent_5_2.mp3,"[1, 2, 6, 5, 4, 5, 3, 1]",,1,4,1,1,1,0
+bdcpw0,tonic A4,fc_IC_default_5_2.mp3,"[1, 2, 6, 5, 4, 5, 3, 1]",,1,4,1,1,0,0
+bdcpw0,tonic A4,fc_IC_default_3_4.mp3,"[1, 2, 6, 3, 2, 5, 3, 1]",,0,4,1,1,0,0
+bdcpw0,tonic A4,fc_IC_accent_3_2.mp3,"[1, 2, 6, 3, 2, 5, 3, 1]",,1,4,1,1,1,0
+bdcpw0,tonic A4,fc_IC_accent_5_3.mp3,"[1, 2, 6, 5, 4, 5, 3, 1]",,0,4,1,1,1,0
+bdcpw0,tonic A4,fc_IC_accent_3_1.mp3,"[1, 2, 6, 3, 2, 5, 3, 1]",,1,4,1,1,1,0
+bdcpw0,tonic A4,fc_IC_accent_3_3.mp3,"[1, 2, 6, 3, 2, 3, 1]",,0,4,1,1,1,0
+bdcpw0,tonic A4,fc_IC_default_3_2.mp3,"[1, 2, 6, 3, 2, 5, 3, 1]",,0,4,1,1,0,0
+bdcpw0,tonic A4,fc_IC_default_5_1.mp3,"[1, 2, 6, 5, 4, 5, 3, 1]",,1,4,1,1,0,0
+bdcpw0,tonic A4,fc_IC_accent_5_1.mp3,"[1, 2, 6, 5, 4, 3, 1]",,0,4,1,1,1,0
+bdcpw0,tonic A4,fc_IC_default_3_3.mp3,"[1, 2, 6, 3, 2, 3, 1]",,0,4,1,1,0,0
+bdcpw0,tonic A4,fc_IC_default_5_4.mp3,"[1, 2, 6, 5, 4, 5, 3, 1]",,1,4,1,1,0,0
+bdcpw0,tonic A4,fc_IC_accent_5_4.mp3,"[1, 2, 6, 5, 4, 5, 3, 1]",,0,4,1,1,1,0
+bdcpw0,tonic A4,fc_IC_default_5_3.mp3,"[1, 2, 6, 5, 4, 5, 3, 1]",,0,4,1,1,0,0
+bdcpw0,tonic A4,fc_IC_default_3_1.mp3,"[1, 2, 6, 3, 2, 5, 3, 1]",,0,4,1,1,0,0
+bdcpw0,tonic A4,fc_IC_accent_3_4.mp3,"[1, 2, 6, 3, 2, 5, 3, 1]",,1,4,1,1,1,0
+87o3mz,tonic Bb4,fc_IC_accent_5_1.mp3,"[1, 2, 6, 5, 4, 3, 1]",,1,4,1,1,1,1
+87o3mz,tonic Bb4,fc_IC_accent_3_1.mp3,"[1, 3, 6, 3, 2, 3, 1]",,0,4,1,1,1,1
+87o3mz,tonic Bb4,fc_IC_accent_5_4.mp3,"[1, 3, 6, 5, 4, 5, 3, 1]",,1,4,1,1,1,1
+87o3mz,tonic Bb4,fc_IC_accent_3_2.mp3,"[1, 2, 6, 3, 2, 5, 3, 1]",,0,4,1,1,1,1
+87o3mz,tonic Bb4,fc_IC_default_5_1.mp3,"[1, 2, 6, 5, 4, 5, 3, 1]",,1,4,1,1,0,1
+87o3mz,tonic Bb4,fc_IC_default_5_3.mp3,"[1, 2, 6, 5, 4, 3, 1]",,1,4,1,1,0,1
+87o3mz,tonic Bb4,fc_IC_default_3_3.mp3,"[1, 2, 6, 3, 2, 3, 1]",,1,4,1,1,0,1
+87o3mz,tonic Bb4,fc_IC_default_3_1.mp3,"[1, 2, 3, 6, 3, 2, 3, 1]",,1,5,2,2,0,1
+87o3mz,tonic Bb4,fc_IC_accent_3_4.mp3,"[1, 2, 6, 3, 2, 3, 1]",,1,4,1,1,1,1
+87o3mz,tonic Bb4,fc_IC_default_3_2.mp3,"[1, 2, 6, 3, 2, 3, 1]",,1,4,1,1,0,1
+87o3mz,tonic Bb4,fc_IC_default_3_4.mp3,"[1, 2, 6, 3, 2, 5, 3, 1]",,1,4,1,1,0,1
+87o3mz,tonic Bb4,fc_IC_accent_5_3.mp3,"[1, 2, 6, 5, 4, 3, 1]",,1,4,1,1,1,1
+87o3mz,tonic Bb4,fc_IC_accent_3_3.mp3,"[1, 2, 6, 3, 2, 5, 3, 1]",,1,4,1,1,1,1
+87o3mz,tonic Bb4,fc_IC_default_5_2.mp3,"[1, 2, 6, 5, 4, 3, 1]",,1,4,1,1,0,1
+87o3mz,tonic Bb4,fc_IC_default_5_4.mp3,"[1, 2, 6, 5, 4, 5, 3, 1]",,1,4,1,1,0,1
+87o3mz,tonic Bb4,fc_IC_accent_5_2.mp3,"[1, 2, 6, 5, 4, 3, 1]",,1,4,1,1,1,1
+n727gy,tonic Bb4,fc_IC_accent_5_4.mp3,"[1, 3, 6, 5, 4, 5, 3, 1]",,1,4,1,1,1,0
+n727gy,tonic Bb4,fc_IC_default_5_1.mp3,"[1, 2, 6, 5, 4, 5, 3, 1]",,1,4,1,1,0,0
+n727gy,tonic Bb4,fc_IC_default_5_2.mp3,"[1, 2, 6, 5, 4, 3, 1]",,0,4,1,1,0,0
+n727gy,tonic Bb4,fc_IC_default_5_4.mp3,"[1, 2, 6, 5, 4, 5, 3, 1]",,1,4,1,1,0,0
+n727gy,tonic Bb4,fc_IC_default_5_3.mp3,"[1, 2, 6, 5, 4, 3, 1]",,0,4,1,1,0,0
+n727gy,tonic Bb4,fc_IC_default_3_2.mp3,"[1, 2, 6, 3, 2, 3, 1]",,1,4,1,1,0,0
+n727gy,tonic Bb4,fc_IC_default_3_4.mp3,"[1, 2, 6, 3, 2, 5, 3, 1]",,0,4,1,1,0,0
+n727gy,tonic Bb4,fc_IC_default_3_3.mp3,"[1, 2, 6, 3, 2, 3, 1]",,1,4,1,1,0,0
+n727gy,tonic Bb4,fc_IC_accent_5_3.mp3,"[1, 2, 6, 5, 4, 3, 1]",,1,4,1,1,1,0
+n727gy,tonic Bb4,fc_IC_accent_3_1.mp3,"[1, 3, 6, 3, 2, 3, 1]",,1,4,1,1,1,0
+n727gy,tonic Bb4,fc_IC_default_3_1.mp3,"[1, 2, 3, 6, 3, 2, 3, 1]",,0,5,2,2,0,0
+n727gy,tonic Bb4,fc_IC_accent_5_2.mp3,"[1, 2, 6, 5, 4, 3, 1]",,1,4,1,1,1,0
+n727gy,tonic Bb4,fc_IC_accent_3_3.mp3,"[1, 2, 6, 3, 2, 5, 3, 1]",,0,4,1,1,1,0
+n727gy,tonic Bb4,fc_IC_accent_3_2.mp3,"[1, 2, 6, 3, 2, 5, 3, 1]",,1,4,1,1,1,0
+n727gy,tonic Bb4,fc_IC_accent_3_4.mp3,"[1, 2, 6, 3, 2, 3, 1]",,1,4,1,1,1,0
+n727gy,tonic Bb4,fc_IC_accent_5_1.mp3,"[1, 2, 6, 5, 4, 3, 1]",,0,4,1,1,1,0
+c27twk,tonic Bb4,fc_IC_default_3_3.mp3,"[1, 2, 6, 3, 2, 3, 1]",,1,4,1,1,0,0
+c27twk,tonic Bb4,fc_IC_accent_3_2.mp3,"[1, 2, 6, 3, 2, 5, 3, 1]",,0,4,1,1,1,0
+c27twk,tonic Bb4,fc_IC_default_3_1.mp3,"[1, 2, 3, 6, 3, 2, 3, 1]",,1,5,2,2,0,0
+c27twk,tonic Bb4,fc_IC_accent_3_4.mp3,"[1, 2, 6, 3, 2, 3, 1]",,1,4,1,1,1,0
+c27twk,tonic Bb4,fc_IC_default_5_4.mp3,"[1, 2, 6, 5, 4, 5, 3, 1]",,0,4,1,1,0,0
+c27twk,tonic Bb4,fc_IC_accent_5_3.mp3,"[1, 2, 6, 5, 4, 3, 1]",,1,4,1,1,1,0
+c27twk,tonic Bb4,fc_IC_default_5_2.mp3,"[1, 2, 6, 5, 4, 3, 1]",,1,4,1,1,0,0
+c27twk,tonic Bb4,fc_IC_accent_3_1.mp3,"[1, 3, 6, 3, 2, 3, 1]",,1,4,1,1,1,0
+c27twk,tonic Bb4,fc_IC_accent_5_2.mp3,"[1, 2, 6, 5, 4, 3, 1]",,0,4,1,1,1,0
+c27twk,tonic Bb4,fc_IC_default_5_3.mp3,"[1, 2, 6, 5, 4, 3, 1]",,0,4,1,1,0,0
+c27twk,tonic Bb4,fc_IC_accent_5_1.mp3,"[1, 2, 6, 5, 4, 3, 1]",,0,4,1,1,1,0
+c27twk,tonic Bb4,fc_IC_default_3_2.mp3,"[1, 2, 6, 3, 2, 3, 1]",,1,4,1,1,0,0
+c27twk,tonic Bb4,fc_IC_accent_5_4.mp3,"[1, 3, 6, 5, 4, 5, 3, 1]",,0,4,1,1,1,0
+c27twk,tonic Bb4,fc_IC_default_5_1.mp3,"[1, 2, 6, 5, 4, 5, 3, 1]",,0,4,1,1,0,0
+c27twk,tonic Bb4,fc_IC_default_3_4.mp3,"[1, 2, 6, 3, 2, 5, 3, 1]",,0,4,1,1,0,0
+c27twk,tonic Bb4,fc_IC_accent_3_3.mp3,"[1, 2, 6, 3, 2, 5, 3, 1]",,1,4,1,1,1,0
+hljjmo,tonic Bb4,fc_IC_default_3_2.mp3,"[1, 2, 6, 3, 2, 3, 1]",,1,4,1,1,0,1
+hljjmo,tonic Bb4,fc_IC_accent_5_3.mp3,"[1, 2, 6, 5, 4, 3, 1]",,0,4,1,1,1,1
+hljjmo,tonic Bb4,fc_IC_default_5_2.mp3,"[1, 2, 6, 5, 4, 3, 1]",,0,4,1,1,0,1
+hljjmo,tonic Bb4,fc_IC_accent_3_2.mp3,"[1, 2, 6, 3, 2, 5, 3, 1]",,1,4,1,1,1,1
+hljjmo,tonic Bb4,fc_IC_default_3_4.mp3,"[1, 2, 6, 3, 2, 5, 3, 1]",,0,4,1,1,0,1
+hljjmo,tonic Bb4,fc_IC_default_5_1.mp3,"[1, 2, 6, 5, 4, 5, 3, 1]",,0,4,1,1,0,1
+hljjmo,tonic Bb4,fc_IC_accent_5_1.mp3,"[1, 2, 6, 5, 4, 3, 1]",,1,4,1,1,1,1
+hljjmo,tonic Bb4,fc_IC_default_5_3.mp3,"[1, 2, 6, 5, 4, 3, 1]",,0,4,1,1,0,1
+hljjmo,tonic Bb4,fc_IC_accent_3_4.mp3,"[1, 2, 6, 3, 2, 3, 1]",,0,4,1,1,1,1
+hljjmo,tonic Bb4,fc_IC_default_3_3.mp3,"[1, 2, 6, 3, 2, 3, 1]",,0,4,1,1,0,1
+hljjmo,tonic Bb4,fc_IC_accent_5_2.mp3,"[1, 2, 6, 5, 4, 3, 1]",,1,4,1,1,1,1
+hljjmo,tonic Bb4,fc_IC_default_5_4.mp3,"[1, 2, 6, 5, 4, 5, 3, 1]",,0,4,1,1,0,1
+hljjmo,tonic Bb4,fc_IC_accent_3_3.mp3,"[1, 2, 6, 3, 2, 5, 3, 1]",,0,4,1,1,1,1
+hljjmo,tonic Bb4,fc_IC_accent_5_4.mp3,"[1, 3, 6, 5, 4, 5, 3, 1]",,0,4,1,1,1,1
+hljjmo,tonic Bb4,fc_IC_default_3_1.mp3,"[1, 2, 3, 6, 3, 2, 3, 1]",,0,5,2,2,0,1
+hljjmo,tonic Bb4,fc_IC_accent_3_1.mp3,"[1, 3, 6, 3, 2, 3, 1]",,1,4,1,1,1,1
+8rmmbt,tonic Bb4,fc_IC_default_5_4.mp3,"[1, 2, 6, 5, 4, 5, 3, 1]",,0,4,1,1,0,0
+8rmmbt,tonic Bb4,fc_IC_default_3_2.mp3,"[1, 2, 6, 3, 2, 3, 1]",,0,4,1,1,0,0
+8rmmbt,tonic Bb4,fc_IC_accent_3_1.mp3,"[1, 3, 6, 3, 2, 3, 1]",,1,4,1,1,1,0
+8rmmbt,tonic Bb4,fc_IC_accent_5_1.mp3,"[1, 2, 6, 5, 4, 3, 1]",,1,4,1,1,1,0
+8rmmbt,tonic Bb4,fc_IC_default_5_2.mp3,"[1, 2, 6, 5, 4, 3, 1]",,1,4,1,1,0,0
+8rmmbt,tonic Bb4,fc_IC_default_3_4.mp3,"[1, 2, 6, 3, 2, 5, 3, 1]",,0,4,1,1,0,0
+8rmmbt,tonic Bb4,fc_IC_accent_5_4.mp3,"[1, 3, 6, 5, 4, 5, 3, 1]",,0,4,1,1,1,0
+8rmmbt,tonic Bb4,fc_IC_default_5_1.mp3,"[1, 2, 6, 5, 4, 5, 3, 1]",,1,4,1,1,0,0
+8rmmbt,tonic Bb4,fc_IC_accent_3_4.mp3,"[1, 2, 6, 3, 2, 3, 1]",,1,4,1,1,1,0
+8rmmbt,tonic Bb4,fc_IC_default_3_1.mp3,"[1, 2, 3, 6, 3, 2, 3, 1]",,1,5,2,2,0,0
+8rmmbt,tonic Bb4,fc_IC_accent_5_3.mp3,"[1, 2, 6, 5, 4, 3, 1]",,0,4,1,1,1,0
+8rmmbt,tonic Bb4,fc_IC_default_5_3.mp3,"[1, 2, 6, 5, 4, 3, 1]",,1,4,1,1,0,0
+8rmmbt,tonic Bb4,fc_IC_accent_3_3.mp3,"[1, 2, 6, 3, 2, 5, 3, 1]",,1,4,1,1,1,0
+8rmmbt,tonic Bb4,fc_IC_accent_5_2.mp3,"[1, 2, 6, 5, 4, 3, 1]",,1,4,1,1,1,0
+8rmmbt,tonic Bb4,fc_IC_accent_3_2.mp3,"[1, 2, 6, 3, 2, 5, 3, 1]",,0,4,1,1,1,0
+8rmmbt,tonic Bb4,fc_IC_default_3_3.mp3,"[1, 2, 6, 3, 2, 3, 1]",,0,4,1,1,0,0
+54kfmx,tonic Bb4,fc_IC_default_5_2.mp3,"[1, 2, 6, 5, 4, 3, 1]",,1,4,1,1,0,0
+54kfmx,tonic Bb4,fc_IC_accent_5_2.mp3,"[1, 2, 6, 5, 4, 3, 1]",,1,4,1,1,1,0
+54kfmx,tonic Bb4,fc_IC_default_3_2.mp3,"[1, 2, 6, 3, 2, 3, 1]",,1,4,1,1,0,0
+54kfmx,tonic Bb4,fc_IC_default_3_1.mp3,"[1, 2, 3, 6, 3, 2, 3, 1]",,1,5,2,2,0,0
+54kfmx,tonic Bb4,fc_IC_accent_3_1.mp3,"[1, 3, 6, 3, 2, 3, 1]",,0,4,1,1,1,0
+54kfmx,tonic Bb4,fc_IC_accent_3_4.mp3,"[1, 2, 6, 3, 2, 3, 1]",,0,4,1,1,1,0
+54kfmx,tonic Bb4,fc_IC_accent_3_3.mp3,"[1, 2, 6, 3, 2, 5, 3, 1]",,0,4,1,1,1,0
+54kfmx,tonic Bb4,fc_IC_default_5_1.mp3,"[1, 2, 6, 5, 4, 5, 3, 1]",,1,4,1,1,0,0
+54kfmx,tonic Bb4,fc_IC_accent_5_1.mp3,"[1, 2, 6, 5, 4, 3, 1]",,1,4,1,1,1,0
+54kfmx,tonic Bb4,fc_IC_accent_3_2.mp3,"[1, 2, 6, 3, 2, 5, 3, 1]",,0,4,1,1,1,0
+54kfmx,tonic Bb4,fc_IC_default_5_4.mp3,"[1, 2, 6, 5, 4, 5, 3, 1]",,1,4,1,1,0,0
+54kfmx,tonic Bb4,fc_IC_default_3_3.mp3,"[1, 2, 6, 3, 2, 3, 1]",,1,4,1,1,0,0
+54kfmx,tonic Bb4,fc_IC_default_5_3.mp3,"[1, 2, 6, 5, 4, 3, 1]",,1,4,1,1,0,0
+54kfmx,tonic Bb4,fc_IC_accent_5_3.mp3,"[1, 2, 6, 5, 4, 3, 1]",,1,4,1,1,1,0
+54kfmx,tonic Bb4,fc_IC_default_3_4.mp3,"[1, 2, 6, 3, 2, 5, 3, 1]",,0,4,1,1,0,0
+54kfmx,tonic Bb4,fc_IC_accent_5_4.mp3,"[1, 3, 6, 5, 4, 5, 3, 1]",,1,4,1,1,1,0
+awcp74,tonic Bb4,fc_IC_accent_3_2.mp3,"[1, 2, 6, 3, 2, 5, 3, 1]",,0,4,1,1,1,0
+awcp74,tonic Bb4,fc_IC_default_5_4.mp3,"[1, 2, 6, 5, 4, 5, 3, 1]",,1,4,1,1,0,0
+awcp74,tonic Bb4,fc_IC_accent_3_4.mp3,"[1, 2, 6, 3, 2, 3, 1]",,1,4,1,1,1,0
+awcp74,tonic Bb4,fc_IC_accent_5_1.mp3,"[1, 2, 6, 5, 4, 3, 1]",,1,4,1,1,1,0
+awcp74,tonic Bb4,fc_IC_default_5_3.mp3,"[1, 2, 6, 5, 4, 3, 1]",,0,4,1,1,0,0
+awcp74,tonic Bb4,fc_IC_default_3_4.mp3,"[1, 2, 6, 3, 2, 5, 3, 1]",,1,4,1,1,0,0
+awcp74,tonic Bb4,fc_IC_default_3_3.mp3,"[1, 2, 6, 3, 2, 3, 1]",,0,4,1,1,0,0
+awcp74,tonic Bb4,fc_IC_accent_3_3.mp3,"[1, 2, 6, 3, 2, 5, 3, 1]",,0,4,1,1,1,0
+awcp74,tonic Bb4,fc_IC_accent_5_2.mp3,"[1, 2, 6, 5, 4, 3, 1]",,1,4,1,1,1,0
+awcp74,tonic Bb4,fc_IC_default_5_2.mp3,"[1, 2, 6, 5, 4, 3, 1]",,0,4,1,1,0,0
+awcp74,tonic Bb4,fc_IC_accent_5_3.mp3,"[1, 2, 6, 5, 4, 3, 1]",,1,4,1,1,1,0
+awcp74,tonic Bb4,fc_IC_accent_3_1.mp3,"[1, 3, 6, 3, 2, 3, 1]",,0,4,1,1,1,0
+awcp74,tonic Bb4,fc_IC_default_3_1.mp3,"[1, 2, 3, 6, 3, 2, 3, 1]",,0,5,2,2,0,0
+awcp74,tonic Bb4,fc_IC_default_3_2.mp3,"[1, 2, 6, 3, 2, 3, 1]",,0,4,1,1,0,0
+awcp74,tonic Bb4,fc_IC_accent_5_4.mp3,"[1, 3, 6, 5, 4, 5, 3, 1]",,1,4,1,1,1,0
+awcp74,tonic Bb4,fc_IC_default_5_1.mp3,"[1, 2, 6, 5, 4, 5, 3, 1]",,0,4,1,1,0,0
+3bx7hg,tonic Bb4,fc_IC_default_3_3.mp3,"[1, 2, 6, 3, 2, 3, 1]",,0,4,1,1,0,0
+3bx7hg,tonic Bb4,fc_IC_default_5_3.mp3,"[1, 2, 6, 5, 4, 3, 1]",,1,4,1,1,0,0
+3bx7hg,tonic Bb4,fc_IC_accent_5_4.mp3,"[1, 3, 6, 5, 4, 5, 3, 1]",,0,4,1,1,1,0
+3bx7hg,tonic Bb4,fc_IC_default_3_4.mp3,"[1, 2, 6, 3, 2, 5, 3, 1]",,0,4,1,1,0,0
+3bx7hg,tonic Bb4,fc_IC_accent_5_2.mp3,"[1, 2, 6, 5, 4, 3, 1]",,0,4,1,1,1,0
+3bx7hg,tonic Bb4,fc_IC_default_5_2.mp3,"[1, 2, 6, 5, 4, 3, 1]",,0,4,1,1,0,0
+3bx7hg,tonic Bb4,fc_IC_accent_3_3.mp3,"[1, 2, 6, 3, 2, 5, 3, 1]",,0,4,1,1,1,0
+3bx7hg,tonic Bb4,fc_IC_accent_5_3.mp3,"[1, 2, 6, 5, 4, 3, 1]",,0,4,1,1,1,0
+3bx7hg,tonic Bb4,fc_IC_accent_5_1.mp3,"[1, 2, 6, 5, 4, 3, 1]",,1,4,1,1,1,0
+3bx7hg,tonic Bb4,fc_IC_default_3_2.mp3,"[1, 2, 6, 3, 2, 3, 1]",,1,4,1,1,0,0
+3bx7hg,tonic Bb4,fc_IC_default_3_1.mp3,"[1, 2, 3, 6, 3, 2, 3, 1]",,1,5,2,2,0,0
+3bx7hg,tonic Bb4,fc_IC_default_5_4.mp3,"[1, 2, 6, 5, 4, 5, 3, 1]",,0,4,1,1,0,0
+3bx7hg,tonic Bb4,fc_IC_accent_3_2.mp3,"[1, 2, 6, 3, 2, 5, 3, 1]",,0,4,1,1,1,0
+3bx7hg,tonic Bb4,fc_IC_accent_3_1.mp3,"[1, 3, 6, 3, 2, 3, 1]",,1,4,1,1,1,0
+3bx7hg,tonic Bb4,fc_IC_default_5_1.mp3,"[1, 2, 6, 5, 4, 5, 3, 1]",,1,4,1,1,0,0
+3bx7hg,tonic Bb4,fc_IC_accent_3_4.mp3,"[1, 2, 6, 3, 2, 3, 1]",,1,4,1,1,1,0
+qnqpy5,tonic Bb4,fc_IC_default_5_3.mp3,"[1, 2, 6, 5, 4, 3, 1]",,0,4,1,1,0,0
+qnqpy5,tonic Bb4,fc_IC_accent_3_3.mp3,"[1, 2, 6, 3, 2, 5, 3, 1]",,0,4,1,1,1,0
+qnqpy5,tonic Bb4,fc_IC_default_3_3.mp3,"[1, 2, 6, 3, 2, 3, 1]",,0,4,1,1,0,0
+qnqpy5,tonic Bb4,fc_IC_accent_5_3.mp3,"[1, 2, 6, 5, 4, 3, 1]",,0,4,1,1,1,0
+qnqpy5,tonic Bb4,fc_IC_default_3_2.mp3,"[1, 2, 6, 3, 2, 3, 1]",,1,4,1,1,0,0
+qnqpy5,tonic Bb4,fc_IC_default_5_4.mp3,"[1, 2, 6, 5, 4, 5, 3, 1]",,0,4,1,1,0,0
+qnqpy5,tonic Bb4,fc_IC_accent_5_2.mp3,"[1, 2, 6, 5, 4, 3, 1]",,1,4,1,1,1,0
+qnqpy5,tonic Bb4,fc_IC_accent_3_2.mp3,"[1, 2, 6, 3, 2, 5, 3, 1]",,1,4,1,1,1,0
+qnqpy5,tonic Bb4,fc_IC_accent_5_1.mp3,"[1, 2, 6, 5, 4, 3, 1]",,0,4,1,1,1,0
+qnqpy5,tonic Bb4,fc_IC_default_5_2.mp3,"[1, 2, 6, 5, 4, 3, 1]",,1,4,1,1,0,0
+qnqpy5,tonic Bb4,fc_IC_default_5_1.mp3,"[1, 2, 6, 5, 4, 5, 3, 1]",,0,4,1,1,0,0
+qnqpy5,tonic Bb4,fc_IC_accent_3_4.mp3,"[1, 2, 6, 3, 2, 3, 1]",,0,4,1,1,1,0
+qnqpy5,tonic Bb4,fc_IC_default_3_4.mp3,"[1, 2, 6, 3, 2, 5, 3, 1]",,0,4,1,1,0,0
+qnqpy5,tonic Bb4,fc_IC_accent_3_1.mp3,"[1, 3, 6, 3, 2, 3, 1]",,0,4,1,1,1,0
+qnqpy5,tonic Bb4,fc_IC_accent_5_4.mp3,"[1, 3, 6, 5, 4, 5, 3, 1]",,0,4,1,1,1,0
+qnqpy5,tonic Bb4,fc_IC_default_3_1.mp3,"[1, 2, 3, 6, 3, 2, 3, 1]",,1,5,2,2,0,0
+47gbpj,tonic Bb4,fc_IC_default_5_4.mp3,"[1, 2, 6, 5, 4, 5, 3, 1]",,1,4,1,1,0,0
+47gbpj,tonic Bb4,fc_IC_accent_3_2.mp3,"[1, 2, 6, 3, 2, 5, 3, 1]",,0,4,1,1,1,0
+47gbpj,tonic Bb4,fc_IC_accent_5_3.mp3,"[1, 2, 6, 5, 4, 3, 1]",,0,4,1,1,1,0
+47gbpj,tonic Bb4,fc_IC_default_5_1.mp3,"[1, 2, 6, 5, 4, 5, 3, 1]",,0,4,1,1,0,0
+47gbpj,tonic Bb4,fc_IC_accent_3_3.mp3,"[1, 2, 6, 3, 2, 5, 3, 1]",,1,4,1,1,1,0
+47gbpj,tonic Bb4,fc_IC_accent_5_1.mp3,"[1, 2, 6, 5, 4, 3, 1]",,1,4,1,1,1,0
+47gbpj,tonic Bb4,fc_IC_default_5_2.mp3,"[1, 2, 6, 5, 4, 3, 1]",,0,4,1,1,0,0
+47gbpj,tonic Bb4,fc_IC_default_3_2.mp3,"[1, 2, 6, 3, 2, 3, 1]",,1,4,1,1,0,0
+47gbpj,tonic Bb4,fc_IC_accent_3_4.mp3,"[1, 2, 6, 3, 2, 3, 1]",,1,4,1,1,1,0
+47gbpj,tonic Bb4,fc_IC_accent_3_1.mp3,"[1, 3, 6, 3, 2, 3, 1]",,1,4,1,1,1,0
+47gbpj,tonic Bb4,fc_IC_default_3_3.mp3,"[1, 2, 6, 3, 2, 3, 1]",,1,4,1,1,0,0
+47gbpj,tonic Bb4,fc_IC_default_5_3.mp3,"[1, 2, 6, 5, 4, 3, 1]",,0,4,1,1,0,0
+47gbpj,tonic Bb4,fc_IC_default_3_4.mp3,"[1, 2, 6, 3, 2, 5, 3, 1]",,0,4,1,1,0,0
+47gbpj,tonic Bb4,fc_IC_accent_5_2.mp3,"[1, 2, 6, 5, 4, 3, 1]",,1,4,1,1,1,0
+47gbpj,tonic Bb4,fc_IC_accent_5_4.mp3,"[1, 3, 6, 5, 4, 5, 3, 1]",,1,4,1,1,1,0
+47gbpj,tonic Bb4,fc_IC_default_3_1.mp3,"[1, 2, 3, 6, 3, 2, 3, 1]",,0,5,2,2,0,0
+kkm9yc,tonic Bb4,fc_IC_default_3_4.mp3,"[1, 2, 6, 3, 2, 5, 3, 1]",,0,4,1,1,0,0
+kkm9yc,tonic Bb4,fc_IC_default_5_1.mp3,"[1, 2, 6, 5, 4, 5, 3, 1]",,0,4,1,1,0,0
+kkm9yc,tonic Bb4,fc_IC_default_3_3.mp3,"[1, 2, 6, 3, 2, 3, 1]",,0,4,1,1,0,0
+kkm9yc,tonic Bb4,fc_IC_accent_3_3.mp3,"[1, 2, 6, 3, 2, 5, 3, 1]",,1,4,1,1,1,0
+kkm9yc,tonic Bb4,fc_IC_default_5_4.mp3,"[1, 2, 6, 5, 4, 5, 3, 1]",,0,4,1,1,0,0
+kkm9yc,tonic Bb4,fc_IC_default_3_2.mp3,"[1, 2, 6, 3, 2, 3, 1]",,0,4,1,1,0,0
+kkm9yc,tonic Bb4,fc_IC_accent_3_1.mp3,"[1, 3, 6, 3, 2, 3, 1]",,0,4,1,1,1,0
+kkm9yc,tonic Bb4,fc_IC_default_5_3.mp3,"[1, 2, 6, 5, 4, 3, 1]",,0,4,1,1,0,0
+kkm9yc,tonic Bb4,fc_IC_accent_5_3.mp3,"[1, 2, 6, 5, 4, 3, 1]",,1,4,1,1,1,0
+kkm9yc,tonic Bb4,fc_IC_accent_5_2.mp3,"[1, 2, 6, 5, 4, 3, 1]",,1,4,1,1,1,0
+kkm9yc,tonic Bb4,fc_IC_accent_3_4.mp3,"[1, 2, 6, 3, 2, 3, 1]",,1,4,1,1,1,0
+kkm9yc,tonic Bb4,fc_IC_accent_3_2.mp3,"[1, 2, 6, 3, 2, 5, 3, 1]",,1,4,1,1,1,0
+kkm9yc,tonic Bb4,fc_IC_default_3_1.mp3,"[1, 2, 3, 6, 3, 2, 3, 1]",,0,5,2,2,0,0
+kkm9yc,tonic Bb4,fc_IC_accent_5_4.mp3,"[1, 3, 6, 5, 4, 5, 3, 1]",,0,4,1,1,1,0
+kkm9yc,tonic Bb4,fc_IC_default_5_2.mp3,"[1, 2, 6, 5, 4, 3, 1]",,1,4,1,1,0,0
+kkm9yc,tonic Bb4,fc_IC_accent_5_1.mp3,"[1, 2, 6, 5, 4, 3, 1]",,1,4,1,1,1,0
+f6j9pl,tonic Bb4,fc_IC_accent_5_1.mp3,"[1, 2, 6, 5, 4, 3, 1]",,1,4,1,1,1,0
+f6j9pl,tonic Bb4,fc_IC_accent_3_2.mp3,"[1, 2, 6, 3, 2, 5, 3, 1]",,0,4,1,1,1,0
+f6j9pl,tonic Bb4,fc_IC_default_3_1.mp3,"[1, 2, 3, 6, 3, 2, 3, 1]",,1,5,2,2,0,0
+f6j9pl,tonic Bb4,fc_IC_accent_5_2.mp3,"[1, 2, 6, 5, 4, 3, 1]",,1,4,1,1,1,0
+f6j9pl,tonic Bb4,fc_IC_default_5_4.mp3,"[1, 2, 6, 5, 4, 5, 3, 1]",,1,4,1,1,0,0
+f6j9pl,tonic Bb4,fc_IC_accent_5_4.mp3,"[1, 3, 6, 5, 4, 5, 3, 1]",,0,4,1,1,1,0
+f6j9pl,tonic Bb4,fc_IC_default_3_4.mp3,"[1, 2, 6, 3, 2, 5, 3, 1]",,1,4,1,1,0,0
+f6j9pl,tonic Bb4,fc_IC_default_3_2.mp3,"[1, 2, 6, 3, 2, 3, 1]",,0,4,1,1,0,0
+f6j9pl,tonic Bb4,fc_IC_default_3_3.mp3,"[1, 2, 6, 3, 2, 3, 1]",,1,4,1,1,0,0
+f6j9pl,tonic Bb4,fc_IC_accent_3_3.mp3,"[1, 2, 6, 3, 2, 5, 3, 1]",,0,4,1,1,1,0
+f6j9pl,tonic Bb4,fc_IC_accent_5_3.mp3,"[1, 2, 6, 5, 4, 3, 1]",,1,4,1,1,1,0
+f6j9pl,tonic Bb4,fc_IC_default_5_3.mp3,"[1, 2, 6, 5, 4, 3, 1]",,1,4,1,1,0,0
+f6j9pl,tonic Bb4,fc_IC_accent_3_4.mp3,"[1, 2, 6, 3, 2, 3, 1]",,0,4,1,1,1,0
+f6j9pl,tonic Bb4,fc_IC_default_5_2.mp3,"[1, 2, 6, 5, 4, 3, 1]",,0,4,1,1,0,0
+f6j9pl,tonic Bb4,fc_IC_accent_3_1.mp3,"[1, 3, 6, 3, 2, 3, 1]",,0,4,1,1,1,0
+f6j9pl,tonic Bb4,fc_IC_default_5_1.mp3,"[1, 2, 6, 5, 4, 5, 3, 1]",,1,4,1,1,0,0
+wrywed,tonic C5,fc_IC_accent_5_2.mp3,"[1, 2, 6, 5, 4, 3, 1]",,1,4,1,1,1,0
+wrywed,tonic C5,fc_IC_default_3_3.mp3,"[1, 2, 6, 3, 2, 3, 1]",,0,4,1,1,0,0
+wrywed,tonic C5,fc_IC_default_5_2.mp3,"[1, 2, 6, 5, 4, 5, 3, 1]",,0,4,1,1,0,0
+wrywed,tonic C5,fc_IC_accent_5_4.mp3,"[1, 2, 6, 5, 4, 3, 1]",,1,4,1,1,1,0
+wrywed,tonic C5,fc_IC_default_5_4.mp3,"[1, 2, 6, 5, 4, 3, 1]",,0,4,1,1,0,0
+wrywed,tonic C5,fc_IC_default_3_1.mp3,"[1, 2, 6, 3, 2, 5, 3, 1]",,1,4,1,1,0,0
+wrywed,tonic C5,fc_IC_accent_3_3.mp3,"[1, 3, 6, 3, 2, 3, 1]",,0,4,1,1,1,0
+wrywed,tonic C5,fc_IC_accent_3_1.mp3,"[1, 2, 6, 3, 2, 3, 1]",,0,4,1,1,1,0
+wrywed,tonic C5,fc_IC_accent_5_3.mp3,"[1, 2, 6, 5, 4, 3, 1]",,0,4,1,1,1,0
+wrywed,tonic C5,fc_IC_accent_5_1.mp3,"[1, 2, 6, 5, 4, 5, 3, 1]",,1,4,1,1,1,0
+wrywed,tonic C5,fc_IC_default_3_2.mp3,"[1, 2, 6, 3, 2, 3, 1]",,1,4,1,1,0,0
+wrywed,tonic C5,fc_IC_accent_3_2.mp3,"[1, 2, 6, 3, 2, 5, 3, 1]",,0,4,1,1,1,0
+wrywed,tonic C5,fc_IC_default_5_3.mp3,"[1, 2, 6, 5, 4, 3, 1]",,0,4,1,1,0,0
+wrywed,tonic C5,fc_IC_accent_3_4.mp3,"[1, 2, 6, 3, 2, 5, 3, 1]",,0,4,1,1,1,0
+wrywed,tonic C5,fc_IC_default_3_4.mp3,"[1, 2, 6, 3, 2, 3, 1]",,1,4,1,1,0,0
+wrywed,tonic C5,fc_IC_default_5_1.mp3,"[1, 2, 6, 5, 4, 3, 1]",,0,4,1,1,0,0
+x8c67z,tonic C5,fc_IC_default_3_3.mp3,"[1, 2, 6, 3, 2, 3, 1]",,0,4,1,1,0,0
+x8c67z,tonic C5,fc_IC_accent_5_1.mp3,"[1, 2, 6, 5, 4, 5, 3, 1]",,1,4,1,1,1,0
+x8c67z,tonic C5,fc_IC_default_5_3.mp3,"[1, 2, 6, 5, 4, 3, 1]",,0,4,1,1,0,0
+x8c67z,tonic C5,fc_IC_default_5_1.mp3,"[1, 2, 6, 5, 4, 3, 1]",,0,4,1,1,0,0
+x8c67z,tonic C5,fc_IC_default_3_1.mp3,"[1, 2, 6, 3, 2, 5, 3, 1]",,1,4,1,1,0,0
+x8c67z,tonic C5,fc_IC_accent_5_4.mp3,"[1, 2, 6, 5, 4, 3, 1]",,0,4,1,1,1,0
+x8c67z,tonic C5,fc_IC_default_3_2.mp3,"[1, 2, 6, 3, 2, 3, 1]",,0,4,1,1,0,0
+x8c67z,tonic C5,fc_IC_default_3_4.mp3,"[1, 2, 6, 3, 2, 3, 1]",,0,4,1,1,0,0
+x8c67z,tonic C5,fc_IC_accent_5_3.mp3,"[1, 2, 6, 5, 4, 3, 1]",,0,4,1,1,1,0
+x8c67z,tonic C5,fc_IC_accent_3_4.mp3,"[1, 2, 6, 3, 2, 5, 3, 1]",,1,4,1,1,1,0
+x8c67z,tonic C5,fc_IC_accent_5_2.mp3,"[1, 2, 6, 5, 4, 3, 1]",,1,4,1,1,1,0
+x8c67z,tonic C5,fc_IC_accent_3_3.mp3,"[1, 3, 6, 3, 2, 3, 1]",,1,4,1,1,1,0
+x8c67z,tonic C5,fc_IC_accent_3_1.mp3,"[1, 2, 6, 3, 2, 3, 1]",,0,4,1,1,1,0
+x8c67z,tonic C5,fc_IC_default_5_2.mp3,"[1, 2, 6, 5, 4, 5, 3, 1]",,1,4,1,1,0,0
+x8c67z,tonic C5,fc_IC_default_5_4.mp3,"[1, 2, 6, 5, 4, 3, 1]",,0,4,1,1,0,0
+x8c67z,tonic C5,fc_IC_accent_3_2.mp3,"[1, 2, 6, 3, 2, 5, 3, 1]",,0,4,1,1,1,0
+58cf32,tonic C5,fc_IC_default_3_1.mp3,"[1, 2, 6, 3, 2, 5, 3, 1]",,0,4,1,1,0,0
+58cf32,tonic C5,fc_IC_accent_3_1.mp3,"[1, 2, 6, 3, 2, 3, 1]",,1,4,1,1,1,0
+58cf32,tonic C5,fc_IC_default_5_2.mp3,"[1, 2, 6, 5, 4, 5, 3, 1]",,1,4,1,1,0,0
+58cf32,tonic C5,fc_IC_default_3_4.mp3,"[1, 2, 6, 3, 2, 3, 1]",,0,4,1,1,0,0
+58cf32,tonic C5,fc_IC_accent_3_4.mp3,"[1, 2, 6, 3, 2, 5, 3, 1]",,0,4,1,1,1,0
+58cf32,tonic C5,fc_IC_accent_5_1.mp3,"[1, 2, 6, 5, 4, 5, 3, 1]",,0,4,1,1,1,0
+58cf32,tonic C5,fc_IC_default_5_3.mp3,"[1, 2, 6, 5, 4, 3, 1]",,0,4,1,1,0,0
+58cf32,tonic C5,fc_IC_default_5_4.mp3,"[1, 2, 6, 5, 4, 3, 1]",,1,4,1,1,0,0
+58cf32,tonic C5,fc_IC_accent_5_3.mp3,"[1, 2, 6, 5, 4, 3, 1]",,1,4,1,1,1,0
+58cf32,tonic C5,fc_IC_accent_5_2.mp3,"[1, 2, 6, 5, 4, 3, 1]",,1,4,1,1,1,0
+58cf32,tonic C5,fc_IC_accent_3_2.mp3,"[1, 2, 6, 3, 2, 5, 3, 1]",,1,4,1,1,1,0
+58cf32,tonic C5,fc_IC_accent_3_3.mp3,"[1, 3, 6, 3, 2, 3, 1]",,1,4,1,1,1,0
+58cf32,tonic C5,fc_IC_default_3_2.mp3,"[1, 2, 6, 3, 2, 3, 1]",,0,4,1,1,0,0
+58cf32,tonic C5,fc_IC_accent_5_4.mp3,"[1, 2, 6, 5, 4, 3, 1]",,1,4,1,1,1,0
+58cf32,tonic C5,fc_IC_default_5_1.mp3,"[1, 2, 6, 5, 4, 3, 1]",,1,4,1,1,0,0
+58cf32,tonic C5,fc_IC_default_3_3.mp3,"[1, 2, 6, 3, 2, 3, 1]",,0,4,1,1,0,0
+p1o8hj,tonic C5,fc_IC_accent_3_3.mp3,"[1, 3, 6, 3, 2, 3, 1]",,1,4,1,1,1,0
+p1o8hj,tonic C5,fc_IC_accent_3_2.mp3,"[1, 2, 6, 3, 2, 5, 3, 1]",,0,4,1,1,1,0
+p1o8hj,tonic C5,fc_IC_default_5_1.mp3,"[1, 2, 6, 5, 4, 3, 1]",,0,4,1,1,0,0
+p1o8hj,tonic C5,fc_IC_default_3_4.mp3,"[1, 2, 6, 3, 2, 3, 1]",,0,4,1,1,0,0
+p1o8hj,tonic C5,fc_IC_accent_5_2.mp3,"[1, 2, 6, 5, 4, 3, 1]",,1,4,1,1,1,0
+p1o8hj,tonic C5,fc_IC_accent_3_1.mp3,"[1, 2, 6, 3, 2, 3, 1]",,1,4,1,1,1,0
+p1o8hj,tonic C5,fc_IC_default_5_3.mp3,"[1, 2, 6, 5, 4, 3, 1]",,1,4,1,1,0,0
+p1o8hj,tonic C5,fc_IC_default_3_3.mp3,"[1, 2, 6, 3, 2, 3, 1]",,1,4,1,1,0,0
+p1o8hj,tonic C5,fc_IC_accent_3_4.mp3,"[1, 2, 6, 3, 2, 5, 3, 1]",,1,4,1,1,1,0
+p1o8hj,tonic C5,fc_IC_accent_5_4.mp3,"[1, 2, 6, 5, 4, 3, 1]",,1,4,1,1,1,0
+p1o8hj,tonic C5,fc_IC_default_3_2.mp3,"[1, 2, 6, 3, 2, 3, 1]",,0,4,1,1,0,0
+p1o8hj,tonic C5,fc_IC_accent_5_1.mp3,"[1, 2, 6, 5, 4, 5, 3, 1]",,0,4,1,1,1,0
+p1o8hj,tonic C5,fc_IC_default_5_4.mp3,"[1, 2, 6, 5, 4, 3, 1]",,0,4,1,1,0,0
+p1o8hj,tonic C5,fc_IC_default_5_2.mp3,"[1, 2, 6, 5, 4, 5, 3, 1]",,1,4,1,1,0,0
+p1o8hj,tonic C5,fc_IC_default_3_1.mp3,"[1, 2, 6, 3, 2, 5, 3, 1]",,0,4,1,1,0,0
+p1o8hj,tonic C5,fc_IC_accent_5_3.mp3,"[1, 2, 6, 5, 4, 3, 1]",,0,4,1,1,1,0
+2rygdo,tonic C5,fc_IC_default_3_3.mp3,"[1, 2, 6, 3, 2, 3, 1]",,0,4,1,1,0,0
+2rygdo,tonic C5,fc_IC_default_3_4.mp3,"[1, 2, 6, 3, 2, 3, 1]",,0,4,1,1,0,0
+2rygdo,tonic C5,fc_IC_accent_5_2.mp3,"[1, 2, 6, 5, 4, 3, 1]",,1,4,1,1,1,0
+2rygdo,tonic C5,fc_IC_accent_5_1.mp3,"[1, 2, 6, 5, 4, 5, 3, 1]",,1,4,1,1,1,0
+2rygdo,tonic C5,fc_IC_accent_3_4.mp3,"[1, 2, 6, 3, 2, 5, 3, 1]",,1,4,1,1,1,0
+2rygdo,tonic C5,fc_IC_default_3_1.mp3,"[1, 2, 6, 3, 2, 5, 3, 1]",,0,4,1,1,0,0
+2rygdo,tonic C5,fc_IC_accent_3_2.mp3,"[1, 2, 6, 3, 2, 5, 3, 1]",,1,4,1,1,1,0
+2rygdo,tonic C5,fc_IC_default_5_1.mp3,"[1, 2, 6, 5, 4, 3, 1]",,1,4,1,1,0,0
+2rygdo,tonic C5,fc_IC_accent_5_4.mp3,"[1, 2, 6, 5, 4, 3, 1]",,1,4,1,1,1,0
+2rygdo,tonic C5,fc_IC_accent_3_1.mp3,"[1, 2, 6, 3, 2, 3, 1]",,0,4,1,1,1,0
+2rygdo,tonic C5,fc_IC_default_5_2.mp3,"[1, 2, 6, 5, 4, 5, 3, 1]",,1,4,1,1,0,0
+2rygdo,tonic C5,fc_IC_default_3_2.mp3,"[1, 2, 6, 3, 2, 3, 1]",,0,4,1,1,0,0
+2rygdo,tonic C5,fc_IC_default_5_3.mp3,"[1, 2, 6, 5, 4, 3, 1]",,0,4,1,1,0,0
+2rygdo,tonic C5,fc_IC_default_5_4.mp3,"[1, 2, 6, 5, 4, 3, 1]",,0,4,1,1,0,0
+2rygdo,tonic C5,fc_IC_accent_3_3.mp3,"[1, 3, 6, 3, 2, 3, 1]",,1,4,1,1,1,0
+2rygdo,tonic C5,fc_IC_accent_5_3.mp3,"[1, 2, 6, 5, 4, 3, 1]",,1,4,1,1,1,0
+vekvhu,tonic C5,fc_IC_accent_5_4.mp3,"[1, 2, 6, 5, 4, 3, 1]",,0,4,1,1,1,0
+vekvhu,tonic C5,fc_IC_accent_5_1.mp3,"[1, 2, 6, 5, 4, 5, 3, 1]",,1,4,1,1,1,0
+vekvhu,tonic C5,fc_IC_accent_3_4.mp3,"[1, 2, 6, 3, 2, 5, 3, 1]",,1,4,1,1,1,0
+vekvhu,tonic C5,fc_IC_default_5_4.mp3,"[1, 2, 6, 5, 4, 3, 1]",,1,4,1,1,0,0
+vekvhu,tonic C5,fc_IC_default_3_3.mp3,"[1, 2, 6, 3, 2, 3, 1]",,0,4,1,1,0,0
+vekvhu,tonic C5,fc_IC_accent_3_1.mp3,"[1, 2, 6, 3, 2, 3, 1]",,1,4,1,1,1,0
+vekvhu,tonic C5,fc_IC_default_3_1.mp3,"[1, 2, 6, 3, 2, 5, 3, 1]",,0,4,1,1,0,0
+vekvhu,tonic C5,fc_IC_default_5_2.mp3,"[1, 2, 6, 5, 4, 5, 3, 1]",,1,4,1,1,0,0
+vekvhu,tonic C5,fc_IC_default_3_2.mp3,"[1, 2, 6, 3, 2, 3, 1]",,0,4,1,1,0,0
+vekvhu,tonic C5,fc_IC_accent_5_2.mp3,"[1, 2, 6, 5, 4, 3, 1]",,0,4,1,1,1,0
+vekvhu,tonic C5,fc_IC_default_5_1.mp3,"[1, 2, 6, 5, 4, 3, 1]",,1,4,1,1,0,0
+vekvhu,tonic C5,fc_IC_default_5_3.mp3,"[1, 2, 6, 5, 4, 3, 1]",,1,4,1,1,0,0
+vekvhu,tonic C5,fc_IC_default_3_4.mp3,"[1, 2, 6, 3, 2, 3, 1]",,0,4,1,1,0,0
+vekvhu,tonic C5,fc_IC_accent_3_3.mp3,"[1, 3, 6, 3, 2, 3, 1]",,1,4,1,1,1,0
+vekvhu,tonic C5,fc_IC_accent_3_2.mp3,"[1, 2, 6, 3, 2, 5, 3, 1]",,0,4,1,1,1,0
+vekvhu,tonic C5,fc_IC_accent_5_3.mp3,"[1, 2, 6, 5, 4, 3, 1]",,1,4,1,1,1,0
+wwgtn8,tonic C5,fc_IC_default_3_3.mp3,"[1, 2, 6, 3, 2, 3, 1]",,1,4,1,1,0,0
+wwgtn8,tonic C5,fc_IC_accent_5_3.mp3,"[1, 2, 6, 5, 4, 3, 1]",,0,4,1,1,1,0
+wwgtn8,tonic C5,fc_IC_default_3_1.mp3,"[1, 2, 6, 3, 2, 5, 3, 1]",,0,4,1,1,0,0
+wwgtn8,tonic C5,fc_IC_accent_3_1.mp3,"[1, 2, 6, 3, 2, 3, 1]",,0,4,1,1,1,0
+wwgtn8,tonic C5,fc_IC_default_5_4.mp3,"[1, 2, 6, 5, 4, 3, 1]",,1,4,1,1,0,0
+wwgtn8,tonic C5,fc_IC_accent_3_4.mp3,"[1, 2, 6, 3, 2, 5, 3, 1]",,0,4,1,1,1,0
+wwgtn8,tonic C5,fc_IC_accent_3_2.mp3,"[1, 2, 6, 3, 2, 5, 3, 1]",,0,4,1,1,1,0
+wwgtn8,tonic C5,fc_IC_default_5_2.mp3,"[1, 2, 6, 5, 4, 5, 3, 1]",,1,4,1,1,0,0
+wwgtn8,tonic C5,fc_IC_default_5_3.mp3,"[1, 2, 6, 5, 4, 3, 1]",,1,4,1,1,0,0
+wwgtn8,tonic C5,fc_IC_accent_5_2.mp3,"[1, 2, 6, 5, 4, 3, 1]",,0,4,1,1,1,0
+wwgtn8,tonic C5,fc_IC_accent_3_3.mp3,"[1, 3, 6, 3, 2, 3, 1]",,1,4,1,1,1,0
+wwgtn8,tonic C5,fc_IC_accent_5_4.mp3,"[1, 2, 6, 5, 4, 3, 1]",,1,4,1,1,1,0
+wwgtn8,tonic C5,fc_IC_default_3_4.mp3,"[1, 2, 6, 3, 2, 3, 1]",,1,4,1,1,0,0
+wwgtn8,tonic C5,fc_IC_accent_5_1.mp3,"[1, 2, 6, 5, 4, 5, 3, 1]",,0,4,1,1,1,0
+wwgtn8,tonic C5,fc_IC_default_3_2.mp3,"[1, 2, 6, 3, 2, 3, 1]",,1,4,1,1,0,0
+wwgtn8,tonic C5,fc_IC_default_5_1.mp3,"[1, 2, 6, 5, 4, 3, 1]",,0,4,1,1,0,0
+4qn9t3,tonic C5,fc_IC_accent_3_2.mp3,"[1, 2, 6, 3, 2, 5, 3, 1]",,1,4,1,1,1,0
+4qn9t3,tonic C5,fc_IC_accent_5_1.mp3,"[1, 2, 6, 5, 4, 5, 3, 1]",,1,4,1,1,1,0
+4qn9t3,tonic C5,fc_IC_accent_3_3.mp3,"[1, 3, 6, 3, 2, 3, 1]",,0,4,1,1,1,0
+4qn9t3,tonic C5,fc_IC_accent_5_4.mp3,"[1, 2, 6, 5, 4, 3, 1]",,1,4,1,1,1,0
+4qn9t3,tonic C5,fc_IC_default_5_2.mp3,"[1, 2, 6, 5, 4, 5, 3, 1]",,0,4,1,1,0,0
+4qn9t3,tonic C5,fc_IC_default_3_2.mp3,"[1, 2, 6, 3, 2, 3, 1]",,0,4,1,1,0,0
+4qn9t3,tonic C5,fc_IC_accent_3_1.mp3,"[1, 2, 6, 3, 2, 3, 1]",,1,4,1,1,1,0
+4qn9t3,tonic C5,fc_IC_accent_3_4.mp3,"[1, 2, 6, 3, 2, 5, 3, 1]",,1,4,1,1,1,0
+4qn9t3,tonic C5,fc_IC_default_3_1.mp3,"[1, 2, 6, 3, 2, 5, 3, 1]",,1,4,1,1,0,0
+4qn9t3,tonic C5,fc_IC_accent_5_3.mp3,"[1, 2, 6, 5, 4, 3, 1]",,0,4,1,1,1,0
+4qn9t3,tonic C5,fc_IC_default_3_3.mp3,"[1, 2, 6, 3, 2, 3, 1]",,1,4,1,1,0,0
+4qn9t3,tonic C5,fc_IC_default_3_4.mp3,"[1, 2, 6, 3, 2, 3, 1]",,0,4,1,1,0,0
+4qn9t3,tonic C5,fc_IC_default_5_3.mp3,"[1, 2, 6, 5, 4, 3, 1]",,0,4,1,1,0,0
+4qn9t3,tonic C5,fc_IC_default_5_1.mp3,"[1, 2, 6, 5, 4, 3, 1]",,0,4,1,1,0,0
+4qn9t3,tonic C5,fc_IC_default_5_4.mp3,"[1, 2, 6, 5, 4, 3, 1]",,0,4,1,1,0,0
+4qn9t3,tonic C5,fc_IC_accent_5_2.mp3,"[1, 2, 6, 5, 4, 3, 1]",,0,4,1,1,1,0
+f0sl72,tonic C5,fc_IC_default_5_1.mp3,"[1, 2, 6, 5, 4, 3, 1]",,0,4,1,1,0,1
+f0sl72,tonic C5,fc_IC_accent_5_1.mp3,"[1, 2, 6, 5, 4, 5, 3, 1]",,1,4,1,1,1,1
+f0sl72,tonic C5,fc_IC_default_3_2.mp3,"[1, 2, 6, 3, 2, 3, 1]",,0,4,1,1,0,1
+f0sl72,tonic C5,fc_IC_accent_3_2.mp3,"[1, 2, 6, 3, 2, 5, 3, 1]",,1,4,1,1,1,1
+f0sl72,tonic C5,fc_IC_accent_3_3.mp3,"[1, 3, 6, 3, 2, 3, 1]",,0,4,1,1,1,1
+f0sl72,tonic C5,fc_IC_default_3_3.mp3,"[1, 2, 6, 3, 2, 3, 1]",,0,4,1,1,0,1
+f0sl72,tonic C5,fc_IC_default_3_1.mp3,"[1, 2, 6, 3, 2, 5, 3, 1]",,1,4,1,1,0,1
+f0sl72,tonic C5,fc_IC_accent_3_4.mp3,"[1, 2, 6, 3, 2, 5, 3, 1]",,0,4,1,1,1,1
+f0sl72,tonic C5,fc_IC_default_5_4.mp3,"[1, 2, 6, 5, 4, 3, 1]",,1,4,1,1,0,1
+f0sl72,tonic C5,fc_IC_accent_5_2.mp3,"[1, 2, 6, 5, 4, 3, 1]",,0,4,1,1,1,1
+f0sl72,tonic C5,fc_IC_default_5_2.mp3,"[1, 2, 6, 5, 4, 5, 3, 1]",,0,4,1,1,0,1
+f0sl72,tonic C5,fc_IC_accent_3_1.mp3,"[1, 2, 6, 3, 2, 3, 1]",,0,4,1,1,1,1
+f0sl72,tonic C5,fc_IC_accent_5_3.mp3,"[1, 2, 6, 5, 4, 3, 1]",,0,4,1,1,1,1
+f0sl72,tonic C5,fc_IC_default_5_3.mp3,"[1, 2, 6, 5, 4, 3, 1]",,0,4,1,1,0,1
+f0sl72,tonic C5,fc_IC_accent_5_4.mp3,"[1, 2, 6, 5, 4, 3, 1]",,0,4,1,1,1,1
+f0sl72,tonic C5,fc_IC_default_3_4.mp3,"[1, 2, 6, 3, 2, 3, 1]",,0,4,1,1,0,1
+7q280f,tonic C5,fc_IC_default_5_3.mp3,"[1, 2, 6, 5, 4, 3, 1]",,0,4,1,1,0,0
+7q280f,tonic C5,fc_IC_default_3_3.mp3,"[1, 2, 6, 3, 2, 3, 1]",,1,4,1,1,0,0
+7q280f,tonic C5,fc_IC_accent_5_3.mp3,"[1, 2, 6, 5, 4, 3, 1]",,0,4,1,1,1,0
+7q280f,tonic C5,fc_IC_accent_5_1.mp3,"[1, 2, 6, 5, 4, 5, 3, 1]",,0,4,1,1,1,0
+7q280f,tonic C5,fc_IC_default_3_2.mp3,"[1, 2, 6, 3, 2, 3, 1]",,1,4,1,1,0,0
+7q280f,tonic C5,fc_IC_default_3_1.mp3,"[1, 2, 6, 3, 2, 5, 3, 1]",,0,4,1,1,0,0
+7q280f,tonic C5,fc_IC_accent_3_2.mp3,"[1, 2, 6, 3, 2, 5, 3, 1]",,1,4,1,1,1,0
+7q280f,tonic C5,fc_IC_default_3_4.mp3,"[1, 2, 6, 3, 2, 3, 1]",,1,4,1,1,0,0
+7q280f,tonic C5,fc_IC_default_5_4.mp3,"[1, 2, 6, 5, 4, 3, 1]",,1,4,1,1,0,0
+7q280f,tonic C5,fc_IC_accent_5_2.mp3,"[1, 2, 6, 5, 4, 3, 1]",,0,4,1,1,1,0
+7q280f,tonic C5,fc_IC_default_5_2.mp3,"[1, 2, 6, 5, 4, 5, 3, 1]",,0,4,1,1,0,0
+7q280f,tonic C5,fc_IC_default_5_1.mp3,"[1, 2, 6, 5, 4, 3, 1]",,1,4,1,1,0,0
+7q280f,tonic C5,fc_IC_accent_5_4.mp3,"[1, 2, 6, 5, 4, 3, 1]",,0,4,1,1,1,0
+7q280f,tonic C5,fc_IC_accent_3_1.mp3,"[1, 2, 6, 3, 2, 3, 1]",,1,4,1,1,1,0
+7q280f,tonic C5,fc_IC_accent_3_3.mp3,"[1, 3, 6, 3, 2, 3, 1]",,0,4,1,1,1,0
+7q280f,tonic C5,fc_IC_accent_3_4.mp3,"[1, 2, 6, 3, 2, 5, 3, 1]",,1,4,1,1,1,0
+b4yhdr,tonic C5,fc_IC_default_5_4.mp3,"[1, 2, 6, 5, 4, 3, 1]",,1,4,1,1,0,1
+b4yhdr,tonic C5,fc_IC_default_5_1.mp3,"[1, 2, 6, 5, 4, 3, 1]",,1,4,1,1,0,1
+b4yhdr,tonic C5,fc_IC_accent_5_2.mp3,"[1, 2, 6, 5, 4, 3, 1]",,0,4,1,1,1,1
+b4yhdr,tonic C5,fc_IC_accent_3_1.mp3,"[1, 2, 6, 3, 2, 3, 1]",,1,4,1,1,1,1
+b4yhdr,tonic C5,fc_IC_default_3_1.mp3,"[1, 2, 6, 3, 2, 5, 3, 1]",,0,4,1,1,0,1
+b4yhdr,tonic C5,fc_IC_default_3_4.mp3,"[1, 2, 6, 3, 2, 3, 1]",,1,4,1,1,0,1
+b4yhdr,tonic C5,fc_IC_default_5_3.mp3,"[1, 2, 6, 5, 4, 3, 1]",,0,4,1,1,0,1
+b4yhdr,tonic C5,fc_IC_default_3_3.mp3,"[1, 2, 6, 3, 2, 3, 1]",,0,4,1,1,0,1
+b4yhdr,tonic C5,fc_IC_default_3_2.mp3,"[1, 2, 6, 3, 2, 3, 1]",,1,4,1,1,0,1
+b4yhdr,tonic C5,fc_IC_accent_3_4.mp3,"[1, 2, 6, 3, 2, 5, 3, 1]",,0,4,1,1,1,1
+b4yhdr,tonic C5,fc_IC_default_5_2.mp3,"[1, 2, 6, 5, 4, 5, 3, 1]",,1,4,1,1,0,1
+b4yhdr,tonic C5,fc_IC_accent_3_3.mp3,"[1, 3, 6, 3, 2, 3, 1]",,1,4,1,1,1,1
+b4yhdr,tonic C5,fc_IC_accent_3_2.mp3,"[1, 2, 6, 3, 2, 5, 3, 1]",,0,4,1,1,1,1
+b4yhdr,tonic C5,fc_IC_accent_5_1.mp3,"[1, 2, 6, 5, 4, 5, 3, 1]",,0,4,1,1,1,1
+b4yhdr,tonic C5,fc_IC_accent_5_3.mp3,"[1, 2, 6, 5, 4, 3, 1]",,0,4,1,1,1,1
+b4yhdr,tonic C5,fc_IC_accent_5_4.mp3,"[1, 2, 6, 5, 4, 3, 1]",,1,4,1,1,1,1
+2ouu3l,tonic C5,fc_IC_default_3_4.mp3,"[1, 2, 6, 3, 2, 3, 1]",,1,4,1,1,0,0
+2ouu3l,tonic C5,fc_IC_accent_3_2.mp3,"[1, 2, 6, 3, 2, 5, 3, 1]",,0,4,1,1,1,0
+2ouu3l,tonic C5,fc_IC_default_5_4.mp3,"[1, 2, 6, 5, 4, 3, 1]",,1,4,1,1,0,0
+2ouu3l,tonic C5,fc_IC_accent_3_1.mp3,"[1, 2, 6, 3, 2, 3, 1]",,0,4,1,1,1,0
+2ouu3l,tonic C5,fc_IC_default_5_1.mp3,"[1, 2, 6, 5, 4, 3, 1]",,0,4,1,1,0,0
+2ouu3l,tonic C5,fc_IC_accent_3_4.mp3,"[1, 2, 6, 3, 2, 5, 3, 1]",,0,4,1,1,1,0
+2ouu3l,tonic C5,fc_IC_default_3_2.mp3,"[1, 2, 6, 3, 2, 3, 1]",,0,4,1,1,0,0
+2ouu3l,tonic C5,fc_IC_default_3_1.mp3,"[1, 2, 6, 3, 2, 5, 3, 1]",,0,4,1,1,0,0
+2ouu3l,tonic C5,fc_IC_default_5_2.mp3,"[1, 2, 6, 5, 4, 5, 3, 1]",,1,4,1,1,0,0
+2ouu3l,tonic C5,fc_IC_accent_5_4.mp3,"[1, 2, 6, 5, 4, 3, 1]",,0,4,1,1,1,0
+2ouu3l,tonic C5,fc_IC_default_3_3.mp3,"[1, 2, 6, 3, 2, 3, 1]",,0,4,1,1,0,0
+2ouu3l,tonic C5,fc_IC_accent_5_1.mp3,"[1, 2, 6, 5, 4, 5, 3, 1]",,0,4,1,1,1,0
+2ouu3l,tonic C5,fc_IC_default_5_3.mp3,"[1, 2, 6, 5, 4, 3, 1]",,0,4,1,1,0,0
+2ouu3l,tonic C5,fc_IC_accent_5_3.mp3,"[1, 2, 6, 5, 4, 3, 1]",,0,4,1,1,1,0
+2ouu3l,tonic C5,fc_IC_accent_3_3.mp3,"[1, 3, 6, 3, 2, 3, 1]",,0,4,1,1,1,0
+2ouu3l,tonic C5,fc_IC_accent_5_2.mp3,"[1, 2, 6, 5, 4, 3, 1]",,1,4,1,1,1,0
+7e9x0n,tonic G5,fc_IC_accent_5_4.mp3,"[1, 2, 6, 5, 4, 5, 3, 1]",,0,4,1,1,1,0
+7e9x0n,tonic G5,fc_IC_default_5_2.mp3,"[1, 2, 6, 5, 4, 3, 1]",,0,4,1,1,0,0
+7e9x0n,tonic G5,fc_IC_accent_3_3.mp3,"[1, 2, 6, 3, 2, 3, 1]",,1,4,1,1,1,0
+7e9x0n,tonic G5,fc_IC_default_3_1.mp3,"[1, 2, 6, 3, 2, 5, 3, 1]",,0,4,1,1,0,0
+7e9x0n,tonic G5,fc_IC_default_3_2.mp3,"[1, 2, 6, 3, 2, 5, 3, 1]",,1,4,1,1,0,0
+7e9x0n,tonic G5,fc_IC_accent_3_2.mp3,"[1, 3, 6, 3, 2, 3, 1]",,1,4,1,1,1,0
+7e9x0n,tonic G5,fc_IC_accent_3_4.mp3,"[1, 2, 6, 3, 2, 3, 1]",,0,4,1,1,1,0
+7e9x0n,tonic G5,fc_IC_default_3_3.mp3,"[1, 2, 6, 3, 2, 5, 3, 1]",,0,4,1,1,0,0
+7e9x0n,tonic G5,fc_IC_default_5_4.mp3,"[1, 2, 6, 5, 4, 5, 3, 1]",,1,4,1,1,0,0
+7e9x0n,tonic G5,fc_IC_default_5_1.mp3,"[1, 2, 6, 5, 4, 3, 1]",,1,4,1,1,0,0
+7e9x0n,tonic G5,fc_IC_accent_5_3.mp3,"[1, 2, 5, 4, 3, 1]",,0,3,2,4,1,0
+7e9x0n,tonic G5,fc_IC_accent_5_2.mp3,"[1, 2, 6, 5, 4, 5, 3, 1]",,0,4,1,1,1,0
+7e9x0n,tonic G5,fc_IC_accent_3_1.mp3,"[1, 2, 6, 3, 2, 5, 3, 1]",,0,4,1,1,1,0
+7e9x0n,tonic G5,fc_IC_default_5_3.mp3,"[1, 2, 6, 5, 4, 5, 3, 1]",,0,4,1,1,0,0
+7e9x0n,tonic G5,fc_IC_default_3_4.mp3,"[1, 3, 6, 3, 2, 5, 3, 1]",,1,4,1,1,0,0
+7e9x0n,tonic G5,fc_IC_accent_5_1.mp3,"[1, 2, 6, 5, 4, 5, 3, 1]",,0,4,1,1,1,0
+vxv6m3,tonic G5,fc_IC_default_3_4.mp3,"[1, 3, 6, 3, 2, 5, 3, 1]",,1,4,1,1,0,0
+vxv6m3,tonic G5,fc_IC_default_5_2.mp3,"[1, 2, 6, 5, 4, 3, 1]",,1,4,1,1,0,0
+vxv6m3,tonic G5,fc_IC_accent_5_4.mp3,"[1, 2, 6, 5, 4, 5, 3, 1]",,0,4,1,1,1,0
+vxv6m3,tonic G5,fc_IC_default_5_4.mp3,"[1, 2, 6, 5, 4, 5, 3, 1]",,1,4,1,1,0,0
+vxv6m3,tonic G5,fc_IC_accent_3_4.mp3,"[1, 2, 6, 3, 2, 3, 1]",,1,4,1,1,1,0
+vxv6m3,tonic G5,fc_IC_default_3_2.mp3,"[1, 2, 6, 3, 2, 5, 3, 1]",,0,4,1,1,0,0
+vxv6m3,tonic G5,fc_IC_accent_3_1.mp3,"[1, 2, 6, 3, 2, 5, 3, 1]",,1,4,1,1,1,0
+vxv6m3,tonic G5,fc_IC_accent_5_1.mp3,"[1, 2, 6, 5, 4, 5, 3, 1]",,0,4,1,1,1,0
+vxv6m3,tonic G5,fc_IC_accent_5_3.mp3,"[1, 2, 5, 4, 3, 1]",,0,3,2,4,1,0
+vxv6m3,tonic G5,fc_IC_default_3_3.mp3,"[1, 2, 6, 3, 2, 5, 3, 1]",,1,4,1,1,0,0
+vxv6m3,tonic G5,fc_IC_default_5_1.mp3,"[1, 2, 6, 5, 4, 3, 1]",,1,4,1,1,0,0
+vxv6m3,tonic G5,fc_IC_default_5_3.mp3,"[1, 2, 6, 5, 4, 5, 3, 1]",,1,4,1,1,0,0
+vxv6m3,tonic G5,fc_IC_accent_3_2.mp3,"[1, 3, 6, 3, 2, 3, 1]",,1,4,1,1,1,0
+vxv6m3,tonic G5,fc_IC_accent_3_3.mp3,"[1, 2, 6, 3, 2, 3, 1]",,1,4,1,1,1,0
+vxv6m3,tonic G5,fc_IC_default_3_1.mp3,"[1, 2, 6, 3, 2, 5, 3, 1]",,1,4,1,1,0,0
+vxv6m3,tonic G5,fc_IC_accent_5_2.mp3,"[1, 2, 6, 5, 4, 5, 3, 1]",,0,4,1,1,1,0
+qghju0,tonic G5,fc_IC_accent_5_4.mp3,"[1, 2, 6, 5, 4, 5, 3, 1]",,1,4,1,1,1,0
+qghju0,tonic G5,fc_IC_accent_3_2.mp3,"[1, 3, 6, 3, 2, 3, 1]",,1,4,1,1,1,0
+qghju0,tonic G5,fc_IC_accent_3_4.mp3,"[1, 2, 6, 3, 2, 3, 1]",,1,4,1,1,1,0
+qghju0,tonic G5,fc_IC_accent_3_3.mp3,"[1, 2, 6, 3, 2, 3, 1]",,1,4,1,1,1,0
+qghju0,tonic G5,fc_IC_default_3_3.mp3,"[1, 2, 6, 3, 2, 5, 3, 1]",,1,4,1,1,0,0
+qghju0,tonic G5,fc_IC_default_5_4.mp3,"[1, 2, 6, 5, 4, 5, 3, 1]",,0,4,1,1,0,0
+qghju0,tonic G5,fc_IC_default_3_2.mp3,"[1, 2, 6, 3, 2, 5, 3, 1]",,1,4,1,1,0,0
+qghju0,tonic G5,fc_IC_default_5_3.mp3,"[1, 2, 6, 5, 4, 5, 3, 1]",,0,4,1,1,0,0
+qghju0,tonic G5,fc_IC_accent_5_3.mp3,"[1, 2, 5, 4, 3, 1]",,0,3,2,4,1,0
+qghju0,tonic G5,fc_IC_accent_5_2.mp3,"[1, 2, 6, 5, 4, 5, 3, 1]",,0,4,1,1,1,0
+qghju0,tonic G5,fc_IC_default_3_1.mp3,"[1, 2, 6, 3, 2, 5, 3, 1]",,1,4,1,1,0,0
+qghju0,tonic G5,fc_IC_accent_3_1.mp3,"[1, 2, 6, 3, 2, 5, 3, 1]",,1,4,1,1,1,0
+qghju0,tonic G5,fc_IC_accent_5_1.mp3,"[1, 2, 6, 5, 4, 5, 3, 1]",,1,4,1,1,1,0
+qghju0,tonic G5,fc_IC_default_5_1.mp3,"[1, 2, 6, 5, 4, 3, 1]",,1,4,1,1,0,0
+qghju0,tonic G5,fc_IC_default_5_2.mp3,"[1, 2, 6, 5, 4, 3, 1]",,1,4,1,1,0,0
+qghju0,tonic G5,fc_IC_default_3_4.mp3,"[1, 3, 6, 3, 2, 5, 3, 1]",,0,4,1,1,0,0
+d1ao35,tonic G5,fc_IC_default_3_4.mp3,"[1, 3, 6, 3, 2, 5, 3, 1]",,0,4,1,1,0,0
+d1ao35,tonic G5,fc_IC_accent_5_1.mp3,"[1, 2, 6, 5, 4, 5, 3, 1]",,0,4,1,1,1,0
+d1ao35,tonic G5,fc_IC_default_3_2.mp3,"[1, 2, 6, 3, 2, 5, 3, 1]",,0,4,1,1,0,0
+d1ao35,tonic G5,fc_IC_accent_5_4.mp3,"[1, 2, 6, 5, 4, 5, 3, 1]",,0,4,1,1,1,0
+d1ao35,tonic G5,fc_IC_default_5_1.mp3,"[1, 2, 6, 5, 4, 3, 1]",,0,4,1,1,0,0
+d1ao35,tonic G5,fc_IC_accent_3_2.mp3,"[1, 3, 6, 3, 2, 3, 1]",,0,4,1,1,1,0
+d1ao35,tonic G5,fc_IC_accent_3_1.mp3,"[1, 2, 6, 3, 2, 5, 3, 1]",,1,4,1,1,1,0
+d1ao35,tonic G5,fc_IC_accent_3_4.mp3,"[1, 2, 6, 3, 2, 3, 1]",,0,4,1,1,1,0
+d1ao35,tonic G5,fc_IC_accent_3_3.mp3,"[1, 2, 6, 3, 2, 3, 1]",,0,4,1,1,1,0
+d1ao35,tonic G5,fc_IC_default_5_4.mp3,"[1, 2, 6, 5, 4, 5, 3, 1]",,1,4,1,1,0,0
+d1ao35,tonic G5,fc_IC_accent_5_3.mp3,"[1, 2, 5, 4, 3, 1]",,0,3,2,4,1,0
+d1ao35,tonic G5,fc_IC_default_5_3.mp3,"[1, 2, 6, 5, 4, 5, 3, 1]",,0,4,1,1,0,0
+d1ao35,tonic G5,fc_IC_default_3_1.mp3,"[1, 2, 6, 3, 2, 5, 3, 1]",,0,4,1,1,0,0
+d1ao35,tonic G5,fc_IC_default_5_2.mp3,"[1, 2, 6, 5, 4, 3, 1]",,0,4,1,1,0,0
+d1ao35,tonic G5,fc_IC_accent_5_2.mp3,"[1, 2, 6, 5, 4, 5, 3, 1]",,1,4,1,1,1,0
+d1ao35,tonic G5,fc_IC_default_3_3.mp3,"[1, 2, 6, 3, 2, 5, 3, 1]",,0,4,1,1,0,0
+l1czo5,tonic G5,fc_IC_default_3_2.mp3,"[1, 2, 6, 3, 2, 5, 3, 1]",,0,4,1,1,0,0
+l1czo5,tonic G5,fc_IC_default_5_1.mp3,"[1, 2, 6, 5, 4, 3, 1]",,1,4,1,1,0,0
+l1czo5,tonic G5,fc_IC_accent_5_2.mp3,"[1, 2, 6, 5, 4, 5, 3, 1]",,1,4,1,1,1,0
+l1czo5,tonic G5,fc_IC_accent_5_1.mp3,"[1, 2, 6, 5, 4, 5, 3, 1]",,1,4,1,1,1,0
+l1czo5,tonic G5,fc_IC_default_5_3.mp3,"[1, 2, 6, 5, 4, 5, 3, 1]",,0,4,1,1,0,0
+l1czo5,tonic G5,fc_IC_default_5_2.mp3,"[1, 2, 6, 5, 4, 3, 1]",,0,4,1,1,0,0
+l1czo5,tonic G5,fc_IC_accent_5_3.mp3,"[1, 2, 5, 4, 3, 1]",,1,3,2,4,1,0
+l1czo5,tonic G5,fc_IC_default_5_4.mp3,"[1, 2, 6, 5, 4, 5, 3, 1]",,0,4,1,1,0,0
+l1czo5,tonic G5,fc_IC_accent_3_4.mp3,"[1, 2, 6, 3, 2, 3, 1]",,0,4,1,1,1,0
+l1czo5,tonic G5,fc_IC_accent_5_4.mp3,"[1, 2, 6, 5, 4, 5, 3, 1]",,1,4,1,1,1,0
+l1czo5,tonic G5,fc_IC_accent_3_2.mp3,"[1, 3, 6, 3, 2, 3, 1]",,0,4,1,1,1,0
+l1czo5,tonic G5,fc_IC_default_3_1.mp3,"[1, 2, 6, 3, 2, 5, 3, 1]",,1,4,1,1,0,0
+l1czo5,tonic G5,fc_IC_default_3_3.mp3,"[1, 2, 6, 3, 2, 5, 3, 1]",,0,4,1,1,0,0
+l1czo5,tonic G5,fc_IC_default_3_4.mp3,"[1, 3, 6, 3, 2, 5, 3, 1]",,0,4,1,1,0,0
+l1czo5,tonic G5,fc_IC_accent_3_3.mp3,"[1, 2, 6, 3, 2, 3, 1]",,0,4,1,1,1,0
+l1czo5,tonic G5,fc_IC_accent_3_1.mp3,"[1, 2, 6, 3, 2, 5, 3, 1]",,0,4,1,1,1,0
+x74bb0,tonic G5,fc_IC_default_3_1.mp3,"[1, 2, 6, 3, 2, 5, 3, 1]",,0,4,1,1,0,0
+x74bb0,tonic G5,fc_IC_accent_5_1.mp3,"[1, 2, 6, 5, 4, 5, 3, 1]",,0,4,1,1,1,0
+x74bb0,tonic G5,fc_IC_accent_3_2.mp3,"[1, 3, 6, 3, 2, 3, 1]",,1,4,1,1,1,0
+x74bb0,tonic G5,fc_IC_default_5_2.mp3,"[1, 2, 6, 5, 4, 3, 1]",,1,4,1,1,0,0
+x74bb0,tonic G5,fc_IC_accent_3_3.mp3,"[1, 2, 6, 3, 2, 3, 1]",,0,4,1,1,1,0
+x74bb0,tonic G5,fc_IC_default_5_1.mp3,"[1, 2, 6, 5, 4, 3, 1]",,1,4,1,1,0,0
+x74bb0,tonic G5,fc_IC_accent_5_2.mp3,"[1, 2, 6, 5, 4, 5, 3, 1]",,1,4,1,1,1,0
+x74bb0,tonic G5,fc_IC_default_3_3.mp3,"[1, 2, 6, 3, 2, 5, 3, 1]",,1,4,1,1,0,0
+x74bb0,tonic G5,fc_IC_default_5_4.mp3,"[1, 2, 6, 5, 4, 5, 3, 1]",,1,4,1,1,0,0
+x74bb0,tonic G5,fc_IC_default_3_2.mp3,"[1, 2, 6, 3, 2, 5, 3, 1]",,1,4,1,1,0,0
+x74bb0,tonic G5,fc_IC_default_5_3.mp3,"[1, 2, 6, 5, 4, 5, 3, 1]",,1,4,1,1,0,0
+x74bb0,tonic G5,fc_IC_accent_5_4.mp3,"[1, 2, 6, 5, 4, 5, 3, 1]",,0,4,1,1,1,0
+x74bb0,tonic G5,fc_IC_accent_3_1.mp3,"[1, 2, 6, 3, 2, 5, 3, 1]",,0,4,1,1,1,0
+x74bb0,tonic G5,fc_IC_accent_3_4.mp3,"[1, 2, 6, 3, 2, 3, 1]",,0,4,1,1,1,0
+x74bb0,tonic G5,fc_IC_default_3_4.mp3,"[1, 3, 6, 3, 2, 5, 3, 1]",,0,4,1,1,0,0
+x74bb0,tonic G5,fc_IC_accent_5_3.mp3,"[1, 2, 5, 4, 3, 1]",,0,3,2,4,1,0
+hlv1ng,tonic G5,fc_IC_default_5_2.mp3,"[1, 2, 6, 5, 4, 3, 1]",,1,4,1,1,0,0
+hlv1ng,tonic G5,fc_IC_accent_3_4.mp3,"[1, 2, 6, 3, 2, 3, 1]",,0,4,1,1,1,0
+hlv1ng,tonic G5,fc_IC_accent_5_2.mp3,"[1, 2, 6, 5, 4, 5, 3, 1]",,0,4,1,1,1,0
+hlv1ng,tonic G5,fc_IC_default_3_4.mp3,"[1, 3, 6, 3, 2, 5, 3, 1]",,0,4,1,1,0,0
+hlv1ng,tonic G5,fc_IC_accent_3_2.mp3,"[1, 3, 6, 3, 2, 3, 1]",,1,4,1,1,1,0
+hlv1ng,tonic G5,fc_IC_default_3_1.mp3,"[1, 2, 6, 3, 2, 5, 3, 1]",,0,4,1,1,0,0
+hlv1ng,tonic G5,fc_IC_accent_5_1.mp3,"[1, 2, 6, 5, 4, 5, 3, 1]",,1,4,1,1,1,0
+hlv1ng,tonic G5,fc_IC_default_3_2.mp3,"[1, 2, 6, 3, 2, 5, 3, 1]",,0,4,1,1,0,0
+hlv1ng,tonic G5,fc_IC_default_5_4.mp3,"[1, 2, 6, 5, 4, 5, 3, 1]",,1,4,1,1,0,0
+hlv1ng,tonic G5,fc_IC_default_5_1.mp3,"[1, 2, 6, 5, 4, 3, 1]",,1,4,1,1,0,0
+hlv1ng,tonic G5,fc_IC_default_5_3.mp3,"[1, 2, 6, 5, 4, 5, 3, 1]",,1,4,1,1,0,0
+hlv1ng,tonic G5,fc_IC_accent_3_1.mp3,"[1, 2, 6, 3, 2, 5, 3, 1]",,0,4,1,1,1,0
+hlv1ng,tonic G5,fc_IC_accent_5_4.mp3,"[1, 2, 6, 5, 4, 5, 3, 1]",,1,4,1,1,1,0
+hlv1ng,tonic G5,fc_IC_accent_5_3.mp3,"[1, 2, 5, 4, 3, 1]",,1,3,2,4,1,0
+hlv1ng,tonic G5,fc_IC_accent_3_3.mp3,"[1, 2, 6, 3, 2, 3, 1]",,0,4,1,1,1,0
+hlv1ng,tonic G5,fc_IC_default_3_3.mp3,"[1, 2, 6, 3, 2, 5, 3, 1]",,0,4,1,1,0,0
+63jhey,tonic G5,fc_IC_default_5_4.mp3,"[1, 2, 6, 5, 4, 5, 3, 1]",,0,4,1,1,0,1
+63jhey,tonic G5,fc_IC_accent_5_1.mp3,"[1, 2, 6, 5, 4, 5, 3, 1]",,1,4,1,1,1,1
+63jhey,tonic G5,fc_IC_accent_5_2.mp3,"[1, 2, 6, 5, 4, 5, 3, 1]",,1,4,1,1,1,1
+63jhey,tonic G5,fc_IC_default_5_1.mp3,"[1, 2, 6, 5, 4, 3, 1]",,1,4,1,1,0,1
+63jhey,tonic G5,fc_IC_accent_5_3.mp3,"[1, 2, 5, 4, 3, 1]",,1,3,2,4,1,1
+63jhey,tonic G5,fc_IC_default_3_4.mp3,"[1, 3, 6, 3, 2, 5, 3, 1]",,0,4,1,1,0,1
+63jhey,tonic G5,fc_IC_accent_3_1.mp3,"[1, 2, 6, 3, 2, 5, 3, 1]",,0,4,1,1,1,1
+63jhey,tonic G5,fc_IC_default_5_2.mp3,"[1, 2, 6, 5, 4, 3, 1]",,1,4,1,1,0,1
+63jhey,tonic G5,fc_IC_default_3_2.mp3,"[1, 2, 6, 3, 2, 5, 3, 1]",,0,4,1,1,0,1
+63jhey,tonic G5,fc_IC_accent_3_4.mp3,"[1, 2, 6, 3, 2, 3, 1]",,0,4,1,1,1,1
+63jhey,tonic G5,fc_IC_accent_3_2.mp3,"[1, 3, 6, 3, 2, 3, 1]",,0,4,1,1,1,1
+63jhey,tonic G5,fc_IC_default_5_3.mp3,"[1, 2, 6, 5, 4, 5, 3, 1]",,1,4,1,1,0,1
+63jhey,tonic G5,fc_IC_accent_5_4.mp3,"[1, 2, 6, 5, 4, 5, 3, 1]",,1,4,1,1,1,1
+63jhey,tonic G5,fc_IC_accent_3_3.mp3,"[1, 2, 6, 3, 2, 3, 1]",,0,4,1,1,1,1
+63jhey,tonic G5,fc_IC_default_3_1.mp3,"[1, 2, 6, 3, 2, 5, 3, 1]",,1,4,1,1,0,1
+63jhey,tonic G5,fc_IC_default_3_3.mp3,"[1, 2, 6, 3, 2, 5, 3, 1]",,0,4,1,1,0,1
+1ynj9z,tonic G5,fc_IC_default_5_4.mp3,"[1, 2, 6, 5, 4, 5, 3, 1]",,0,4,1,1,0,0
+1ynj9z,tonic G5,fc_IC_default_5_3.mp3,"[1, 2, 6, 5, 4, 5, 3, 1]",,1,4,1,1,0,0
+1ynj9z,tonic G5,fc_IC_default_3_1.mp3,"[1, 2, 6, 3, 2, 5, 3, 1]",,1,4,1,1,0,0
+1ynj9z,tonic G5,fc_IC_accent_3_4.mp3,"[1, 2, 6, 3, 2, 3, 1]",,0,4,1,1,1,0
+1ynj9z,tonic G5,fc_IC_default_3_2.mp3,"[1, 2, 6, 3, 2, 5, 3, 1]",,0,4,1,1,0,0
+1ynj9z,tonic G5,fc_IC_default_5_2.mp3,"[1, 2, 6, 5, 4, 3, 1]",,1,4,1,1,0,0
+1ynj9z,tonic G5,fc_IC_accent_3_2.mp3,"[1, 3, 6, 3, 2, 3, 1]",,0,4,1,1,1,0
+1ynj9z,tonic G5,fc_IC_accent_5_2.mp3,"[1, 2, 6, 5, 4, 5, 3, 1]",,1,4,1,1,1,0
+1ynj9z,tonic G5,fc_IC_default_3_3.mp3,"[1, 2, 6, 3, 2, 5, 3, 1]",,0,4,1,1,0,0
+1ynj9z,tonic G5,fc_IC_accent_5_1.mp3,"[1, 2, 6, 5, 4, 5, 3, 1]",,1,4,1,1,1,0
+1ynj9z,tonic G5,fc_IC_default_3_4.mp3,"[1, 3, 6, 3, 2, 5, 3, 1]",,0,4,1,1,0,0
+1ynj9z,tonic G5,fc_IC_accent_5_4.mp3,"[1, 2, 6, 5, 4, 5, 3, 1]",,1,4,1,1,1,0
+1ynj9z,tonic G5,fc_IC_accent_3_3.mp3,"[1, 2, 6, 3, 2, 3, 1]",,0,4,1,1,1,0
+1ynj9z,tonic G5,fc_IC_accent_3_1.mp3,"[1, 2, 6, 3, 2, 5, 3, 1]",,0,4,1,1,1,0
+1ynj9z,tonic G5,fc_IC_default_5_1.mp3,"[1, 2, 6, 5, 4, 3, 1]",,1,4,1,1,0,0
+1ynj9z,tonic G5,fc_IC_accent_5_3.mp3,"[1, 2, 5, 4, 3, 1]",,1,3,2,4,1,0
+bavbyu,tonic G5,fc_IC_default_3_1.mp3,"[1, 2, 6, 3, 2, 5, 3, 1]",,0,4,1,1,0,0
+bavbyu,tonic G5,fc_IC_accent_3_4.mp3,"[1, 2, 6, 3, 2, 3, 1]",,1,4,1,1,1,0
+bavbyu,tonic G5,fc_IC_accent_5_1.mp3,"[1, 2, 6, 5, 4, 5, 3, 1]",,0,4,1,1,1,0
+bavbyu,tonic G5,fc_IC_accent_3_1.mp3,"[1, 2, 6, 3, 2, 5, 3, 1]",,1,4,1,1,1,0
+bavbyu,tonic G5,fc_IC_default_5_3.mp3,"[1, 2, 6, 5, 4, 5, 3, 1]",,1,4,1,1,0,0
+bavbyu,tonic G5,fc_IC_default_5_2.mp3,"[1, 2, 6, 5, 4, 3, 1]",,0,4,1,1,0,0
+bavbyu,tonic G5,fc_IC_accent_3_2.mp3,"[1, 3, 6, 3, 2, 3, 1]",,0,4,1,1,1,0
+bavbyu,tonic G5,fc_IC_accent_3_3.mp3,"[1, 2, 6, 3, 2, 3, 1]",,0,4,1,1,1,0
+bavbyu,tonic G5,fc_IC_default_3_3.mp3,"[1, 2, 6, 3, 2, 5, 3, 1]",,1,4,1,1,0,0
+bavbyu,tonic G5,fc_IC_accent_5_2.mp3,"[1, 2, 6, 5, 4, 5, 3, 1]",,0,4,1,1,1,0
+bavbyu,tonic G5,fc_IC_default_3_2.mp3,"[1, 2, 6, 3, 2, 5, 3, 1]",,0,4,1,1,0,0
+bavbyu,tonic G5,fc_IC_default_5_1.mp3,"[1, 2, 6, 5, 4, 3, 1]",,0,4,1,1,0,0
+bavbyu,tonic G5,fc_IC_default_3_4.mp3,"[1, 3, 6, 3, 2, 5, 3, 1]",,0,4,1,1,0,0
+bavbyu,tonic G5,fc_IC_accent_5_4.mp3,"[1, 2, 6, 5, 4, 5, 3, 1]",,0,4,1,1,1,0
+bavbyu,tonic G5,fc_IC_accent_5_3.mp3,"[1, 2, 5, 4, 3, 1]",,0,3,2,4,1,0
+bavbyu,tonic G5,fc_IC_default_5_4.mp3,"[1, 2, 6, 5, 4, 5, 3, 1]",,0,4,1,1,0,0
+f7dzsk,tonic G5,fc_IC_default_3_2.mp3,"[1, 2, 6, 3, 2, 5, 3, 1]",,0,4,1,1,0,0
+f7dzsk,tonic G5,fc_IC_default_3_3.mp3,"[1, 2, 6, 3, 2, 5, 3, 1]",,0,4,1,1,0,0
+f7dzsk,tonic G5,fc_IC_accent_5_4.mp3,"[1, 2, 6, 5, 4, 5, 3, 1]",,0,4,1,1,1,0
+f7dzsk,tonic G5,fc_IC_accent_3_2.mp3,"[1, 3, 6, 3, 2, 3, 1]",,1,4,1,1,1,0
+f7dzsk,tonic G5,fc_IC_default_3_1.mp3,"[1, 2, 6, 3, 2, 5, 3, 1]",,0,4,1,1,0,0
+f7dzsk,tonic G5,fc_IC_accent_5_2.mp3,"[1, 2, 6, 5, 4, 5, 3, 1]",,0,4,1,1,1,0
+f7dzsk,tonic G5,fc_IC_default_3_4.mp3,"[1, 3, 6, 3, 2, 5, 3, 1]",,0,4,1,1,0,0
+f7dzsk,tonic G5,fc_IC_accent_3_3.mp3,"[1, 2, 6, 3, 2, 3, 1]",,1,4,1,1,1,0
+f7dzsk,tonic G5,fc_IC_accent_3_4.mp3,"[1, 2, 6, 3, 2, 3, 1]",,0,4,1,1,1,0
+f7dzsk,tonic G5,fc_IC_default_5_3.mp3,"[1, 2, 6, 5, 4, 5, 3, 1]",,1,4,1,1,0,0
+f7dzsk,tonic G5,fc_IC_default_5_1.mp3,"[1, 2, 6, 5, 4, 3, 1]",,0,4,1,1,0,0
+f7dzsk,tonic G5,fc_IC_default_5_2.mp3,"[1, 2, 6, 5, 4, 3, 1]",,0,4,1,1,0,0
+f7dzsk,tonic G5,fc_IC_accent_3_1.mp3,"[1, 2, 6, 3, 2, 5, 3, 1]",,0,4,1,1,1,0
+f7dzsk,tonic G5,fc_IC_accent_5_3.mp3,"[1, 2, 5, 4, 3, 1]",,0,3,2,4,1,0
+f7dzsk,tonic G5,fc_IC_accent_5_1.mp3,"[1, 2, 6, 5, 4, 5, 3, 1]",,1,4,1,1,1,0
+f7dzsk,tonic G5,fc_IC_default_5_4.mp3,"[1, 2, 6, 5, 4, 5, 3, 1]",,1,4,1,1,0,0
+edcv02,tonic G5,fc_IC_default_5_1.mp3,"[1, 2, 6, 5, 4, 3, 1]",,1,4,1,1,0,0
+edcv02,tonic G5,fc_IC_accent_3_1.mp3,"[1, 2, 6, 3, 2, 5, 3, 1]",,1,4,1,1,1,0
+edcv02,tonic G5,fc_IC_accent_5_4.mp3,"[1, 2, 6, 5, 4, 5, 3, 1]",,0,4,1,1,1,0
+edcv02,tonic G5,fc_IC_default_5_3.mp3,"[1, 2, 6, 5, 4, 5, 3, 1]",,0,4,1,1,0,0
+edcv02,tonic G5,fc_IC_accent_5_3.mp3,"[1, 2, 5, 4, 3, 1]",,0,3,2,4,1,0
+edcv02,tonic G5,fc_IC_default_3_1.mp3,"[1, 2, 6, 3, 2, 5, 3, 1]",,0,4,1,1,0,0
+edcv02,tonic G5,fc_IC_default_5_4.mp3,"[1, 2, 6, 5, 4, 5, 3, 1]",,1,4,1,1,0,0
+edcv02,tonic G5,fc_IC_accent_5_1.mp3,"[1, 2, 6, 5, 4, 5, 3, 1]",,1,4,1,1,1,0
+edcv02,tonic G5,fc_IC_default_5_2.mp3,"[1, 2, 6, 5, 4, 3, 1]",,1,4,1,1,0,0
+edcv02,tonic G5,fc_IC_accent_5_2.mp3,"[1, 2, 6, 5, 4, 5, 3, 1]",,0,4,1,1,1,0
+edcv02,tonic G5,fc_IC_accent_3_2.mp3,"[1, 3, 6, 3, 2, 3, 1]",,0,4,1,1,1,0
+edcv02,tonic G5,fc_IC_default_3_3.mp3,"[1, 2, 6, 3, 2, 5, 3, 1]",,0,4,1,1,0,0
+edcv02,tonic G5,fc_IC_default_3_4.mp3,"[1, 3, 6, 3, 2, 5, 3, 1]",,0,4,1,1,0,0
+edcv02,tonic G5,fc_IC_default_3_2.mp3,"[1, 2, 6, 3, 2, 5, 3, 1]",,0,4,1,1,0,0
+edcv02,tonic G5,fc_IC_accent_3_4.mp3,"[1, 2, 6, 3, 2, 3, 1]",,0,4,1,1,1,0
+edcv02,tonic G5,fc_IC_accent_3_3.mp3,"[1, 2, 6, 3, 2, 3, 1]",,0,4,1,1,1,0
+xk6t6z,tonic E5,fc_IC_default_5_1.mp3,"[1, 2, 6, 5, 4, 5, 3, 1]",,0,4,1,1,0,0
+xk6t6z,tonic E5,fc_IC_default_3_2.mp3,"[1, 2, 6, 3, 2, 3, 1]",,0,4,1,1,0,0
+xk6t6z,tonic E5,fc_IC_accent_3_2.mp3,"[1, 2, 6, 3, 2, 3, 1]",,1,4,1,1,1,0
+xk6t6z,tonic E5,fc_IC_accent_5_4.mp3,"[1, 2, 6, 5, 4, 3, 1]",,0,4,1,1,1,0
+xk6t6z,tonic E5,fc_IC_accent_3_3.mp3,"[1, 2, 6, 3, 2, 5, 3, 1]",,0,4,1,1,1,0
+xk6t6z,tonic E5,fc_IC_default_5_3.mp3,"[1, 2, 5, 4, 3, 1]",,0,3,2,4,0,0
+xk6t6z,tonic E5,fc_IC_default_3_3.mp3,"[1, 2, 3, 2, 3, 1]",,1,3,2,4,0,0
+xk6t6z,tonic E5,fc_IC_default_5_4.mp3,"[1, 2, 6, 5, 4, 3, 1]",,0,4,1,1,0,0
+xk6t6z,tonic E5,fc_IC_accent_3_4.mp3,"[1, 2, 6, 3, 2, 3, 1]",,0,4,1,1,1,0
+xk6t6z,tonic E5,fc_IC_accent_5_2.mp3,"[1, 2, 6, 5, 4, 5, 3, 1]",,0,4,1,1,1,0
+xk6t6z,tonic E5,fc_IC_default_3_1.mp3,"[1, 2, 3, 2, 5, 3, 1]",,1,3,2,4,0,0
+xk6t6z,tonic E5,fc_IC_default_3_4.mp3,"[1, 2, 6, 3, 2, 5, 3, 1]",,0,4,1,1,0,0
+xk6t6z,tonic E5,fc_IC_accent_5_3.mp3,"[1, 2, 6, 5, 4, 3, 1]",,0,4,1,1,1,0
+xk6t6z,tonic E5,fc_IC_accent_5_1.mp3,"[1, 2, 6, 5, 4, 5, 3, 1]",,0,4,1,1,1,0
+xk6t6z,tonic E5,fc_IC_accent_3_1.mp3,"[1, 2, 6, 3, 2, 5, 3, 1]",,0,4,1,1,1,0
+xk6t6z,tonic E5,fc_IC_default_5_2.mp3,"[1, 2, 6, 5, 4, 3, 1]",,0,4,1,1,0,0
+lcw0nv,tonic E5,fc_IC_accent_5_3.mp3,"[1, 2, 6, 5, 4, 3, 1]",,1,4,1,1,1,1
+lcw0nv,tonic E5,fc_IC_accent_5_2.mp3,"[1, 2, 6, 5, 4, 5, 3, 1]",,1,4,1,1,1,1
+lcw0nv,tonic E5,fc_IC_default_3_3.mp3,"[1, 2, 3, 2, 3, 1]",,0,3,2,4,0,1
+lcw0nv,tonic E5,fc_IC_accent_3_2.mp3,"[1, 2, 6, 3, 2, 3, 1]",,1,4,1,1,1,1
+lcw0nv,tonic E5,fc_IC_default_5_1.mp3,"[1, 2, 6, 5, 4, 5, 3, 1]",,0,4,1,1,0,1
+lcw0nv,tonic E5,fc_IC_accent_5_4.mp3,"[1, 2, 6, 5, 4, 3, 1]",,0,4,1,1,1,1
+lcw0nv,tonic E5,fc_IC_accent_3_1.mp3,"[1, 2, 6, 3, 2, 5, 3, 1]",,1,4,1,1,1,1
+lcw0nv,tonic E5,fc_IC_default_5_4.mp3,"[1, 2, 6, 5, 4, 3, 1]",,0,4,1,1,0,1
+lcw0nv,tonic E5,fc_IC_default_3_4.mp3,"[1, 2, 6, 3, 2, 5, 3, 1]",,1,4,1,1,0,1
+lcw0nv,tonic E5,fc_IC_default_5_2.mp3,"[1, 2, 6, 5, 4, 3, 1]",,0,4,1,1,0,1
+lcw0nv,tonic E5,fc_IC_accent_3_4.mp3,"[1, 2, 6, 3, 2, 3, 1]",,1,4,1,1,1,1
+lcw0nv,tonic E5,fc_IC_default_5_3.mp3,"[1, 2, 5, 4, 3, 1]",,1,3,2,4,0,1
+lcw0nv,tonic E5,fc_IC_default_3_1.mp3,"[1, 2, 3, 2, 5, 3, 1]",,0,3,2,4,0,1
+lcw0nv,tonic E5,fc_IC_accent_3_3.mp3,"[1, 2, 6, 3, 2, 5, 3, 1]",,1,4,1,1,1,1
+lcw0nv,tonic E5,fc_IC_default_3_2.mp3,"[1, 2, 6, 3, 2, 3, 1]",,1,4,1,1,0,1
+lcw0nv,tonic E5,fc_IC_accent_5_1.mp3,"[1, 2, 6, 5, 4, 5, 3, 1]",,0,4,1,1,1,1
+jh8l3p,tonic E5,fc_IC_accent_3_1.mp3,"[1, 2, 6, 3, 2, 5, 3, 1]",,1,4,1,1,1,0
+jh8l3p,tonic E5,fc_IC_default_3_4.mp3,"[1, 2, 6, 3, 2, 5, 3, 1]",,1,4,1,1,0,0
+jh8l3p,tonic E5,fc_IC_default_3_1.mp3,"[1, 2, 3, 2, 5, 3, 1]",,1,3,2,4,0,0
+jh8l3p,tonic E5,fc_IC_accent_5_4.mp3,"[1, 2, 6, 5, 4, 3, 1]",,1,4,1,1,1,0
+jh8l3p,tonic E5,fc_IC_default_5_1.mp3,"[1, 2, 6, 5, 4, 5, 3, 1]",,1,4,1,1,0,0
+jh8l3p,tonic E5,fc_IC_accent_5_3.mp3,"[1, 2, 6, 5, 4, 3, 1]",,1,4,1,1,1,0
+jh8l3p,tonic E5,fc_IC_accent_3_4.mp3,"[1, 2, 6, 3, 2, 3, 1]",,1,4,1,1,1,0
+jh8l3p,tonic E5,fc_IC_accent_5_1.mp3,"[1, 2, 6, 5, 4, 5, 3, 1]",,1,4,1,1,1,0
+jh8l3p,tonic E5,fc_IC_accent_5_2.mp3,"[1, 2, 6, 5, 4, 5, 3, 1]",,1,4,1,1,1,0
+jh8l3p,tonic E5,fc_IC_default_3_3.mp3,"[1, 2, 3, 2, 3, 1]",,1,3,2,4,0,0
+jh8l3p,tonic E5,fc_IC_default_3_2.mp3,"[1, 2, 6, 3, 2, 3, 1]",,1,4,1,1,0,0
+jh8l3p,tonic E5,fc_IC_accent_3_2.mp3,"[1, 2, 6, 3, 2, 3, 1]",,1,4,1,1,1,0
+jh8l3p,tonic E5,fc_IC_default_5_2.mp3,"[1, 2, 6, 5, 4, 3, 1]",,1,4,1,1,0,0
+jh8l3p,tonic E5,fc_IC_default_5_4.mp3,"[1, 2, 6, 5, 4, 3, 1]",,0,4,1,1,0,0
+jh8l3p,tonic E5,fc_IC_default_5_3.mp3,"[1, 2, 5, 4, 3, 1]",,0,3,2,4,0,0
+jh8l3p,tonic E5,fc_IC_accent_3_3.mp3,"[1, 2, 6, 3, 2, 5, 3, 1]",,1,4,1,1,1,0
+smxkvk,tonic E5,fc_IC_accent_3_2.mp3,"[1, 2, 6, 3, 2, 3, 1]",,1,4,1,1,1,0
+smxkvk,tonic E5,fc_IC_default_3_3.mp3,"[1, 2, 3, 2, 3, 1]",,0,3,2,4,0,0
+smxkvk,tonic E5,fc_IC_accent_5_1.mp3,"[1, 2, 6, 5, 4, 5, 3, 1]",,0,4,1,1,1,0
+smxkvk,tonic E5,fc_IC_default_3_4.mp3,"[1, 2, 6, 3, 2, 5, 3, 1]",,1,4,1,1,0,0
+smxkvk,tonic E5,fc_IC_accent_3_1.mp3,"[1, 2, 6, 3, 2, 5, 3, 1]",,0,4,1,1,1,0
+smxkvk,tonic E5,fc_IC_default_3_1.mp3,"[1, 2, 3, 2, 5, 3, 1]",,0,3,2,4,0,0
+smxkvk,tonic E5,fc_IC_default_5_3.mp3,"[1, 2, 5, 4, 3, 1]",,0,3,2,4,0,0
+smxkvk,tonic E5,fc_IC_accent_5_2.mp3,"[1, 2, 6, 5, 4, 5, 3, 1]",,1,4,1,1,1,0
+smxkvk,tonic E5,fc_IC_default_5_4.mp3,"[1, 2, 6, 5, 4, 3, 1]",,1,4,1,1,0,0
+smxkvk,tonic E5,fc_IC_default_5_2.mp3,"[1, 2, 6, 5, 4, 3, 1]",,1,4,1,1,0,0
+smxkvk,tonic E5,fc_IC_accent_5_4.mp3,"[1, 2, 6, 5, 4, 3, 1]",,1,4,1,1,1,0
+smxkvk,tonic E5,fc_IC_default_3_2.mp3,"[1, 2, 6, 3, 2, 3, 1]",,1,4,1,1,0,0
+smxkvk,tonic E5,fc_IC_accent_3_3.mp3,"[1, 2, 6, 3, 2, 5, 3, 1]",,1,4,1,1,1,0
+smxkvk,tonic E5,fc_IC_default_5_1.mp3,"[1, 2, 6, 5, 4, 5, 3, 1]",,1,4,1,1,0,0
+smxkvk,tonic E5,fc_IC_accent_3_4.mp3,"[1, 2, 6, 3, 2, 3, 1]",,1,4,1,1,1,0
+smxkvk,tonic E5,fc_IC_accent_5_3.mp3,"[1, 2, 6, 5, 4, 3, 1]",,1,4,1,1,1,0
+opwoxj,tonic E5,fc_IC_default_5_1.mp3,"[1, 2, 6, 5, 4, 5, 3, 1]",,0,4,1,1,0,1
+opwoxj,tonic E5,fc_IC_default_3_3.mp3,"[1, 2, 3, 2, 3, 1]",,0,3,2,4,0,1
+opwoxj,tonic E5,fc_IC_default_3_2.mp3,"[1, 2, 6, 3, 2, 3, 1]",,1,4,1,1,0,1
+opwoxj,tonic E5,fc_IC_default_3_1.mp3,"[1, 2, 3, 2, 5, 3, 1]",,1,3,2,4,0,1
+opwoxj,tonic E5,fc_IC_accent_5_3.mp3,"[1, 2, 6, 5, 4, 3, 1]",,1,4,1,1,1,1
+opwoxj,tonic E5,fc_IC_accent_3_4.mp3,"[1, 2, 6, 3, 2, 3, 1]",,0,4,1,1,1,1
+opwoxj,tonic E5,fc_IC_accent_5_2.mp3,"[1, 2, 6, 5, 4, 5, 3, 1]",,1,4,1,1,1,1
+opwoxj,tonic E5,fc_IC_default_5_3.mp3,"[1, 2, 5, 4, 3, 1]",,1,3,2,4,0,1
+opwoxj,tonic E5,fc_IC_accent_3_3.mp3,"[1, 2, 6, 3, 2, 5, 3, 1]",,0,4,1,1,1,1
+opwoxj,tonic E5,fc_IC_default_5_4.mp3,"[1, 2, 6, 5, 4, 3, 1]",,1,4,1,1,0,1
+opwoxj,tonic E5,fc_IC_accent_3_1.mp3,"[1, 2, 6, 3, 2, 5, 3, 1]",,0,4,1,1,1,1
+opwoxj,tonic E5,fc_IC_accent_5_4.mp3,"[1, 2, 6, 5, 4, 3, 1]",,0,4,1,1,1,1
+opwoxj,tonic E5,fc_IC_default_3_4.mp3,"[1, 2, 6, 3, 2, 5, 3, 1]",,1,4,1,1,0,1
+opwoxj,tonic E5,fc_IC_accent_5_1.mp3,"[1, 2, 6, 5, 4, 5, 3, 1]",,1,4,1,1,1,1
+opwoxj,tonic E5,fc_IC_accent_3_2.mp3,"[1, 2, 6, 3, 2, 3, 1]",,0,4,1,1,1,1
+opwoxj,tonic E5,fc_IC_default_5_2.mp3,"[1, 2, 6, 5, 4, 3, 1]",,1,4,1,1,0,1
+879vr1,tonic E5,fc_IC_accent_3_1.mp3,"[1, 2, 6, 3, 2, 5, 3, 1]",,0,4,1,1,1,0
+879vr1,tonic E5,fc_IC_accent_5_1.mp3,"[1, 2, 6, 5, 4, 5, 3, 1]",,0,4,1,1,1,0
+879vr1,tonic E5,fc_IC_default_3_1.mp3,"[1, 2, 3, 2, 5, 3, 1]",,0,3,2,4,0,0
+879vr1,tonic E5,fc_IC_accent_3_4.mp3,"[1, 2, 6, 3, 2, 3, 1]",,1,4,1,1,1,0
+879vr1,tonic E5,fc_IC_default_3_3.mp3,"[1, 2, 3, 2, 3, 1]",,0,3,2,4,0,0
+879vr1,tonic E5,fc_IC_accent_3_2.mp3,"[1, 2, 6, 3, 2, 3, 1]",,0,4,1,1,1,0
+879vr1,tonic E5,fc_IC_default_5_3.mp3,"[1, 2, 5, 4, 3, 1]",,1,3,2,4,0,0
+879vr1,tonic E5,fc_IC_default_5_1.mp3,"[1, 2, 6, 5, 4, 5, 3, 1]",,0,4,1,1,0,0
+879vr1,tonic E5,fc_IC_accent_3_3.mp3,"[1, 2, 6, 3, 2, 5, 3, 1]",,0,4,1,1,1,0
+879vr1,tonic E5,fc_IC_default_5_2.mp3,"[1, 2, 6, 5, 4, 3, 1]",,1,4,1,1,0,0
+879vr1,tonic E5,fc_IC_default_3_2.mp3,"[1, 2, 6, 3, 2, 3, 1]",,0,4,1,1,0,0
+879vr1,tonic E5,fc_IC_default_5_4.mp3,"[1, 2, 6, 5, 4, 3, 1]",,1,4,1,1,0,0
+879vr1,tonic E5,fc_IC_accent_5_4.mp3,"[1, 2, 6, 5, 4, 3, 1]",,1,4,1,1,1,0
+879vr1,tonic E5,fc_IC_default_3_4.mp3,"[1, 2, 6, 3, 2, 5, 3, 1]",,0,4,1,1,0,0
+879vr1,tonic E5,fc_IC_accent_5_2.mp3,"[1, 2, 6, 5, 4, 5, 3, 1]",,1,4,1,1,1,0
+879vr1,tonic E5,fc_IC_accent_5_3.mp3,"[1, 2, 6, 5, 4, 3, 1]",,1,4,1,1,1,0
+9ju643,tonic E5,fc_IC_accent_3_1.mp3,"[1, 2, 6, 3, 2, 5, 3, 1]",,1,4,1,1,1,1
+9ju643,tonic E5,fc_IC_accent_5_2.mp3,"[1, 2, 6, 5, 4, 5, 3, 1]",,1,4,1,1,1,1
+9ju643,tonic E5,fc_IC_accent_5_4.mp3,"[1, 2, 6, 5, 4, 3, 1]",,0,4,1,1,1,1
+9ju643,tonic E5,fc_IC_default_5_3.mp3,"[1, 2, 5, 4, 3, 1]",,1,3,2,4,0,1
+9ju643,tonic E5,fc_IC_accent_5_1.mp3,"[1, 2, 6, 5, 4, 5, 3, 1]",,1,4,1,1,1,1
+9ju643,tonic E5,fc_IC_default_3_3.mp3,"[1, 2, 3, 2, 3, 1]",,1,3,2,4,0,1
+9ju643,tonic E5,fc_IC_accent_3_3.mp3,"[1, 2, 6, 3, 2, 5, 3, 1]",,1,4,1,1,1,1
+9ju643,tonic E5,fc_IC_default_3_1.mp3,"[1, 2, 3, 2, 5, 3, 1]",,0,3,2,4,0,1
+9ju643,tonic E5,fc_IC_default_5_1.mp3,"[1, 2, 6, 5, 4, 5, 3, 1]",,1,4,1,1,0,1
+9ju643,tonic E5,fc_IC_default_5_4.mp3,"[1, 2, 6, 5, 4, 3, 1]",,0,4,1,1,0,1
+9ju643,tonic E5,fc_IC_accent_5_3.mp3,"[1, 2, 6, 5, 4, 3, 1]",,1,4,1,1,1,1
+9ju643,tonic E5,fc_IC_default_5_2.mp3,"[1, 2, 6, 5, 4, 3, 1]",,1,4,1,1,0,1
+9ju643,tonic E5,fc_IC_default_3_4.mp3,"[1, 2, 6, 3, 2, 5, 3, 1]",,0,4,1,1,0,1
+9ju643,tonic E5,fc_IC_accent_3_2.mp3,"[1, 2, 6, 3, 2, 3, 1]",,1,4,1,1,1,1
+9ju643,tonic E5,fc_IC_default_3_2.mp3,"[1, 2, 6, 3, 2, 3, 1]",,1,4,1,1,0,1
+9ju643,tonic E5,fc_IC_accent_3_4.mp3,"[1, 2, 6, 3, 2, 3, 1]",,0,4,1,1,1,1
+ufmcn3,tonic E5,fc_IC_accent_3_2.mp3,"[1, 2, 6, 3, 2, 3, 1]",,1,4,1,1,1,0
+ufmcn3,tonic E5,fc_IC_default_5_2.mp3,"[1, 2, 6, 5, 4, 3, 1]",,0,4,1,1,0,0
+ufmcn3,tonic E5,fc_IC_default_3_1.mp3,"[1, 2, 3, 2, 5, 3, 1]",,1,3,2,4,0,0
+ufmcn3,tonic E5,fc_IC_default_5_4.mp3,"[1, 2, 6, 5, 4, 3, 1]",,0,4,1,1,0,0
+ufmcn3,tonic E5,fc_IC_accent_3_3.mp3,"[1, 2, 6, 3, 2, 5, 3, 1]",,1,4,1,1,1,0
+ufmcn3,tonic E5,fc_IC_default_3_3.mp3,"[1, 2, 3, 2, 3, 1]",,0,3,2,4,0,0
+ufmcn3,tonic E5,fc_IC_accent_5_2.mp3,"[1, 2, 6, 5, 4, 5, 3, 1]",,1,4,1,1,1,0
+ufmcn3,tonic E5,fc_IC_default_3_2.mp3,"[1, 2, 6, 3, 2, 3, 1]",,1,4,1,1,0,0
+ufmcn3,tonic E5,fc_IC_accent_5_1.mp3,"[1, 2, 6, 5, 4, 5, 3, 1]",,1,4,1,1,1,0
+ufmcn3,tonic E5,fc_IC_accent_5_3.mp3,"[1, 2, 6, 5, 4, 3, 1]",,0,4,1,1,1,0
+ufmcn3,tonic E5,fc_IC_default_5_3.mp3,"[1, 2, 5, 4, 3, 1]",,0,3,2,4,0,0
+ufmcn3,tonic E5,fc_IC_default_5_1.mp3,"[1, 2, 6, 5, 4, 5, 3, 1]",,1,4,1,1,0,0
+ufmcn3,tonic E5,fc_IC_default_3_4.mp3,"[1, 2, 6, 3, 2, 5, 3, 1]",,1,4,1,1,0,0
+ufmcn3,tonic E5,fc_IC_accent_3_1.mp3,"[1, 2, 6, 3, 2, 5, 3, 1]",,0,4,1,1,1,0
+ufmcn3,tonic E5,fc_IC_accent_5_4.mp3,"[1, 2, 6, 5, 4, 3, 1]",,0,4,1,1,1,0
+ufmcn3,tonic E5,fc_IC_accent_3_4.mp3,"[1, 2, 6, 3, 2, 3, 1]",,0,4,1,1,1,0
+t0675l,tonic E5,fc_IC_default_5_3.mp3,"[1, 2, 5, 4, 3, 1]",,1,3,2,4,0,0
+t0675l,tonic E5,fc_IC_accent_5_4.mp3,"[1, 2, 6, 5, 4, 3, 1]",,1,4,1,1,1,0
+t0675l,tonic E5,fc_IC_accent_3_1.mp3,"[1, 2, 6, 3, 2, 5, 3, 1]",,0,4,1,1,1,0
+t0675l,tonic E5,fc_IC_accent_5_2.mp3,"[1, 2, 6, 5, 4, 5, 3, 1]",,0,4,1,1,1,0
+t0675l,tonic E5,fc_IC_accent_3_4.mp3,"[1, 2, 6, 3, 2, 3, 1]",,0,4,1,1,1,0
+t0675l,tonic E5,fc_IC_default_5_2.mp3,"[1, 2, 6, 5, 4, 3, 1]",,1,4,1,1,0,0
+t0675l,tonic E5,fc_IC_default_3_1.mp3,"[1, 2, 3, 2, 5, 3, 1]",,1,3,2,4,0,0
+t0675l,tonic E5,fc_IC_accent_5_3.mp3,"[1, 2, 6, 5, 4, 3, 1]",,1,4,1,1,1,0
+t0675l,tonic E5,fc_IC_accent_3_2.mp3,"[1, 2, 6, 3, 2, 3, 1]",,1,4,1,1,1,0
+t0675l,tonic E5,fc_IC_default_5_4.mp3,"[1, 2, 6, 5, 4, 3, 1]",,1,4,1,1,0,0
+t0675l,tonic E5,fc_IC_default_3_3.mp3,"[1, 2, 3, 2, 3, 1]",,1,3,2,4,0,0
+t0675l,tonic E5,fc_IC_default_3_2.mp3,"[1, 2, 6, 3, 2, 3, 1]",,1,4,1,1,0,0
+t0675l,tonic E5,fc_IC_default_5_1.mp3,"[1, 2, 6, 5, 4, 5, 3, 1]",,0,4,1,1,0,0
+t0675l,tonic E5,fc_IC_accent_3_3.mp3,"[1, 2, 6, 3, 2, 5, 3, 1]",,0,4,1,1,1,0
+t0675l,tonic E5,fc_IC_default_3_4.mp3,"[1, 2, 6, 3, 2, 5, 3, 1]",,0,4,1,1,0,0
+t0675l,tonic E5,fc_IC_accent_5_1.mp3,"[1, 2, 6, 5, 4, 5, 3, 1]",,1,4,1,1,1,0
+wjde23,tonic E5,fc_IC_accent_5_1.mp3,"[1, 2, 6, 5, 4, 5, 3, 1]",,1,4,1,1,1,0
+wjde23,tonic E5,fc_IC_accent_5_2.mp3,"[1, 2, 6, 5, 4, 5, 3, 1]",,1,4,1,1,1,0
+wjde23,tonic E5,fc_IC_default_3_3.mp3,"[1, 2, 3, 2, 3, 1]",,1,3,2,4,0,0
+wjde23,tonic E5,fc_IC_accent_3_4.mp3,"[1, 2, 6, 3, 2, 3, 1]",,0,4,1,1,1,0
+wjde23,tonic E5,fc_IC_accent_3_1.mp3,"[1, 2, 6, 3, 2, 5, 3, 1]",,0,4,1,1,1,0
+wjde23,tonic E5,fc_IC_default_5_3.mp3,"[1, 2, 5, 4, 3, 1]",,1,3,2,4,0,0
+wjde23,tonic E5,fc_IC_default_3_4.mp3,"[1, 2, 6, 3, 2, 5, 3, 1]",,1,4,1,1,0,0
+wjde23,tonic E5,fc_IC_accent_5_4.mp3,"[1, 2, 6, 5, 4, 3, 1]",,1,4,1,1,1,0
+wjde23,tonic E5,fc_IC_default_3_2.mp3,"[1, 2, 6, 3, 2, 3, 1]",,0,4,1,1,0,0
+wjde23,tonic E5,fc_IC_default_5_1.mp3,"[1, 2, 6, 5, 4, 5, 3, 1]",,1,4,1,1,0,0
+wjde23,tonic E5,fc_IC_accent_3_3.mp3,"[1, 2, 6, 3, 2, 5, 3, 1]",,1,4,1,1,1,0
+wjde23,tonic E5,fc_IC_default_5_4.mp3,"[1, 2, 6, 5, 4, 3, 1]",,1,4,1,1,0,0
+wjde23,tonic E5,fc_IC_default_5_2.mp3,"[1, 2, 6, 5, 4, 3, 1]",,1,4,1,1,0,0
+wjde23,tonic E5,fc_IC_accent_5_3.mp3,"[1, 2, 6, 5, 4, 3, 1]",,0,4,1,1,1,0
+wjde23,tonic E5,fc_IC_accent_3_2.mp3,"[1, 2, 6, 3, 2, 3, 1]",,1,4,1,1,1,0
+wjde23,tonic E5,fc_IC_default_3_1.mp3,"[1, 2, 3, 2, 5, 3, 1]",,1,3,2,4,0,0
+es5pch,tonic E5,fc_IC_default_3_3.mp3,"[1, 2, 3, 2, 3, 1]",,1,3,2,4,0,0
+es5pch,tonic E5,fc_IC_default_3_4.mp3,"[1, 2, 6, 3, 2, 5, 3, 1]",,1,4,1,1,0,0
+es5pch,tonic E5,fc_IC_default_5_4.mp3,"[1, 2, 6, 5, 4, 3, 1]",,0,4,1,1,0,0
+es5pch,tonic E5,fc_IC_accent_5_2.mp3,"[1, 2, 6, 5, 4, 5, 3, 1]",,0,4,1,1,1,0
+es5pch,tonic E5,fc_IC_default_3_2.mp3,"[1, 2, 6, 3, 2, 3, 1]",,1,4,1,1,0,0
+es5pch,tonic E5,fc_IC_accent_5_4.mp3,"[1, 2, 6, 5, 4, 3, 1]",,0,4,1,1,1,0
+es5pch,tonic E5,fc_IC_accent_3_1.mp3,"[1, 2, 6, 3, 2, 5, 3, 1]",,0,4,1,1,1,0
+es5pch,tonic E5,fc_IC_default_3_1.mp3,"[1, 2, 3, 2, 5, 3, 1]",,0,3,2,4,0,0
+es5pch,tonic E5,fc_IC_accent_5_1.mp3,"[1, 2, 6, 5, 4, 5, 3, 1]",,0,4,1,1,1,0
+es5pch,tonic E5,fc_IC_accent_3_4.mp3,"[1, 2, 6, 3, 2, 3, 1]",,0,4,1,1,1,0
+es5pch,tonic E5,fc_IC_accent_3_2.mp3,"[1, 2, 6, 3, 2, 3, 1]",,1,4,1,1,1,0
+es5pch,tonic E5,fc_IC_default_5_2.mp3,"[1, 2, 6, 5, 4, 3, 1]",,0,4,1,1,0,0
+es5pch,tonic E5,fc_IC_default_5_1.mp3,"[1, 2, 6, 5, 4, 5, 3, 1]",,0,4,1,1,0,0
+es5pch,tonic E5,fc_IC_accent_3_3.mp3,"[1, 2, 6, 3, 2, 5, 3, 1]",,1,4,1,1,1,0
+es5pch,tonic E5,fc_IC_default_5_3.mp3,"[1, 2, 5, 4, 3, 1]",,0,3,2,4,0,0
+es5pch,tonic E5,fc_IC_accent_5_3.mp3,"[1, 2, 6, 5, 4, 3, 1]",,1,4,1,1,1,0
+mesgdu,tonic E5,fc_IC_default_5_1.mp3,"[1, 2, 6, 5, 4, 5, 3, 1]",,1,4,1,1,0,0
+mesgdu,tonic E5,fc_IC_accent_5_3.mp3,"[1, 2, 6, 5, 4, 3, 1]",,0,4,1,1,1,0
+mesgdu,tonic E5,fc_IC_accent_5_1.mp3,"[1, 2, 6, 5, 4, 5, 3, 1]",,0,4,1,1,1,0
+mesgdu,tonic E5,fc_IC_default_3_4.mp3,"[1, 2, 6, 3, 2, 5, 3, 1]",,0,4,1,1,0,0
+mesgdu,tonic E5,fc_IC_accent_3_4.mp3,"[1, 2, 6, 3, 2, 3, 1]",,0,4,1,1,1,0
+mesgdu,tonic E5,fc_IC_default_5_3.mp3,"[1, 2, 5, 4, 3, 1]",,1,3,2,4,0,0
+mesgdu,tonic E5,fc_IC_default_3_3.mp3,"[1, 2, 3, 2, 3, 1]",,1,3,2,4,0,0
+mesgdu,tonic E5,fc_IC_default_5_4.mp3,"[1, 2, 6, 5, 4, 3, 1]",,1,4,1,1,0,0
+mesgdu,tonic E5,fc_IC_accent_3_3.mp3,"[1, 2, 6, 3, 2, 5, 3, 1]",,0,4,1,1,1,0
+mesgdu,tonic E5,fc_IC_default_3_2.mp3,"[1, 2, 6, 3, 2, 3, 1]",,0,4,1,1,0,0
+mesgdu,tonic E5,fc_IC_accent_3_2.mp3,"[1, 2, 6, 3, 2, 3, 1]",,0,4,1,1,1,0
+mesgdu,tonic E5,fc_IC_default_3_1.mp3,"[1, 2, 3, 2, 5, 3, 1]",,0,3,2,4,0,0
+mesgdu,tonic E5,fc_IC_accent_5_4.mp3,"[1, 2, 6, 5, 4, 3, 1]",,1,4,1,1,1,0
+mesgdu,tonic E5,fc_IC_accent_3_1.mp3,"[1, 2, 6, 3, 2, 5, 3, 1]",,0,4,1,1,1,0
+mesgdu,tonic E5,fc_IC_accent_5_2.mp3,"[1, 2, 6, 5, 4, 5, 3, 1]",,1,4,1,1,1,0
+mesgdu,tonic E5,fc_IC_default_5_2.mp3,"[1, 2, 6, 5, 4, 3, 1]",,1,4,1,1,0,0

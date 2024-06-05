@@ -1,65 +1,1249 @@
 subject,condition,filename,sequence,accent_chosen,IC,target_pos,invU,U,asc,des,target_metric_2,target_metric_4,contour,musician
-a237ah,tonic G4,fc_accents_32_3.mp3,"[1, 3, 6, 3, 2, 3, 1]",1,1.0,4,0,1,0,0,1,1,U,0
-a237ah,tonic G4,fc_accents_32_1.mp3,"[1, 2, 3, 2, 5, 3, 1]",0,1.0,3,0,1,0,0,2,4,U,0
-a237ah,tonic G4,fc_accents_34_4.mp3,"[1, 2, 6, 3, 4, 5, 3, 1]",0,0.0,4,0,0,1,0,1,1,asc,0
-a237ah,tonic G4,fc_accents_56_1.mp3,"[1, 2, 5, 6, 3, 1]",1,1.0,3,1,0,0,0,2,4,inv-U,0
-a237ah,tonic G4,fc_accents_56_2.mp3,"[1, 2, 6, 5, 6, 3, 1]",1,1.0,4,1,0,0,0,1,1,inv-U,0
-a237ah,tonic G4,fc_accents_56_4.mp3,"[1, 2, 6, 5, 6, 3, 1]",1,1.0,4,1,0,0,0,1,1,inv-U,0
-a237ah,tonic G4,fc_accents_54_4.mp3,"[1, 3, 6, 5, 4, 3, 1]",0,0.0,4,0,0,0,1,1,1,des,0
-a237ah,tonic G4,fc_accents_54_3.mp3,"[1, 2, 6, 5, 4, 5, 3, 1]",1,0.0,4,0,1,0,0,1,1,U,0
-a237ah,tonic G4,fc_accents_54_2.mp3,"[1, 2, 6, 5, 4, 3, 1]",0,0.0,4,0,0,0,1,1,1,des,0
-a237ah,tonic G4,fc_accents_56_3.mp3,"[1, 3, 6, 5, 6, 3, 1]",1,1.0,4,1,0,0,0,1,1,inv-U,0
-a237ah,tonic G4,fc_accents_34_2.mp3,"[1, 2, 3, 4, 3, 1]",0,0.0,3,1,0,0,0,2,4,inv-U,0
-a237ah,tonic G4,fc_accents_32_2.mp3,"[1, 2, 6, 3, 2, 5, 3, 1]",1,1.0,4,0,1,0,0,1,1,U,0
-a237ah,tonic G4,fc_accents_34_3.mp3,"[1, 2, 6, 3, 4, 5, 3, 1]",0,0.0,4,0,0,1,0,1,1,asc,0
-a237ah,tonic G4,fc_accents_54_1.mp3,"[1, 2, 6, 5, 4, 3, 1]",1,0.0,4,0,0,0,1,1,1,des,0
-a237ah,tonic G4,fc_accents_34_1.mp3,"[1, 2, 6, 3, 4, 3, 1]",1,0.0,4,1,0,0,0,1,1,inv-U,0
-a237ah,tonic G4,fc_accents_32_4.mp3,"[1, 2, 6, 3, 2, 5, 3, 1]",1,1.0,4,0,1,0,0,1,1,U,0
-tuyp2m,tonic G4,fc_accents_32_4.mp3,"[1, 2, 6, 3, 2, 5, 3, 1]",1,1.0,4,0,1,0,0,1,1,U,0
-tuyp2m,tonic G4,fc_accents_54_2.mp3,"[1, 2, 6, 5, 4, 3, 1]",1,0.0,4,0,0,0,1,1,1,des,0
-tuyp2m,tonic G4,fc_accents_34_1.mp3,"[1, 2, 6, 3, 4, 3, 1]",0,0.0,4,1,0,0,0,1,1,inv-U,0
-tuyp2m,tonic G4,fc_accents_34_2.mp3,"[1, 2, 3, 4, 3, 1]",1,0.0,3,1,0,0,0,2,4,inv-U,0
-tuyp2m,tonic G4,fc_accents_54_3.mp3,"[1, 2, 6, 5, 4, 5, 3, 1]",0,0.0,4,0,1,0,0,1,1,U,0
-tuyp2m,tonic G4,fc_accents_56_2.mp3,"[1, 2, 6, 5, 6, 3, 1]",1,1.0,4,1,0,0,0,1,1,inv-U,0
-tuyp2m,tonic G4,fc_accents_34_3.mp3,"[1, 2, 6, 3, 4, 5, 3, 1]",1,0.0,4,0,0,1,0,1,1,asc,0
-tuyp2m,tonic G4,fc_accents_56_4.mp3,"[1, 2, 6, 5, 6, 3, 1]",1,1.0,4,1,0,0,0,1,1,inv-U,0
-tuyp2m,tonic G4,fc_accents_56_3.mp3,"[1, 3, 6, 5, 6, 3, 1]",1,1.0,4,1,0,0,0,1,1,inv-U,0
-tuyp2m,tonic G4,fc_accents_56_1.mp3,"[1, 2, 5, 6, 3, 1]",1,1.0,3,1,0,0,0,2,4,inv-U,0
-tuyp2m,tonic G4,fc_accents_54_1.mp3,"[1, 2, 6, 5, 4, 3, 1]",0,0.0,4,0,0,0,1,1,1,des,0
-tuyp2m,tonic G4,fc_accents_32_1.mp3,"[1, 2, 3, 2, 5, 3, 1]",1,1.0,3,0,1,0,0,2,4,U,0
-tuyp2m,tonic G4,fc_accents_34_4.mp3,"[1, 2, 6, 3, 4, 5, 3, 1]",0,0.0,4,0,0,1,0,1,1,asc,0
-tuyp2m,tonic G4,fc_accents_54_4.mp3,"[1, 3, 6, 5, 4, 3, 1]",1,0.0,4,0,0,0,1,1,1,des,0
-tuyp2m,tonic G4,fc_accents_32_2.mp3,"[1, 2, 6, 3, 2, 5, 3, 1]",1,1.0,4,0,1,0,0,1,1,U,0
-tuyp2m,tonic G4,fc_accents_32_3.mp3,"[1, 3, 6, 3, 2, 3, 1]",1,1.0,4,0,1,0,0,1,1,U,0
-j0nqx8,tonic G4,fc_accents_56_2.mp3,"[1, 2, 6, 5, 6, 3, 1]",1,1.0,4,1,0,0,0,1,1,inv-U,0
-j0nqx8,tonic G4,fc_accents_54_1.mp3,"[1, 2, 6, 5, 4, 3, 1]",1,0.0,4,0,0,0,1,1,1,des,0
-j0nqx8,tonic G4,fc_accents_34_4.mp3,"[1, 2, 6, 3, 4, 5, 3, 1]",1,0.0,4,0,0,1,0,1,1,asc,0
-j0nqx8,tonic G4,fc_accents_34_2.mp3,"[1, 2, 3, 4, 3, 1]",1,0.0,3,1,0,0,0,2,4,inv-U,0
-j0nqx8,tonic G4,fc_accents_56_3.mp3,"[1, 3, 6, 5, 6, 3, 1]",1,1.0,4,1,0,0,0,1,1,inv-U,0
-j0nqx8,tonic G4,fc_accents_32_4.mp3,"[1, 2, 6, 3, 2, 5, 3, 1]",1,1.0,4,0,1,0,0,1,1,U,0
-j0nqx8,tonic G4,fc_accents_56_4.mp3,"[1, 2, 6, 5, 6, 3, 1]",1,1.0,4,1,0,0,0,1,1,inv-U,0
-j0nqx8,tonic G4,fc_accents_54_3.mp3,"[1, 2, 6, 5, 4, 5, 3, 1]",1,0.0,4,0,1,0,0,1,1,U,0
-j0nqx8,tonic G4,fc_accents_56_1.mp3,"[1, 2, 5, 6, 3, 1]",1,1.0,3,1,0,0,0,2,4,inv-U,0
-j0nqx8,tonic G4,fc_accents_54_2.mp3,"[1, 2, 6, 5, 4, 3, 1]",1,0.0,4,0,0,0,1,1,1,des,0
-j0nqx8,tonic G4,fc_accents_34_1.mp3,"[1, 2, 6, 3, 4, 3, 1]",1,0.0,4,1,0,0,0,1,1,inv-U,0
-j0nqx8,tonic G4,fc_accents_54_4.mp3,"[1, 3, 6, 5, 4, 3, 1]",1,0.0,4,0,0,0,1,1,1,des,0
-j0nqx8,tonic G4,fc_accents_32_3.mp3,"[1, 3, 6, 3, 2, 3, 1]",1,1.0,4,0,1,0,0,1,1,U,0
-j0nqx8,tonic G4,fc_accents_32_1.mp3,"[1, 2, 3, 2, 5, 3, 1]",0,1.0,3,0,1,0,0,2,4,U,0
-j0nqx8,tonic G4,fc_accents_34_3.mp3,"[1, 2, 6, 3, 4, 5, 3, 1]",1,0.0,4,0,0,1,0,1,1,asc,0
-j0nqx8,tonic G4,fc_accents_32_2.mp3,"[1, 2, 6, 3, 2, 5, 3, 1]",1,1.0,4,0,1,0,0,1,1,U,0
-yb48ry,tonic G4,fc_accents_32_3.mp3,"[1, 3, 6, 3, 2, 3, 1]",1,1.0,4,0,1,0,0,1,1,U,0
-yb48ry,tonic G4,fc_accents_34_2.mp3,"[1, 2, 3, 4, 3, 1]",0,0.0,3,1,0,0,0,2,4,inv-U,0
-yb48ry,tonic G4,fc_accents_32_4.mp3,"[1, 2, 6, 3, 2, 5, 3, 1]",0,1.0,4,0,1,0,0,1,1,U,0
-yb48ry,tonic G4,fc_accents_56_1.mp3,"[1, 2, 5, 6, 3, 1]",0,1.0,3,1,0,0,0,2,4,inv-U,0
-yb48ry,tonic G4,fc_accents_54_3.mp3,"[1, 2, 6, 5, 4, 5, 3, 1]",1,0.0,4,0,1,0,0,1,1,U,0
-yb48ry,tonic G4,fc_accents_56_3.mp3,"[1, 3, 6, 5, 6, 3, 1]",0,1.0,4,1,0,0,0,1,1,inv-U,0
-yb48ry,tonic G4,fc_accents_54_2.mp3,"[1, 2, 6, 5, 4, 3, 1]",0,0.0,4,0,0,0,1,1,1,des,0
-yb48ry,tonic G4,fc_accents_34_4.mp3,"[1, 2, 6, 3, 4, 5, 3, 1]",1,0.0,4,0,0,1,0,1,1,asc,0
-yb48ry,tonic G4,fc_accents_54_1.mp3,"[1, 2, 6, 5, 4, 3, 1]",0,0.0,4,0,0,0,1,1,1,des,0
-yb48ry,tonic G4,fc_accents_34_1.mp3,"[1, 2, 6, 3, 4, 3, 1]",0,0.0,4,1,0,0,0,1,1,inv-U,0
-yb48ry,tonic G4,fc_accents_54_4.mp3,"[1, 3, 6, 5, 4, 3, 1]",1,0.0,4,0,0,0,1,1,1,des,0
-yb48ry,tonic G4,fc_accents_32_2.mp3,"[1, 2, 6, 3, 2, 5, 3, 1]",1,1.0,4,0,1,0,0,1,1,U,0
-yb48ry,tonic G4,fc_accents_56_2.mp3,"[1, 2, 6, 5, 6, 3, 1]",0,1.0,4,1,0,0,0,1,1,inv-U,0
-yb48ry,tonic G4,fc_accents_32_1.mp3,"[1, 2, 3, 2, 5, 3, 1]",0,1.0,3,0,1,0,0,2,4,U,0
-yb48ry,tonic G4,fc_accents_56_4.mp3,"[1, 2, 6, 5, 6, 3, 1]",1,1.0,4,1,0,0,0,1,1,inv-U,0
-yb48ry,tonic G4,fc_accents_34_3.mp3,"[1, 2, 6, 3, 4, 5, 3, 1]",0,0.0,4,0,0,1,0,1,1,asc,0
+dykydm,tonic Cs5,fc_accents_32_4.mp3,"[1, 2, 6, 3, 2, 3, 1]",1,1.0,4,0,1,0,0,1,1,U,0
+dykydm,tonic Cs5,fc_accents_34_1.mp3,"[1, 2, 6, 3, 4, 5, 3, 1]",1,0.0,4,0,0,1,0,1,1,asc,0
+dykydm,tonic Cs5,fc_accents_54_2.mp3,"[1, 2, 6, 5, 4, 5, 3, 1]",0,0.0,4,0,1,0,0,1,1,U,0
+dykydm,tonic Cs5,fc_accents_56_2.mp3,"[1, 2, 6, 5, 6, 5, 3, 1]",0,1.0,4,1,0,0,0,1,1,inv-U,0
+dykydm,tonic Cs5,fc_accents_56_4.mp3,"[1, 2, 6, 5, 6, 5, 3, 1]",0,1.0,4,1,0,0,0,1,1,inv-U,0
+dykydm,tonic Cs5,fc_accents_32_3.mp3,"[1, 2, 6, 3, 2, 3, 1]",0,1.0,4,0,1,0,0,1,1,U,0
+dykydm,tonic Cs5,fc_accents_54_4.mp3,"[1, 2, 6, 5, 4, 3, 1]",1,0.0,4,0,0,0,1,1,1,des,0
+dykydm,tonic Cs5,fc_accents_54_1.mp3,"[1, 2, 6, 5, 4, 3, 1]",0,0.0,4,0,0,0,1,1,1,des,0
+dykydm,tonic Cs5,fc_accents_56_1.mp3,"[1, 2, 6, 5, 6, 3, 1]",0,1.0,4,1,0,0,0,1,1,inv-U,0
+dykydm,tonic Cs5,fc_accents_34_2.mp3,"[1, 2, 6, 3, 4, 5, 3, 1]",0,0.0,4,0,0,1,0,1,1,asc,0
+dykydm,tonic Cs5,fc_accents_34_3.mp3,"[1, 2, 6, 3, 4, 5, 3, 1]",0,0.0,4,0,0,1,0,1,1,asc,0
+dykydm,tonic Cs5,fc_accents_54_3.mp3,"[1, 2, 6, 5, 4, 5, 3, 1]",0,0.0,4,0,1,0,0,1,1,U,0
+dykydm,tonic Cs5,fc_accents_32_2.mp3,"[1, 2, 6, 3, 2, 3, 1]",0,1.0,4,0,1,0,0,1,1,U,0
+dykydm,tonic Cs5,fc_accents_34_4.mp3,"[1, 2, 3, 4, 3, 1]",1,0.0,3,1,0,0,0,2,4,inv-U,0
+dykydm,tonic Cs5,fc_accents_32_1.mp3,"[1, 2, 6, 3, 2, 5, 3, 1]",0,1.0,4,0,1,0,0,1,1,U,0
+dykydm,tonic Cs5,fc_accents_56_3.mp3,"[1, 2, 6, 5, 6, 5, 3, 1]",0,1.0,4,1,0,0,0,1,1,inv-U,0
+vxh5qr,tonic Cs5,fc_accents_34_4.mp3,"[1, 2, 3, 4, 3, 1]",1,0.0,3,1,0,0,0,2,4,inv-U,0
+vxh5qr,tonic Cs5,fc_accents_34_3.mp3,"[1, 2, 6, 3, 4, 5, 3, 1]",0,0.0,4,0,0,1,0,1,1,asc,0
+vxh5qr,tonic Cs5,fc_accents_54_3.mp3,"[1, 2, 6, 5, 4, 5, 3, 1]",0,0.0,4,0,1,0,0,1,1,U,0
+vxh5qr,tonic Cs5,fc_accents_54_2.mp3,"[1, 2, 6, 5, 4, 5, 3, 1]",0,0.0,4,0,1,0,0,1,1,U,0
+vxh5qr,tonic Cs5,fc_accents_56_4.mp3,"[1, 2, 6, 5, 6, 5, 3, 1]",0,1.0,4,1,0,0,0,1,1,inv-U,0
+vxh5qr,tonic Cs5,fc_accents_54_4.mp3,"[1, 2, 6, 5, 4, 3, 1]",1,0.0,4,0,0,0,1,1,1,des,0
+vxh5qr,tonic Cs5,fc_accents_54_1.mp3,"[1, 2, 6, 5, 4, 3, 1]",0,0.0,4,0,0,0,1,1,1,des,0
+vxh5qr,tonic Cs5,fc_accents_32_2.mp3,"[1, 2, 6, 3, 2, 3, 1]",0,1.0,4,0,1,0,0,1,1,U,0
+vxh5qr,tonic Cs5,fc_accents_56_2.mp3,"[1, 2, 6, 5, 6, 5, 3, 1]",0,1.0,4,1,0,0,0,1,1,inv-U,0
+vxh5qr,tonic Cs5,fc_accents_32_1.mp3,"[1, 2, 6, 3, 2, 5, 3, 1]",0,1.0,4,0,1,0,0,1,1,U,0
+vxh5qr,tonic Cs5,fc_accents_32_4.mp3,"[1, 2, 6, 3, 2, 3, 1]",1,1.0,4,0,1,0,0,1,1,U,0
+vxh5qr,tonic Cs5,fc_accents_56_3.mp3,"[1, 2, 6, 5, 6, 5, 3, 1]",1,1.0,4,1,0,0,0,1,1,inv-U,0
+vxh5qr,tonic Cs5,fc_accents_56_1.mp3,"[1, 2, 6, 5, 6, 3, 1]",1,1.0,4,1,0,0,0,1,1,inv-U,0
+vxh5qr,tonic Cs5,fc_accents_34_1.mp3,"[1, 2, 6, 3, 4, 5, 3, 1]",0,0.0,4,0,0,1,0,1,1,asc,0
+vxh5qr,tonic Cs5,fc_accents_32_3.mp3,"[1, 2, 6, 3, 2, 3, 1]",0,1.0,4,0,1,0,0,1,1,U,0
+vxh5qr,tonic Cs5,fc_accents_34_2.mp3,"[1, 2, 6, 3, 4, 5, 3, 1]",1,0.0,4,0,0,1,0,1,1,asc,0
+jkxofs,tonic Cs5,fc_accents_32_2.mp3,"[1, 2, 6, 3, 2, 3, 1]",1,1.0,4,0,1,0,0,1,1,U,0
+jkxofs,tonic Cs5,fc_accents_54_2.mp3,"[1, 2, 6, 5, 4, 5, 3, 1]",1,0.0,4,0,1,0,0,1,1,U,0
+jkxofs,tonic Cs5,fc_accents_54_3.mp3,"[1, 2, 6, 5, 4, 5, 3, 1]",1,0.0,4,0,1,0,0,1,1,U,0
+jkxofs,tonic Cs5,fc_accents_56_3.mp3,"[1, 2, 6, 5, 6, 5, 3, 1]",1,1.0,4,1,0,0,0,1,1,inv-U,0
+jkxofs,tonic Cs5,fc_accents_34_1.mp3,"[1, 2, 6, 3, 4, 5, 3, 1]",1,0.0,4,0,0,1,0,1,1,asc,0
+jkxofs,tonic Cs5,fc_accents_56_4.mp3,"[1, 2, 6, 5, 6, 5, 3, 1]",1,1.0,4,1,0,0,0,1,1,inv-U,0
+jkxofs,tonic Cs5,fc_accents_34_4.mp3,"[1, 2, 3, 4, 3, 1]",1,0.0,3,1,0,0,0,2,4,inv-U,0
+jkxofs,tonic Cs5,fc_accents_32_1.mp3,"[1, 2, 6, 3, 2, 5, 3, 1]",0,1.0,4,0,1,0,0,1,1,U,0
+jkxofs,tonic Cs5,fc_accents_54_1.mp3,"[1, 2, 6, 5, 4, 3, 1]",0,0.0,4,0,0,0,1,1,1,des,0
+jkxofs,tonic Cs5,fc_accents_56_1.mp3,"[1, 2, 6, 5, 6, 3, 1]",1,1.0,4,1,0,0,0,1,1,inv-U,0
+jkxofs,tonic Cs5,fc_accents_54_4.mp3,"[1, 2, 6, 5, 4, 3, 1]",1,0.0,4,0,0,0,1,1,1,des,0
+jkxofs,tonic Cs5,fc_accents_32_3.mp3,"[1, 2, 6, 3, 2, 3, 1]",0,1.0,4,0,1,0,0,1,1,U,0
+jkxofs,tonic Cs5,fc_accents_56_2.mp3,"[1, 2, 6, 5, 6, 5, 3, 1]",1,1.0,4,1,0,0,0,1,1,inv-U,0
+jkxofs,tonic Cs5,fc_accents_34_3.mp3,"[1, 2, 6, 3, 4, 5, 3, 1]",0,0.0,4,0,0,1,0,1,1,asc,0
+jkxofs,tonic Cs5,fc_accents_34_2.mp3,"[1, 2, 6, 3, 4, 5, 3, 1]",1,0.0,4,0,0,1,0,1,1,asc,0
+jkxofs,tonic Cs5,fc_accents_32_4.mp3,"[1, 2, 6, 3, 2, 3, 1]",1,1.0,4,0,1,0,0,1,1,U,0
+8ybm77,tonic Cs5,fc_accents_32_4.mp3,"[1, 2, 6, 3, 2, 3, 1]",0,1.0,4,0,1,0,0,1,1,U,0
+8ybm77,tonic Cs5,fc_accents_56_1.mp3,"[1, 2, 6, 5, 6, 3, 1]",0,1.0,4,1,0,0,0,1,1,inv-U,0
+8ybm77,tonic Cs5,fc_accents_32_3.mp3,"[1, 2, 6, 3, 2, 3, 1]",0,1.0,4,0,1,0,0,1,1,U,0
+8ybm77,tonic Cs5,fc_accents_34_4.mp3,"[1, 2, 3, 4, 3, 1]",1,0.0,3,1,0,0,0,2,4,inv-U,0
+8ybm77,tonic Cs5,fc_accents_34_2.mp3,"[1, 2, 6, 3, 4, 5, 3, 1]",0,0.0,4,0,0,1,0,1,1,asc,0
+8ybm77,tonic Cs5,fc_accents_54_3.mp3,"[1, 2, 6, 5, 4, 5, 3, 1]",1,0.0,4,0,1,0,0,1,1,U,0
+8ybm77,tonic Cs5,fc_accents_56_2.mp3,"[1, 2, 6, 5, 6, 5, 3, 1]",1,1.0,4,1,0,0,0,1,1,inv-U,0
+8ybm77,tonic Cs5,fc_accents_34_1.mp3,"[1, 2, 6, 3, 4, 5, 3, 1]",1,0.0,4,0,0,1,0,1,1,asc,0
+8ybm77,tonic Cs5,fc_accents_54_1.mp3,"[1, 2, 6, 5, 4, 3, 1]",1,0.0,4,0,0,0,1,1,1,des,0
+8ybm77,tonic Cs5,fc_accents_32_2.mp3,"[1, 2, 6, 3, 2, 3, 1]",1,1.0,4,0,1,0,0,1,1,U,0
+8ybm77,tonic Cs5,fc_accents_34_3.mp3,"[1, 2, 6, 3, 4, 5, 3, 1]",1,0.0,4,0,0,1,0,1,1,asc,0
+8ybm77,tonic Cs5,fc_accents_54_2.mp3,"[1, 2, 6, 5, 4, 5, 3, 1]",1,0.0,4,0,1,0,0,1,1,U,0
+8ybm77,tonic Cs5,fc_accents_54_4.mp3,"[1, 2, 6, 5, 4, 3, 1]",1,0.0,4,0,0,0,1,1,1,des,0
+8ybm77,tonic Cs5,fc_accents_56_3.mp3,"[1, 2, 6, 5, 6, 5, 3, 1]",1,1.0,4,1,0,0,0,1,1,inv-U,0
+8ybm77,tonic Cs5,fc_accents_32_1.mp3,"[1, 2, 6, 3, 2, 5, 3, 1]",0,1.0,4,0,1,0,0,1,1,U,0
+8ybm77,tonic Cs5,fc_accents_56_4.mp3,"[1, 2, 6, 5, 6, 5, 3, 1]",1,1.0,4,1,0,0,0,1,1,inv-U,0
+s6puyw,tonic Cs5,fc_accents_56_2.mp3,"[1, 2, 6, 5, 6, 5, 3, 1]",0,1.0,4,1,0,0,0,1,1,inv-U,0
+s6puyw,tonic Cs5,fc_accents_34_1.mp3,"[1, 2, 6, 3, 4, 5, 3, 1]",1,0.0,4,0,0,1,0,1,1,asc,0
+s6puyw,tonic Cs5,fc_accents_54_4.mp3,"[1, 2, 6, 5, 4, 3, 1]",1,0.0,4,0,0,0,1,1,1,des,0
+s6puyw,tonic Cs5,fc_accents_54_1.mp3,"[1, 2, 6, 5, 4, 3, 1]",0,0.0,4,0,0,0,1,1,1,des,0
+s6puyw,tonic Cs5,fc_accents_32_3.mp3,"[1, 2, 6, 3, 2, 3, 1]",0,1.0,4,0,1,0,0,1,1,U,0
+s6puyw,tonic Cs5,fc_accents_56_4.mp3,"[1, 2, 6, 5, 6, 5, 3, 1]",0,1.0,4,1,0,0,0,1,1,inv-U,0
+s6puyw,tonic Cs5,fc_accents_32_2.mp3,"[1, 2, 6, 3, 2, 3, 1]",0,1.0,4,0,1,0,0,1,1,U,0
+s6puyw,tonic Cs5,fc_accents_54_2.mp3,"[1, 2, 6, 5, 4, 5, 3, 1]",0,0.0,4,0,1,0,0,1,1,U,0
+s6puyw,tonic Cs5,fc_accents_34_4.mp3,"[1, 2, 3, 4, 3, 1]",0,0.0,3,1,0,0,0,2,4,inv-U,0
+s6puyw,tonic Cs5,fc_accents_54_3.mp3,"[1, 2, 6, 5, 4, 5, 3, 1]",1,0.0,4,0,1,0,0,1,1,U,0
+s6puyw,tonic Cs5,fc_accents_34_3.mp3,"[1, 2, 6, 3, 4, 5, 3, 1]",1,0.0,4,0,0,1,0,1,1,asc,0
+s6puyw,tonic Cs5,fc_accents_56_3.mp3,"[1, 2, 6, 5, 6, 5, 3, 1]",0,1.0,4,1,0,0,0,1,1,inv-U,0
+s6puyw,tonic Cs5,fc_accents_34_2.mp3,"[1, 2, 6, 3, 4, 5, 3, 1]",0,0.0,4,0,0,1,0,1,1,asc,0
+s6puyw,tonic Cs5,fc_accents_32_4.mp3,"[1, 2, 6, 3, 2, 3, 1]",0,1.0,4,0,1,0,0,1,1,U,0
+s6puyw,tonic Cs5,fc_accents_32_1.mp3,"[1, 2, 6, 3, 2, 5, 3, 1]",0,1.0,4,0,1,0,0,1,1,U,0
+s6puyw,tonic Cs5,fc_accents_56_1.mp3,"[1, 2, 6, 5, 6, 3, 1]",0,1.0,4,1,0,0,0,1,1,inv-U,0
+yh59cq,tonic Cs5,fc_accents_54_2.mp3,"[1, 2, 6, 5, 4, 5, 3, 1]",0,0.0,4,0,1,0,0,1,1,U,0
+yh59cq,tonic Cs5,fc_accents_34_2.mp3,"[1, 2, 6, 3, 4, 5, 3, 1]",0,0.0,4,0,0,1,0,1,1,asc,0
+yh59cq,tonic Cs5,fc_accents_32_2.mp3,"[1, 2, 6, 3, 2, 3, 1]",1,1.0,4,0,1,0,0,1,1,U,0
+yh59cq,tonic Cs5,fc_accents_54_3.mp3,"[1, 2, 6, 5, 4, 5, 3, 1]",1,0.0,4,0,1,0,0,1,1,U,0
+yh59cq,tonic Cs5,fc_accents_32_1.mp3,"[1, 2, 6, 3, 2, 5, 3, 1]",0,1.0,4,0,1,0,0,1,1,U,0
+yh59cq,tonic Cs5,fc_accents_34_3.mp3,"[1, 2, 6, 3, 4, 5, 3, 1]",0,0.0,4,0,0,1,0,1,1,asc,0
+yh59cq,tonic Cs5,fc_accents_32_3.mp3,"[1, 2, 6, 3, 2, 3, 1]",1,1.0,4,0,1,0,0,1,1,U,0
+yh59cq,tonic Cs5,fc_accents_56_4.mp3,"[1, 2, 6, 5, 6, 5, 3, 1]",0,1.0,4,1,0,0,0,1,1,inv-U,0
+yh59cq,tonic Cs5,fc_accents_32_4.mp3,"[1, 2, 6, 3, 2, 3, 1]",1,1.0,4,0,1,0,0,1,1,U,0
+yh59cq,tonic Cs5,fc_accents_56_3.mp3,"[1, 2, 6, 5, 6, 5, 3, 1]",0,1.0,4,1,0,0,0,1,1,inv-U,0
+yh59cq,tonic Cs5,fc_accents_56_2.mp3,"[1, 2, 6, 5, 6, 5, 3, 1]",0,1.0,4,1,0,0,0,1,1,inv-U,0
+yh59cq,tonic Cs5,fc_accents_54_1.mp3,"[1, 2, 6, 5, 4, 3, 1]",1,0.0,4,0,0,0,1,1,1,des,0
+yh59cq,tonic Cs5,fc_accents_34_1.mp3,"[1, 2, 6, 3, 4, 5, 3, 1]",1,0.0,4,0,0,1,0,1,1,asc,0
+yh59cq,tonic Cs5,fc_accents_54_4.mp3,"[1, 2, 6, 5, 4, 3, 1]",0,0.0,4,0,0,0,1,1,1,des,0
+yh59cq,tonic Cs5,fc_accents_56_1.mp3,"[1, 2, 6, 5, 6, 3, 1]",0,1.0,4,1,0,0,0,1,1,inv-U,0
+yh59cq,tonic Cs5,fc_accents_34_4.mp3,"[1, 2, 3, 4, 3, 1]",1,0.0,3,1,0,0,0,2,4,inv-U,0
+rz4nxs,tonic Cs5,fc_accents_54_4.mp3,"[1, 2, 6, 5, 4, 3, 1]",0,0.0,4,0,0,0,1,1,1,des,1
+rz4nxs,tonic Cs5,fc_accents_56_1.mp3,"[1, 2, 6, 5, 6, 3, 1]",0,1.0,4,1,0,0,0,1,1,inv-U,1
+rz4nxs,tonic Cs5,fc_accents_34_3.mp3,"[1, 2, 6, 3, 4, 5, 3, 1]",0,0.0,4,0,0,1,0,1,1,asc,1
+rz4nxs,tonic Cs5,fc_accents_56_4.mp3,"[1, 2, 6, 5, 6, 5, 3, 1]",0,1.0,4,1,0,0,0,1,1,inv-U,1
+rz4nxs,tonic Cs5,fc_accents_32_2.mp3,"[1, 2, 6, 3, 2, 3, 1]",0,1.0,4,0,1,0,0,1,1,U,1
+rz4nxs,tonic Cs5,fc_accents_54_3.mp3,"[1, 2, 6, 5, 4, 5, 3, 1]",0,0.0,4,0,1,0,0,1,1,U,1
+rz4nxs,tonic Cs5,fc_accents_34_2.mp3,"[1, 2, 6, 3, 4, 5, 3, 1]",0,0.0,4,0,0,1,0,1,1,asc,1
+rz4nxs,tonic Cs5,fc_accents_32_3.mp3,"[1, 2, 6, 3, 2, 3, 1]",0,1.0,4,0,1,0,0,1,1,U,1
+rz4nxs,tonic Cs5,fc_accents_32_4.mp3,"[1, 2, 6, 3, 2, 3, 1]",0,1.0,4,0,1,0,0,1,1,U,1
+rz4nxs,tonic Cs5,fc_accents_54_2.mp3,"[1, 2, 6, 5, 4, 5, 3, 1]",0,0.0,4,0,1,0,0,1,1,U,1
+rz4nxs,tonic Cs5,fc_accents_56_3.mp3,"[1, 2, 6, 5, 6, 5, 3, 1]",0,1.0,4,1,0,0,0,1,1,inv-U,1
+rz4nxs,tonic Cs5,fc_accents_32_1.mp3,"[1, 2, 6, 3, 2, 5, 3, 1]",0,1.0,4,0,1,0,0,1,1,U,1
+rz4nxs,tonic Cs5,fc_accents_54_1.mp3,"[1, 2, 6, 5, 4, 3, 1]",0,0.0,4,0,0,0,1,1,1,des,1
+rz4nxs,tonic Cs5,fc_accents_56_2.mp3,"[1, 2, 6, 5, 6, 5, 3, 1]",0,1.0,4,1,0,0,0,1,1,inv-U,1
+rz4nxs,tonic Cs5,fc_accents_34_1.mp3,"[1, 2, 6, 3, 4, 5, 3, 1]",0,0.0,4,0,0,1,0,1,1,asc,1
+rz4nxs,tonic Cs5,fc_accents_34_4.mp3,"[1, 2, 3, 4, 3, 1]",0,0.0,3,1,0,0,0,2,4,inv-U,1
+rewc3a,tonic Cs5,fc_accents_34_3.mp3,"[1, 2, 6, 3, 4, 5, 3, 1]",1,0.0,4,0,0,1,0,1,1,asc,0
+rewc3a,tonic Cs5,fc_accents_56_1.mp3,"[1, 2, 6, 5, 6, 3, 1]",1,1.0,4,1,0,0,0,1,1,inv-U,0
+rewc3a,tonic Cs5,fc_accents_32_1.mp3,"[1, 2, 6, 3, 2, 5, 3, 1]",1,1.0,4,0,1,0,0,1,1,U,0
+rewc3a,tonic Cs5,fc_accents_54_4.mp3,"[1, 2, 6, 5, 4, 3, 1]",1,0.0,4,0,0,0,1,1,1,des,0
+rewc3a,tonic Cs5,fc_accents_54_3.mp3,"[1, 2, 6, 5, 4, 5, 3, 1]",1,0.0,4,0,1,0,0,1,1,U,0
+rewc3a,tonic Cs5,fc_accents_32_3.mp3,"[1, 2, 6, 3, 2, 3, 1]",1,1.0,4,0,1,0,0,1,1,U,0
+rewc3a,tonic Cs5,fc_accents_56_3.mp3,"[1, 2, 6, 5, 6, 5, 3, 1]",0,1.0,4,1,0,0,0,1,1,inv-U,0
+rewc3a,tonic Cs5,fc_accents_54_2.mp3,"[1, 2, 6, 5, 4, 5, 3, 1]",1,0.0,4,0,1,0,0,1,1,U,0
+rewc3a,tonic Cs5,fc_accents_32_4.mp3,"[1, 2, 6, 3, 2, 3, 1]",0,1.0,4,0,1,0,0,1,1,U,0
+rewc3a,tonic Cs5,fc_accents_34_1.mp3,"[1, 2, 6, 3, 4, 5, 3, 1]",0,0.0,4,0,0,1,0,1,1,asc,0
+rewc3a,tonic Cs5,fc_accents_32_2.mp3,"[1, 2, 6, 3, 2, 3, 1]",0,1.0,4,0,1,0,0,1,1,U,0
+rewc3a,tonic Cs5,fc_accents_56_2.mp3,"[1, 2, 6, 5, 6, 5, 3, 1]",1,1.0,4,1,0,0,0,1,1,inv-U,0
+rewc3a,tonic Cs5,fc_accents_34_4.mp3,"[1, 2, 3, 4, 3, 1]",0,0.0,3,1,0,0,0,2,4,inv-U,0
+rewc3a,tonic Cs5,fc_accents_34_2.mp3,"[1, 2, 6, 3, 4, 5, 3, 1]",1,0.0,4,0,0,1,0,1,1,asc,0
+rewc3a,tonic Cs5,fc_accents_54_1.mp3,"[1, 2, 6, 5, 4, 3, 1]",1,0.0,4,0,0,0,1,1,1,des,0
+rewc3a,tonic Cs5,fc_accents_56_4.mp3,"[1, 2, 6, 5, 6, 5, 3, 1]",1,1.0,4,1,0,0,0,1,1,inv-U,0
+51s1gf,tonic Cs5,fc_accents_34_3.mp3,"[1, 2, 6, 3, 4, 5, 3, 1]",1,0.0,4,0,0,1,0,1,1,asc,0
+51s1gf,tonic Cs5,fc_accents_32_2.mp3,"[1, 2, 6, 3, 2, 3, 1]",1,1.0,4,0,1,0,0,1,1,U,0
+51s1gf,tonic Cs5,fc_accents_34_2.mp3,"[1, 2, 6, 3, 4, 5, 3, 1]",1,0.0,4,0,0,1,0,1,1,asc,0
+51s1gf,tonic Cs5,fc_accents_54_4.mp3,"[1, 2, 6, 5, 4, 3, 1]",0,0.0,4,0,0,0,1,1,1,des,0
+51s1gf,tonic Cs5,fc_accents_32_1.mp3,"[1, 2, 6, 3, 2, 5, 3, 1]",0,1.0,4,0,1,0,0,1,1,U,0
+51s1gf,tonic Cs5,fc_accents_34_4.mp3,"[1, 2, 3, 4, 3, 1]",1,0.0,3,1,0,0,0,2,4,inv-U,0
+51s1gf,tonic Cs5,fc_accents_56_1.mp3,"[1, 2, 6, 5, 6, 3, 1]",0,1.0,4,1,0,0,0,1,1,inv-U,0
+51s1gf,tonic Cs5,fc_accents_56_3.mp3,"[1, 2, 6, 5, 6, 5, 3, 1]",1,1.0,4,1,0,0,0,1,1,inv-U,0
+51s1gf,tonic Cs5,fc_accents_32_3.mp3,"[1, 2, 6, 3, 2, 3, 1]",1,1.0,4,0,1,0,0,1,1,U,0
+51s1gf,tonic Cs5,fc_accents_54_3.mp3,"[1, 2, 6, 5, 4, 5, 3, 1]",0,0.0,4,0,1,0,0,1,1,U,0
+51s1gf,tonic Cs5,fc_accents_54_1.mp3,"[1, 2, 6, 5, 4, 3, 1]",0,0.0,4,0,0,0,1,1,1,des,0
+51s1gf,tonic Cs5,fc_accents_56_2.mp3,"[1, 2, 6, 5, 6, 5, 3, 1]",1,1.0,4,1,0,0,0,1,1,inv-U,0
+51s1gf,tonic Cs5,fc_accents_54_2.mp3,"[1, 2, 6, 5, 4, 5, 3, 1]",1,0.0,4,0,1,0,0,1,1,U,0
+51s1gf,tonic Cs5,fc_accents_34_1.mp3,"[1, 2, 6, 3, 4, 5, 3, 1]",1,0.0,4,0,0,1,0,1,1,asc,0
+51s1gf,tonic Cs5,fc_accents_32_4.mp3,"[1, 2, 6, 3, 2, 3, 1]",1,1.0,4,0,1,0,0,1,1,U,0
+51s1gf,tonic Cs5,fc_accents_56_4.mp3,"[1, 2, 6, 5, 6, 5, 3, 1]",1,1.0,4,1,0,0,0,1,1,inv-U,0
+cvyowf,tonic Cs5,fc_accents_56_2.mp3,"[1, 2, 6, 5, 6, 5, 3, 1]",0,1.0,4,1,0,0,0,1,1,inv-U,1
+cvyowf,tonic Cs5,fc_accents_54_1.mp3,"[1, 2, 6, 5, 4, 3, 1]",0,0.0,4,0,0,0,1,1,1,des,1
+cvyowf,tonic Cs5,fc_accents_56_1.mp3,"[1, 2, 6, 5, 6, 3, 1]",1,1.0,4,1,0,0,0,1,1,inv-U,1
+cvyowf,tonic Cs5,fc_accents_54_4.mp3,"[1, 2, 6, 5, 4, 3, 1]",1,0.0,4,0,0,0,1,1,1,des,1
+cvyowf,tonic Cs5,fc_accents_32_4.mp3,"[1, 2, 6, 3, 2, 3, 1]",0,1.0,4,0,1,0,0,1,1,U,1
+cvyowf,tonic Cs5,fc_accents_32_1.mp3,"[1, 2, 6, 3, 2, 5, 3, 1]",0,1.0,4,0,1,0,0,1,1,U,1
+cvyowf,tonic Cs5,fc_accents_54_3.mp3,"[1, 2, 6, 5, 4, 5, 3, 1]",0,0.0,4,0,1,0,0,1,1,U,1
+cvyowf,tonic Cs5,fc_accents_34_1.mp3,"[1, 2, 6, 3, 4, 5, 3, 1]",1,0.0,4,0,0,1,0,1,1,asc,1
+cvyowf,tonic Cs5,fc_accents_56_4.mp3,"[1, 2, 6, 5, 6, 5, 3, 1]",1,1.0,4,1,0,0,0,1,1,inv-U,1
+cvyowf,tonic Cs5,fc_accents_56_3.mp3,"[1, 2, 6, 5, 6, 5, 3, 1]",1,1.0,4,1,0,0,0,1,1,inv-U,1
+cvyowf,tonic Cs5,fc_accents_54_2.mp3,"[1, 2, 6, 5, 4, 5, 3, 1]",0,0.0,4,0,1,0,0,1,1,U,1
+cvyowf,tonic Cs5,fc_accents_32_3.mp3,"[1, 2, 6, 3, 2, 3, 1]",1,1.0,4,0,1,0,0,1,1,U,1
+cvyowf,tonic Cs5,fc_accents_32_2.mp3,"[1, 2, 6, 3, 2, 3, 1]",1,1.0,4,0,1,0,0,1,1,U,1
+cvyowf,tonic Cs5,fc_accents_34_2.mp3,"[1, 2, 6, 3, 4, 5, 3, 1]",0,0.0,4,0,0,1,0,1,1,asc,1
+cvyowf,tonic Cs5,fc_accents_34_3.mp3,"[1, 2, 6, 3, 4, 5, 3, 1]",1,0.0,4,0,0,1,0,1,1,asc,1
+cvyowf,tonic Cs5,fc_accents_34_4.mp3,"[1, 2, 3, 4, 3, 1]",0,0.0,3,1,0,0,0,2,4,inv-U,1
+jvoox5,tonic Cs5,fc_accents_34_3.mp3,"[1, 2, 6, 3, 4, 5, 3, 1]",0,0.0,4,0,0,1,0,1,1,asc,1
+jvoox5,tonic Cs5,fc_accents_32_1.mp3,"[1, 2, 6, 3, 2, 5, 3, 1]",0,1.0,4,0,1,0,0,1,1,U,1
+jvoox5,tonic Cs5,fc_accents_54_4.mp3,"[1, 2, 6, 5, 4, 3, 1]",1,0.0,4,0,0,0,1,1,1,des,1
+jvoox5,tonic Cs5,fc_accents_56_1.mp3,"[1, 2, 6, 5, 6, 3, 1]",0,1.0,4,1,0,0,0,1,1,inv-U,1
+jvoox5,tonic Cs5,fc_accents_56_3.mp3,"[1, 2, 6, 5, 6, 5, 3, 1]",0,1.0,4,1,0,0,0,1,1,inv-U,1
+jvoox5,tonic Cs5,fc_accents_32_4.mp3,"[1, 2, 6, 3, 2, 3, 1]",0,1.0,4,0,1,0,0,1,1,U,1
+jvoox5,tonic Cs5,fc_accents_32_3.mp3,"[1, 2, 6, 3, 2, 3, 1]",0,1.0,4,0,1,0,0,1,1,U,1
+jvoox5,tonic Cs5,fc_accents_56_2.mp3,"[1, 2, 6, 5, 6, 5, 3, 1]",0,1.0,4,1,0,0,0,1,1,inv-U,1
+jvoox5,tonic Cs5,fc_accents_34_2.mp3,"[1, 2, 6, 3, 4, 5, 3, 1]",1,0.0,4,0,0,1,0,1,1,asc,1
+jvoox5,tonic Cs5,fc_accents_34_4.mp3,"[1, 2, 3, 4, 3, 1]",1,0.0,3,1,0,0,0,2,4,inv-U,1
+jvoox5,tonic Cs5,fc_accents_54_2.mp3,"[1, 2, 6, 5, 4, 5, 3, 1]",1,0.0,4,0,1,0,0,1,1,U,1
+jvoox5,tonic Cs5,fc_accents_34_1.mp3,"[1, 2, 6, 3, 4, 5, 3, 1]",1,0.0,4,0,0,1,0,1,1,asc,1
+jvoox5,tonic Cs5,fc_accents_32_2.mp3,"[1, 2, 6, 3, 2, 3, 1]",0,1.0,4,0,1,0,0,1,1,U,1
+jvoox5,tonic Cs5,fc_accents_54_3.mp3,"[1, 2, 6, 5, 4, 5, 3, 1]",0,0.0,4,0,1,0,0,1,1,U,1
+jvoox5,tonic Cs5,fc_accents_56_4.mp3,"[1, 2, 6, 5, 6, 5, 3, 1]",1,1.0,4,1,0,0,0,1,1,inv-U,1
+jvoox5,tonic Cs5,fc_accents_54_1.mp3,"[1, 2, 6, 5, 4, 3, 1]",1,0.0,4,0,0,0,1,1,1,des,1
+0b26we,tonic Cs5,fc_accents_32_1.mp3,"[1, 2, 6, 3, 2, 5, 3, 1]",0,1.0,4,0,1,0,0,1,1,U,0
+0b26we,tonic Cs5,fc_accents_34_3.mp3,"[1, 2, 6, 3, 4, 5, 3, 1]",0,0.0,4,0,0,1,0,1,1,asc,0
+0b26we,tonic Cs5,fc_accents_32_3.mp3,"[1, 2, 6, 3, 2, 3, 1]",0,1.0,4,0,1,0,0,1,1,U,0
+0b26we,tonic Cs5,fc_accents_54_3.mp3,"[1, 2, 6, 5, 4, 5, 3, 1]",0,0.0,4,0,1,0,0,1,1,U,0
+0b26we,tonic Cs5,fc_accents_32_4.mp3,"[1, 2, 6, 3, 2, 3, 1]",0,1.0,4,0,1,0,0,1,1,U,0
+0b26we,tonic Cs5,fc_accents_34_2.mp3,"[1, 2, 6, 3, 4, 5, 3, 1]",0,0.0,4,0,0,1,0,1,1,asc,0
+0b26we,tonic Cs5,fc_accents_54_2.mp3,"[1, 2, 6, 5, 4, 5, 3, 1]",0,0.0,4,0,1,0,0,1,1,U,0
+0b26we,tonic Cs5,fc_accents_56_2.mp3,"[1, 2, 6, 5, 6, 5, 3, 1]",0,1.0,4,1,0,0,0,1,1,inv-U,0
+0b26we,tonic Cs5,fc_accents_34_4.mp3,"[1, 2, 3, 4, 3, 1]",1,0.0,3,1,0,0,0,2,4,inv-U,0
+0b26we,tonic Cs5,fc_accents_56_4.mp3,"[1, 2, 6, 5, 6, 5, 3, 1]",0,1.0,4,1,0,0,0,1,1,inv-U,0
+0b26we,tonic Cs5,fc_accents_34_1.mp3,"[1, 2, 6, 3, 4, 5, 3, 1]",0,0.0,4,0,0,1,0,1,1,asc,0
+0b26we,tonic Cs5,fc_accents_54_1.mp3,"[1, 2, 6, 5, 4, 3, 1]",0,0.0,4,0,0,0,1,1,1,des,0
+0b26we,tonic Cs5,fc_accents_32_2.mp3,"[1, 2, 6, 3, 2, 3, 1]",0,1.0,4,0,1,0,0,1,1,U,0
+0b26we,tonic Cs5,fc_accents_56_1.mp3,"[1, 2, 6, 5, 6, 3, 1]",0,1.0,4,1,0,0,0,1,1,inv-U,0
+0b26we,tonic Cs5,fc_accents_54_4.mp3,"[1, 2, 6, 5, 4, 3, 1]",1,0.0,4,0,0,0,1,1,1,des,0
+0b26we,tonic Cs5,fc_accents_56_3.mp3,"[1, 2, 6, 5, 6, 5, 3, 1]",0,1.0,4,1,0,0,0,1,1,inv-U,0
+uu9050,tonic Cs5,fc_accents_32_4.mp3,"[1, 2, 6, 3, 2, 3, 1]",0,1.0,4,0,1,0,0,1,1,U,0
+uu9050,tonic Cs5,fc_accents_54_4.mp3,"[1, 2, 6, 5, 4, 3, 1]",1,0.0,4,0,0,0,1,1,1,des,0
+uu9050,tonic Cs5,fc_accents_56_3.mp3,"[1, 2, 6, 5, 6, 5, 3, 1]",1,1.0,4,1,0,0,0,1,1,inv-U,0
+uu9050,tonic Cs5,fc_accents_34_2.mp3,"[1, 2, 6, 3, 4, 5, 3, 1]",1,0.0,4,0,0,1,0,1,1,asc,0
+uu9050,tonic Cs5,fc_accents_56_4.mp3,"[1, 2, 6, 5, 6, 5, 3, 1]",0,1.0,4,1,0,0,0,1,1,inv-U,0
+uu9050,tonic Cs5,fc_accents_56_1.mp3,"[1, 2, 6, 5, 6, 3, 1]",1,1.0,4,1,0,0,0,1,1,inv-U,0
+uu9050,tonic Cs5,fc_accents_54_2.mp3,"[1, 2, 6, 5, 4, 5, 3, 1]",1,0.0,4,0,1,0,0,1,1,U,0
+uu9050,tonic Cs5,fc_accents_32_1.mp3,"[1, 2, 6, 3, 2, 5, 3, 1]",0,1.0,4,0,1,0,0,1,1,U,0
+uu9050,tonic Cs5,fc_accents_54_1.mp3,"[1, 2, 6, 5, 4, 3, 1]",1,0.0,4,0,0,0,1,1,1,des,0
+uu9050,tonic Cs5,fc_accents_34_3.mp3,"[1, 2, 6, 3, 4, 5, 3, 1]",1,0.0,4,0,0,1,0,1,1,asc,0
+uu9050,tonic Cs5,fc_accents_54_3.mp3,"[1, 2, 6, 5, 4, 5, 3, 1]",1,0.0,4,0,1,0,0,1,1,U,0
+uu9050,tonic Cs5,fc_accents_34_4.mp3,"[1, 2, 3, 4, 3, 1]",1,0.0,3,1,0,0,0,2,4,inv-U,0
+uu9050,tonic Cs5,fc_accents_56_2.mp3,"[1, 2, 6, 5, 6, 5, 3, 1]",1,1.0,4,1,0,0,0,1,1,inv-U,0
+uu9050,tonic Cs5,fc_accents_32_2.mp3,"[1, 2, 6, 3, 2, 3, 1]",1,1.0,4,0,1,0,0,1,1,U,0
+uu9050,tonic Cs5,fc_accents_34_1.mp3,"[1, 2, 6, 3, 4, 5, 3, 1]",1,0.0,4,0,0,1,0,1,1,asc,0
+uu9050,tonic Cs5,fc_accents_32_3.mp3,"[1, 2, 6, 3, 2, 3, 1]",1,1.0,4,0,1,0,0,1,1,U,0
+s3eylm,tonic Cs5,fc_accents_54_2.mp3,"[1, 2, 6, 5, 4, 5, 3, 1]",0,0.0,4,0,1,0,0,1,1,U,0
+s3eylm,tonic Cs5,fc_accents_56_3.mp3,"[1, 2, 6, 5, 6, 5, 3, 1]",0,1.0,4,1,0,0,0,1,1,inv-U,0
+s3eylm,tonic Cs5,fc_accents_54_3.mp3,"[1, 2, 6, 5, 4, 5, 3, 1]",0,0.0,4,0,1,0,0,1,1,U,0
+s3eylm,tonic Cs5,fc_accents_32_3.mp3,"[1, 2, 6, 3, 2, 3, 1]",0,1.0,4,0,1,0,0,1,1,U,0
+s3eylm,tonic Cs5,fc_accents_56_1.mp3,"[1, 2, 6, 5, 6, 3, 1]",0,1.0,4,1,0,0,0,1,1,inv-U,0
+s3eylm,tonic Cs5,fc_accents_32_4.mp3,"[1, 2, 6, 3, 2, 3, 1]",0,1.0,4,0,1,0,0,1,1,U,0
+s3eylm,tonic Cs5,fc_accents_56_4.mp3,"[1, 2, 6, 5, 6, 5, 3, 1]",0,1.0,4,1,0,0,0,1,1,inv-U,0
+s3eylm,tonic Cs5,fc_accents_54_1.mp3,"[1, 2, 6, 5, 4, 3, 1]",0,0.0,4,0,0,0,1,1,1,des,0
+s3eylm,tonic Cs5,fc_accents_34_2.mp3,"[1, 2, 6, 3, 4, 5, 3, 1]",0,0.0,4,0,0,1,0,1,1,asc,0
+s3eylm,tonic Cs5,fc_accents_34_3.mp3,"[1, 2, 6, 3, 4, 5, 3, 1]",0,0.0,4,0,0,1,0,1,1,asc,0
+s3eylm,tonic Cs5,fc_accents_34_1.mp3,"[1, 2, 6, 3, 4, 5, 3, 1]",0,0.0,4,0,0,1,0,1,1,asc,0
+s3eylm,tonic Cs5,fc_accents_32_2.mp3,"[1, 2, 6, 3, 2, 3, 1]",0,1.0,4,0,1,0,0,1,1,U,0
+s3eylm,tonic Cs5,fc_accents_56_2.mp3,"[1, 2, 6, 5, 6, 5, 3, 1]",0,1.0,4,1,0,0,0,1,1,inv-U,0
+s3eylm,tonic Cs5,fc_accents_34_4.mp3,"[1, 2, 3, 4, 3, 1]",0,0.0,3,1,0,0,0,2,4,inv-U,0
+s3eylm,tonic Cs5,fc_accents_54_4.mp3,"[1, 2, 6, 5, 4, 3, 1]",0,0.0,4,0,0,0,1,1,1,des,0
+s3eylm,tonic Cs5,fc_accents_32_1.mp3,"[1, 2, 6, 3, 2, 5, 3, 1]",0,1.0,4,0,1,0,0,1,1,U,0
+nveknx,tonic Cs5,fc_accents_34_3.mp3,"[1, 2, 6, 3, 4, 5, 3, 1]",1,0.0,4,0,0,1,0,1,1,asc,0
+nveknx,tonic Cs5,fc_accents_56_1.mp3,"[1, 2, 6, 5, 6, 3, 1]",1,1.0,4,1,0,0,0,1,1,inv-U,0
+nveknx,tonic Cs5,fc_accents_54_4.mp3,"[1, 2, 6, 5, 4, 3, 1]",1,0.0,4,0,0,0,1,1,1,des,0
+nveknx,tonic Cs5,fc_accents_56_4.mp3,"[1, 2, 6, 5, 6, 5, 3, 1]",1,1.0,4,1,0,0,0,1,1,inv-U,0
+nveknx,tonic Cs5,fc_accents_32_2.mp3,"[1, 2, 6, 3, 2, 3, 1]",1,1.0,4,0,1,0,0,1,1,U,0
+nveknx,tonic Cs5,fc_accents_34_2.mp3,"[1, 2, 6, 3, 4, 5, 3, 1]",0,0.0,4,0,0,1,0,1,1,asc,0
+nveknx,tonic Cs5,fc_accents_56_3.mp3,"[1, 2, 6, 5, 6, 5, 3, 1]",1,1.0,4,1,0,0,0,1,1,inv-U,0
+nveknx,tonic Cs5,fc_accents_32_4.mp3,"[1, 2, 6, 3, 2, 3, 1]",1,1.0,4,0,1,0,0,1,1,U,0
+nveknx,tonic Cs5,fc_accents_32_1.mp3,"[1, 2, 6, 3, 2, 5, 3, 1]",1,1.0,4,0,1,0,0,1,1,U,0
+nveknx,tonic Cs5,fc_accents_32_3.mp3,"[1, 2, 6, 3, 2, 3, 1]",1,1.0,4,0,1,0,0,1,1,U,0
+nveknx,tonic Cs5,fc_accents_54_1.mp3,"[1, 2, 6, 5, 4, 3, 1]",1,0.0,4,0,0,0,1,1,1,des,0
+nveknx,tonic Cs5,fc_accents_34_1.mp3,"[1, 2, 6, 3, 4, 5, 3, 1]",0,0.0,4,0,0,1,0,1,1,asc,0
+nveknx,tonic Cs5,fc_accents_34_4.mp3,"[1, 2, 3, 4, 3, 1]",0,0.0,3,1,0,0,0,2,4,inv-U,0
+nveknx,tonic Cs5,fc_accents_54_3.mp3,"[1, 2, 6, 5, 4, 5, 3, 1]",0,0.0,4,0,1,0,0,1,1,U,0
+nveknx,tonic Cs5,fc_accents_54_2.mp3,"[1, 2, 6, 5, 4, 5, 3, 1]",1,0.0,4,0,1,0,0,1,1,U,0
+nveknx,tonic Cs5,fc_accents_56_2.mp3,"[1, 2, 6, 5, 6, 5, 3, 1]",1,1.0,4,1,0,0,0,1,1,inv-U,0
+qeyhrm,tonic Cs5,fc_accents_34_2.mp3,"[1, 2, 6, 3, 4, 5, 3, 1]",1,0.0,4,0,0,1,0,1,1,asc,1
+qeyhrm,tonic Cs5,fc_accents_34_1.mp3,"[1, 2, 6, 3, 4, 5, 3, 1]",0,0.0,4,0,0,1,0,1,1,asc,1
+qeyhrm,tonic Cs5,fc_accents_54_1.mp3,"[1, 2, 6, 5, 4, 3, 1]",0,0.0,4,0,0,0,1,1,1,des,1
+qeyhrm,tonic Cs5,fc_accents_56_4.mp3,"[1, 2, 6, 5, 6, 5, 3, 1]",1,1.0,4,1,0,0,0,1,1,inv-U,1
+qeyhrm,tonic Cs5,fc_accents_54_3.mp3,"[1, 2, 6, 5, 4, 5, 3, 1]",0,0.0,4,0,1,0,0,1,1,U,1
+qeyhrm,tonic Cs5,fc_accents_54_4.mp3,"[1, 2, 6, 5, 4, 3, 1]",0,0.0,4,0,0,0,1,1,1,des,1
+qeyhrm,tonic Cs5,fc_accents_32_3.mp3,"[1, 2, 6, 3, 2, 3, 1]",0,1.0,4,0,1,0,0,1,1,U,1
+qeyhrm,tonic Cs5,fc_accents_56_3.mp3,"[1, 2, 6, 5, 6, 5, 3, 1]",1,1.0,4,1,0,0,0,1,1,inv-U,1
+qeyhrm,tonic Cs5,fc_accents_56_2.mp3,"[1, 2, 6, 5, 6, 5, 3, 1]",1,1.0,4,1,0,0,0,1,1,inv-U,1
+qeyhrm,tonic Cs5,fc_accents_56_1.mp3,"[1, 2, 6, 5, 6, 3, 1]",1,1.0,4,1,0,0,0,1,1,inv-U,1
+qeyhrm,tonic Cs5,fc_accents_32_4.mp3,"[1, 2, 6, 3, 2, 3, 1]",0,1.0,4,0,1,0,0,1,1,U,1
+qeyhrm,tonic Cs5,fc_accents_34_3.mp3,"[1, 2, 6, 3, 4, 5, 3, 1]",1,0.0,4,0,0,1,0,1,1,asc,1
+qeyhrm,tonic Cs5,fc_accents_54_2.mp3,"[1, 2, 6, 5, 4, 5, 3, 1]",0,0.0,4,0,1,0,0,1,1,U,1
+qeyhrm,tonic Cs5,fc_accents_34_4.mp3,"[1, 2, 3, 4, 3, 1]",0,0.0,3,1,0,0,0,2,4,inv-U,1
+qeyhrm,tonic Cs5,fc_accents_32_2.mp3,"[1, 2, 6, 3, 2, 3, 1]",0,1.0,4,0,1,0,0,1,1,U,1
+qeyhrm,tonic Cs5,fc_accents_32_1.mp3,"[1, 2, 6, 3, 2, 5, 3, 1]",0,1.0,4,0,1,0,0,1,1,U,1
+7rc4se,tonic Cs5,fc_accents_56_3.mp3,"[1, 2, 6, 5, 6, 5, 3, 1]",1,1.0,4,1,0,0,0,1,1,inv-U,1
+7rc4se,tonic Cs5,fc_accents_34_3.mp3,"[1, 2, 6, 3, 4, 5, 3, 1]",1,0.0,4,0,0,1,0,1,1,asc,1
+7rc4se,tonic Cs5,fc_accents_56_4.mp3,"[1, 2, 6, 5, 6, 5, 3, 1]",1,1.0,4,1,0,0,0,1,1,inv-U,1
+7rc4se,tonic Cs5,fc_accents_34_2.mp3,"[1, 2, 6, 3, 4, 5, 3, 1]",1,0.0,4,0,0,1,0,1,1,asc,1
+7rc4se,tonic Cs5,fc_accents_32_3.mp3,"[1, 2, 6, 3, 2, 3, 1]",1,1.0,4,0,1,0,0,1,1,U,1
+7rc4se,tonic Cs5,fc_accents_54_2.mp3,"[1, 2, 6, 5, 4, 5, 3, 1]",0,0.0,4,0,1,0,0,1,1,U,1
+7rc4se,tonic Cs5,fc_accents_56_1.mp3,"[1, 2, 6, 5, 6, 3, 1]",1,1.0,4,1,0,0,0,1,1,inv-U,1
+7rc4se,tonic Cs5,fc_accents_34_1.mp3,"[1, 2, 6, 3, 4, 5, 3, 1]",0,0.0,4,0,0,1,0,1,1,asc,1
+7rc4se,tonic Cs5,fc_accents_54_3.mp3,"[1, 2, 6, 5, 4, 5, 3, 1]",0,0.0,4,0,1,0,0,1,1,U,1
+7rc4se,tonic Cs5,fc_accents_54_4.mp3,"[1, 2, 6, 5, 4, 3, 1]",0,0.0,4,0,0,0,1,1,1,des,1
+7rc4se,tonic Cs5,fc_accents_54_1.mp3,"[1, 2, 6, 5, 4, 3, 1]",1,0.0,4,0,0,0,1,1,1,des,1
+7rc4se,tonic Cs5,fc_accents_32_2.mp3,"[1, 2, 6, 3, 2, 3, 1]",1,1.0,4,0,1,0,0,1,1,U,1
+7rc4se,tonic Cs5,fc_accents_34_4.mp3,"[1, 2, 3, 4, 3, 1]",0,0.0,3,1,0,0,0,2,4,inv-U,1
+7rc4se,tonic Cs5,fc_accents_32_4.mp3,"[1, 2, 6, 3, 2, 3, 1]",1,1.0,4,0,1,0,0,1,1,U,1
+7rc4se,tonic Cs5,fc_accents_32_1.mp3,"[1, 2, 6, 3, 2, 5, 3, 1]",1,1.0,4,0,1,0,0,1,1,U,1
+7rc4se,tonic Cs5,fc_accents_56_2.mp3,"[1, 2, 6, 5, 6, 5, 3, 1]",0,1.0,4,1,0,0,0,1,1,inv-U,1
+m58skb,tonic Cs5,fc_accents_56_4.mp3,"[1, 2, 6, 5, 6, 5, 3, 1]",1,1.0,4,1,0,0,0,1,1,inv-U,1
+m58skb,tonic Cs5,fc_accents_32_2.mp3,"[1, 2, 6, 3, 2, 3, 1]",0,1.0,4,0,1,0,0,1,1,U,1
+m58skb,tonic Cs5,fc_accents_34_2.mp3,"[1, 2, 6, 3, 4, 5, 3, 1]",1,0.0,4,0,0,1,0,1,1,asc,1
+m58skb,tonic Cs5,fc_accents_56_3.mp3,"[1, 2, 6, 5, 6, 5, 3, 1]",1,1.0,4,1,0,0,0,1,1,inv-U,1
+m58skb,tonic Cs5,fc_accents_34_4.mp3,"[1, 2, 3, 4, 3, 1]",0,0.0,3,1,0,0,0,2,4,inv-U,1
+m58skb,tonic Cs5,fc_accents_54_2.mp3,"[1, 2, 6, 5, 4, 5, 3, 1]",1,0.0,4,0,1,0,0,1,1,U,1
+m58skb,tonic Cs5,fc_accents_34_1.mp3,"[1, 2, 6, 3, 4, 5, 3, 1]",1,0.0,4,0,0,1,0,1,1,asc,1
+m58skb,tonic Cs5,fc_accents_56_1.mp3,"[1, 2, 6, 5, 6, 3, 1]",0,1.0,4,1,0,0,0,1,1,inv-U,1
+m58skb,tonic Cs5,fc_accents_32_1.mp3,"[1, 2, 6, 3, 2, 5, 3, 1]",0,1.0,4,0,1,0,0,1,1,U,1
+m58skb,tonic Cs5,fc_accents_54_1.mp3,"[1, 2, 6, 5, 4, 3, 1]",1,0.0,4,0,0,0,1,1,1,des,1
+m58skb,tonic Cs5,fc_accents_32_3.mp3,"[1, 2, 6, 3, 2, 3, 1]",0,1.0,4,0,1,0,0,1,1,U,1
+m58skb,tonic Cs5,fc_accents_34_3.mp3,"[1, 2, 6, 3, 4, 5, 3, 1]",1,0.0,4,0,0,1,0,1,1,asc,1
+m58skb,tonic Cs5,fc_accents_56_2.mp3,"[1, 2, 6, 5, 6, 5, 3, 1]",1,1.0,4,1,0,0,0,1,1,inv-U,1
+m58skb,tonic Cs5,fc_accents_54_4.mp3,"[1, 2, 6, 5, 4, 3, 1]",0,0.0,4,0,0,0,1,1,1,des,1
+m58skb,tonic Cs5,fc_accents_32_4.mp3,"[1, 2, 6, 3, 2, 3, 1]",1,1.0,4,0,1,0,0,1,1,U,1
+m58skb,tonic Cs5,fc_accents_54_3.mp3,"[1, 2, 6, 5, 4, 5, 3, 1]",1,0.0,4,0,1,0,0,1,1,U,1
+wzewhd,tonic A4,fc_accents_54_2.mp3,"[1, 2, 6, 5, 4, 5, 3, 1]",0,0.0,4,0,1,0,0,1,1,U,1
+wzewhd,tonic A4,fc_accents_32_4.mp3,"[1, 2, 6, 3, 2, 5, 3, 1]",0,1.0,4,0,1,0,0,1,1,U,1
+wzewhd,tonic A4,fc_accents_54_1.mp3,"[1, 2, 6, 5, 4, 5, 3, 1]",0,0.0,4,0,1,0,0,1,1,U,1
+wzewhd,tonic A4,fc_accents_56_1.mp3,"[1, 2, 6, 5, 6, 5, 3, 1]",1,1.0,4,1,0,0,0,1,1,inv-U,1
+wzewhd,tonic A4,fc_accents_56_2.mp3,"[1, 2, 6, 5, 6, 5, 3, 1]",1,1.0,4,1,0,0,0,1,1,inv-U,1
+wzewhd,tonic A4,fc_accents_34_2.mp3,"[1, 2, 6, 3, 4, 5, 3, 1]",1,0.0,4,0,0,1,0,1,1,asc,1
+wzewhd,tonic A4,fc_accents_56_3.mp3,"[1, 2, 6, 5, 6, 3, 1]",1,1.0,4,1,0,0,0,1,1,inv-U,1
+wzewhd,tonic A4,fc_accents_54_4.mp3,"[1, 2, 6, 5, 4, 5, 3, 1]",0,0.0,4,0,1,0,0,1,1,U,1
+wzewhd,tonic A4,fc_accents_56_4.mp3,"[1, 2, 6, 5, 6, 5, 3, 1]",1,1.0,4,1,0,0,0,1,1,inv-U,1
+wzewhd,tonic A4,fc_accents_54_3.mp3,"[1, 2, 6, 5, 4, 5, 3, 1]",0,0.0,4,0,1,0,0,1,1,U,1
+wzewhd,tonic A4,fc_accents_32_1.mp3,"[1, 2, 6, 3, 2, 5, 3, 1]",0,1.0,4,0,1,0,0,1,1,U,1
+wzewhd,tonic A4,fc_accents_32_2.mp3,"[1, 2, 6, 3, 2, 3, 1]",0,1.0,4,0,1,0,0,1,1,U,1
+wzewhd,tonic A4,fc_accents_34_4.mp3,"[1, 2, 6, 3, 4, 5, 3, 1]",0,0.0,4,0,0,1,0,1,1,asc,1
+wzewhd,tonic A4,fc_accents_34_1.mp3,"[1, 2, 6, 3, 4, 3, 1]",0,0.0,4,1,0,0,0,1,1,inv-U,1
+wzewhd,tonic A4,fc_accents_34_3.mp3,"[1, 2, 6, 3, 4, 3, 1]",1,0.0,4,1,0,0,0,1,1,inv-U,1
+wzewhd,tonic A4,fc_accents_32_3.mp3,"[1, 2, 6, 3, 2, 5, 3, 1]",0,1.0,4,0,1,0,0,1,1,U,1
+azv8u4,tonic A4,fc_accents_56_1.mp3,"[1, 2, 6, 5, 6, 5, 3, 1]",0,1.0,4,1,0,0,0,1,1,inv-U,0
+azv8u4,tonic A4,fc_accents_56_4.mp3,"[1, 2, 6, 5, 6, 5, 3, 1]",0,1.0,4,1,0,0,0,1,1,inv-U,0
+azv8u4,tonic A4,fc_accents_34_3.mp3,"[1, 2, 6, 3, 4, 3, 1]",0,0.0,4,1,0,0,0,1,1,inv-U,0
+azv8u4,tonic A4,fc_accents_32_1.mp3,"[1, 2, 6, 3, 2, 5, 3, 1]",0,1.0,4,0,1,0,0,1,1,U,0
+azv8u4,tonic A4,fc_accents_54_4.mp3,"[1, 2, 6, 5, 4, 5, 3, 1]",0,0.0,4,0,1,0,0,1,1,U,0
+azv8u4,tonic A4,fc_accents_56_3.mp3,"[1, 2, 6, 5, 6, 3, 1]",0,1.0,4,1,0,0,0,1,1,inv-U,0
+azv8u4,tonic A4,fc_accents_54_3.mp3,"[1, 2, 6, 5, 4, 5, 3, 1]",0,0.0,4,0,1,0,0,1,1,U,0
+azv8u4,tonic A4,fc_accents_34_4.mp3,"[1, 2, 6, 3, 4, 5, 3, 1]",0,0.0,4,0,0,1,0,1,1,asc,0
+azv8u4,tonic A4,fc_accents_34_2.mp3,"[1, 2, 6, 3, 4, 5, 3, 1]",0,0.0,4,0,0,1,0,1,1,asc,0
+azv8u4,tonic A4,fc_accents_32_2.mp3,"[1, 2, 6, 3, 2, 3, 1]",0,1.0,4,0,1,0,0,1,1,U,0
+azv8u4,tonic A4,fc_accents_32_3.mp3,"[1, 2, 6, 3, 2, 5, 3, 1]",0,1.0,4,0,1,0,0,1,1,U,0
+azv8u4,tonic A4,fc_accents_54_2.mp3,"[1, 2, 6, 5, 4, 5, 3, 1]",0,0.0,4,0,1,0,0,1,1,U,0
+azv8u4,tonic A4,fc_accents_32_4.mp3,"[1, 2, 6, 3, 2, 5, 3, 1]",0,1.0,4,0,1,0,0,1,1,U,0
+azv8u4,tonic A4,fc_accents_34_1.mp3,"[1, 2, 6, 3, 4, 3, 1]",0,0.0,4,1,0,0,0,1,1,inv-U,0
+azv8u4,tonic A4,fc_accents_54_1.mp3,"[1, 2, 6, 5, 4, 5, 3, 1]",0,0.0,4,0,1,0,0,1,1,U,0
+azv8u4,tonic A4,fc_accents_56_2.mp3,"[1, 2, 6, 5, 6, 5, 3, 1]",0,1.0,4,1,0,0,0,1,1,inv-U,0
+tozh5t,tonic A4,fc_accents_56_2.mp3,"[1, 2, 6, 5, 6, 5, 3, 1]",0,1.0,4,1,0,0,0,1,1,inv-U,1
+tozh5t,tonic A4,fc_accents_54_1.mp3,"[1, 2, 6, 5, 4, 5, 3, 1]",0,0.0,4,0,1,0,0,1,1,U,1
+tozh5t,tonic A4,fc_accents_54_4.mp3,"[1, 2, 6, 5, 4, 5, 3, 1]",0,0.0,4,0,1,0,0,1,1,U,1
+tozh5t,tonic A4,fc_accents_56_1.mp3,"[1, 2, 6, 5, 6, 5, 3, 1]",0,1.0,4,1,0,0,0,1,1,inv-U,1
+tozh5t,tonic A4,fc_accents_32_4.mp3,"[1, 2, 6, 3, 2, 5, 3, 1]",1,1.0,4,0,1,0,0,1,1,U,1
+tozh5t,tonic A4,fc_accents_34_1.mp3,"[1, 2, 6, 3, 4, 3, 1]",1,0.0,4,1,0,0,0,1,1,inv-U,1
+tozh5t,tonic A4,fc_accents_34_2.mp3,"[1, 2, 6, 3, 4, 5, 3, 1]",0,0.0,4,0,0,1,0,1,1,asc,1
+tozh5t,tonic A4,fc_accents_54_3.mp3,"[1, 2, 6, 5, 4, 5, 3, 1]",0,0.0,4,0,1,0,0,1,1,U,1
+tozh5t,tonic A4,fc_accents_32_2.mp3,"[1, 2, 6, 3, 2, 3, 1]",0,1.0,4,0,1,0,0,1,1,U,1
+tozh5t,tonic A4,fc_accents_32_1.mp3,"[1, 2, 6, 3, 2, 5, 3, 1]",0,1.0,4,0,1,0,0,1,1,U,1
+tozh5t,tonic A4,fc_accents_34_4.mp3,"[1, 2, 6, 3, 4, 5, 3, 1]",0,0.0,4,0,0,1,0,1,1,asc,1
+tozh5t,tonic A4,fc_accents_32_3.mp3,"[1, 2, 6, 3, 2, 5, 3, 1]",0,1.0,4,0,1,0,0,1,1,U,1
+tozh5t,tonic A4,fc_accents_54_2.mp3,"[1, 2, 6, 5, 4, 5, 3, 1]",0,0.0,4,0,1,0,0,1,1,U,1
+tozh5t,tonic A4,fc_accents_56_4.mp3,"[1, 2, 6, 5, 6, 5, 3, 1]",0,1.0,4,1,0,0,0,1,1,inv-U,1
+tozh5t,tonic A4,fc_accents_56_3.mp3,"[1, 2, 6, 5, 6, 3, 1]",0,1.0,4,1,0,0,0,1,1,inv-U,1
+tozh5t,tonic A4,fc_accents_34_3.mp3,"[1, 2, 6, 3, 4, 3, 1]",0,0.0,4,1,0,0,0,1,1,inv-U,1
+5oqbe6,tonic A4,fc_accents_34_2.mp3,"[1, 2, 6, 3, 4, 5, 3, 1]",1,0.0,4,0,0,1,0,1,1,asc,0
+5oqbe6,tonic A4,fc_accents_34_1.mp3,"[1, 2, 6, 3, 4, 3, 1]",1,0.0,4,1,0,0,0,1,1,inv-U,0
+5oqbe6,tonic A4,fc_accents_32_1.mp3,"[1, 2, 6, 3, 2, 5, 3, 1]",0,1.0,4,0,1,0,0,1,1,U,0
+5oqbe6,tonic A4,fc_accents_54_4.mp3,"[1, 2, 6, 5, 4, 5, 3, 1]",0,0.0,4,0,1,0,0,1,1,U,0
+5oqbe6,tonic A4,fc_accents_32_3.mp3,"[1, 2, 6, 3, 2, 5, 3, 1]",1,1.0,4,0,1,0,0,1,1,U,0
+5oqbe6,tonic A4,fc_accents_34_4.mp3,"[1, 2, 6, 3, 4, 5, 3, 1]",0,0.0,4,0,0,1,0,1,1,asc,0
+5oqbe6,tonic A4,fc_accents_56_3.mp3,"[1, 2, 6, 5, 6, 3, 1]",1,1.0,4,1,0,0,0,1,1,inv-U,0
+5oqbe6,tonic A4,fc_accents_32_2.mp3,"[1, 2, 6, 3, 2, 3, 1]",0,1.0,4,0,1,0,0,1,1,U,0
+5oqbe6,tonic A4,fc_accents_54_2.mp3,"[1, 2, 6, 5, 4, 5, 3, 1]",0,0.0,4,0,1,0,0,1,1,U,0
+5oqbe6,tonic A4,fc_accents_56_4.mp3,"[1, 2, 6, 5, 6, 5, 3, 1]",1,1.0,4,1,0,0,0,1,1,inv-U,0
+5oqbe6,tonic A4,fc_accents_54_1.mp3,"[1, 2, 6, 5, 4, 5, 3, 1]",1,0.0,4,0,1,0,0,1,1,U,0
+5oqbe6,tonic A4,fc_accents_34_3.mp3,"[1, 2, 6, 3, 4, 3, 1]",0,0.0,4,1,0,0,0,1,1,inv-U,0
+5oqbe6,tonic A4,fc_accents_56_1.mp3,"[1, 2, 6, 5, 6, 5, 3, 1]",0,1.0,4,1,0,0,0,1,1,inv-U,0
+5oqbe6,tonic A4,fc_accents_54_3.mp3,"[1, 2, 6, 5, 4, 5, 3, 1]",1,0.0,4,0,1,0,0,1,1,U,0
+5oqbe6,tonic A4,fc_accents_56_2.mp3,"[1, 2, 6, 5, 6, 5, 3, 1]",0,1.0,4,1,0,0,0,1,1,inv-U,0
+5oqbe6,tonic A4,fc_accents_32_4.mp3,"[1, 2, 6, 3, 2, 5, 3, 1]",0,1.0,4,0,1,0,0,1,1,U,0
+dfhlvp,tonic A4,fc_accents_32_3.mp3,"[1, 2, 6, 3, 2, 5, 3, 1]",0,1.0,4,0,1,0,0,1,1,U,0
+dfhlvp,tonic A4,fc_accents_34_3.mp3,"[1, 2, 6, 3, 4, 3, 1]",1,0.0,4,1,0,0,0,1,1,inv-U,0
+dfhlvp,tonic A4,fc_accents_56_1.mp3,"[1, 2, 6, 5, 6, 5, 3, 1]",0,1.0,4,1,0,0,0,1,1,inv-U,0
+dfhlvp,tonic A4,fc_accents_56_4.mp3,"[1, 2, 6, 5, 6, 5, 3, 1]",0,1.0,4,1,0,0,0,1,1,inv-U,0
+dfhlvp,tonic A4,fc_accents_32_2.mp3,"[1, 2, 6, 3, 2, 3, 1]",1,1.0,4,0,1,0,0,1,1,U,0
+dfhlvp,tonic A4,fc_accents_54_3.mp3,"[1, 2, 6, 5, 4, 5, 3, 1]",1,0.0,4,0,1,0,0,1,1,U,0
+dfhlvp,tonic A4,fc_accents_56_2.mp3,"[1, 2, 6, 5, 6, 5, 3, 1]",0,1.0,4,1,0,0,0,1,1,inv-U,0
+dfhlvp,tonic A4,fc_accents_32_4.mp3,"[1, 2, 6, 3, 2, 5, 3, 1]",0,1.0,4,0,1,0,0,1,1,U,0
+dfhlvp,tonic A4,fc_accents_34_2.mp3,"[1, 2, 6, 3, 4, 5, 3, 1]",1,0.0,4,0,0,1,0,1,1,asc,0
+dfhlvp,tonic A4,fc_accents_34_4.mp3,"[1, 2, 6, 3, 4, 5, 3, 1]",1,0.0,4,0,0,1,0,1,1,asc,0
+dfhlvp,tonic A4,fc_accents_32_1.mp3,"[1, 2, 6, 3, 2, 5, 3, 1]",1,1.0,4,0,1,0,0,1,1,U,0
+dfhlvp,tonic A4,fc_accents_34_1.mp3,"[1, 2, 6, 3, 4, 3, 1]",1,0.0,4,1,0,0,0,1,1,inv-U,0
+dfhlvp,tonic A4,fc_accents_54_2.mp3,"[1, 2, 6, 5, 4, 5, 3, 1]",1,0.0,4,0,1,0,0,1,1,U,0
+dfhlvp,tonic A4,fc_accents_56_3.mp3,"[1, 2, 6, 5, 6, 3, 1]",0,1.0,4,1,0,0,0,1,1,inv-U,0
+dfhlvp,tonic A4,fc_accents_54_1.mp3,"[1, 2, 6, 5, 4, 5, 3, 1]",1,0.0,4,0,1,0,0,1,1,U,0
+dfhlvp,tonic A4,fc_accents_54_4.mp3,"[1, 2, 6, 5, 4, 5, 3, 1]",0,0.0,4,0,1,0,0,1,1,U,0
+7vdumt,tonic A4,fc_accents_56_2.mp3,"[1, 2, 6, 5, 6, 5, 3, 1]",1,1.0,4,1,0,0,0,1,1,inv-U,0
+7vdumt,tonic A4,fc_accents_34_2.mp3,"[1, 2, 6, 3, 4, 5, 3, 1]",1,0.0,4,0,0,1,0,1,1,asc,0
+7vdumt,tonic A4,fc_accents_32_1.mp3,"[1, 2, 6, 3, 2, 5, 3, 1]",1,1.0,4,0,1,0,0,1,1,U,0
+7vdumt,tonic A4,fc_accents_56_3.mp3,"[1, 2, 6, 5, 6, 3, 1]",0,1.0,4,1,0,0,0,1,1,inv-U,0
+7vdumt,tonic A4,fc_accents_54_3.mp3,"[1, 2, 6, 5, 4, 5, 3, 1]",0,0.0,4,0,1,0,0,1,1,U,0
+7vdumt,tonic A4,fc_accents_32_3.mp3,"[1, 2, 6, 3, 2, 5, 3, 1]",0,1.0,4,0,1,0,0,1,1,U,0
+7vdumt,tonic A4,fc_accents_54_1.mp3,"[1, 2, 6, 5, 4, 5, 3, 1]",0,0.0,4,0,1,0,0,1,1,U,0
+7vdumt,tonic A4,fc_accents_34_4.mp3,"[1, 2, 6, 3, 4, 5, 3, 1]",0,0.0,4,0,0,1,0,1,1,asc,0
+7vdumt,tonic A4,fc_accents_32_4.mp3,"[1, 2, 6, 3, 2, 5, 3, 1]",1,1.0,4,0,1,0,0,1,1,U,0
+7vdumt,tonic A4,fc_accents_34_3.mp3,"[1, 2, 6, 3, 4, 3, 1]",0,0.0,4,1,0,0,0,1,1,inv-U,0
+7vdumt,tonic A4,fc_accents_56_4.mp3,"[1, 2, 6, 5, 6, 5, 3, 1]",0,1.0,4,1,0,0,0,1,1,inv-U,0
+7vdumt,tonic A4,fc_accents_54_4.mp3,"[1, 2, 6, 5, 4, 5, 3, 1]",1,0.0,4,0,1,0,0,1,1,U,0
+7vdumt,tonic A4,fc_accents_54_2.mp3,"[1, 2, 6, 5, 4, 5, 3, 1]",1,0.0,4,0,1,0,0,1,1,U,0
+7vdumt,tonic A4,fc_accents_56_1.mp3,"[1, 2, 6, 5, 6, 5, 3, 1]",0,1.0,4,1,0,0,0,1,1,inv-U,0
+7vdumt,tonic A4,fc_accents_32_2.mp3,"[1, 2, 6, 3, 2, 3, 1]",1,1.0,4,0,1,0,0,1,1,U,0
+7vdumt,tonic A4,fc_accents_34_1.mp3,"[1, 2, 6, 3, 4, 3, 1]",1,0.0,4,1,0,0,0,1,1,inv-U,0
+rq9vnf,tonic A4,fc_accents_32_2.mp3,"[1, 2, 6, 3, 2, 3, 1]",0,1.0,4,0,1,0,0,1,1,U,0
+rq9vnf,tonic A4,fc_accents_32_4.mp3,"[1, 2, 6, 3, 2, 5, 3, 1]",1,1.0,4,0,1,0,0,1,1,U,0
+rq9vnf,tonic A4,fc_accents_54_2.mp3,"[1, 2, 6, 5, 4, 5, 3, 1]",0,0.0,4,0,1,0,0,1,1,U,0
+rq9vnf,tonic A4,fc_accents_34_1.mp3,"[1, 2, 6, 3, 4, 3, 1]",1,0.0,4,1,0,0,0,1,1,inv-U,0
+rq9vnf,tonic A4,fc_accents_34_4.mp3,"[1, 2, 6, 3, 4, 5, 3, 1]",1,0.0,4,0,0,1,0,1,1,asc,0
+rq9vnf,tonic A4,fc_accents_56_4.mp3,"[1, 2, 6, 5, 6, 5, 3, 1]",1,1.0,4,1,0,0,0,1,1,inv-U,0
+rq9vnf,tonic A4,fc_accents_32_1.mp3,"[1, 2, 6, 3, 2, 5, 3, 1]",1,1.0,4,0,1,0,0,1,1,U,0
+rq9vnf,tonic A4,fc_accents_56_2.mp3,"[1, 2, 6, 5, 6, 5, 3, 1]",0,1.0,4,1,0,0,0,1,1,inv-U,0
+rq9vnf,tonic A4,fc_accents_56_3.mp3,"[1, 2, 6, 5, 6, 3, 1]",1,1.0,4,1,0,0,0,1,1,inv-U,0
+rq9vnf,tonic A4,fc_accents_54_3.mp3,"[1, 2, 6, 5, 4, 5, 3, 1]",1,0.0,4,0,1,0,0,1,1,U,0
+rq9vnf,tonic A4,fc_accents_32_3.mp3,"[1, 2, 6, 3, 2, 5, 3, 1]",0,1.0,4,0,1,0,0,1,1,U,0
+rq9vnf,tonic A4,fc_accents_56_1.mp3,"[1, 2, 6, 5, 6, 5, 3, 1]",0,1.0,4,1,0,0,0,1,1,inv-U,0
+rq9vnf,tonic A4,fc_accents_54_4.mp3,"[1, 2, 6, 5, 4, 5, 3, 1]",0,0.0,4,0,1,0,0,1,1,U,0
+rq9vnf,tonic A4,fc_accents_34_3.mp3,"[1, 2, 6, 3, 4, 3, 1]",0,0.0,4,1,0,0,0,1,1,inv-U,0
+rq9vnf,tonic A4,fc_accents_54_1.mp3,"[1, 2, 6, 5, 4, 5, 3, 1]",0,0.0,4,0,1,0,0,1,1,U,0
+rq9vnf,tonic A4,fc_accents_34_2.mp3,"[1, 2, 6, 3, 4, 5, 3, 1]",1,0.0,4,0,0,1,0,1,1,asc,0
+hrru95,tonic A4,fc_accents_56_4.mp3,"[1, 2, 6, 5, 6, 5, 3, 1]",0,1.0,4,1,0,0,0,1,1,inv-U,0
+hrru95,tonic A4,fc_accents_34_1.mp3,"[1, 2, 6, 3, 4, 3, 1]",0,0.0,4,1,0,0,0,1,1,inv-U,0
+hrru95,tonic A4,fc_accents_32_4.mp3,"[1, 2, 6, 3, 2, 5, 3, 1]",0,1.0,4,0,1,0,0,1,1,U,0
+hrru95,tonic A4,fc_accents_54_1.mp3,"[1, 2, 6, 5, 4, 5, 3, 1]",0,0.0,4,0,1,0,0,1,1,U,0
+hrru95,tonic A4,fc_accents_56_2.mp3,"[1, 2, 6, 5, 6, 5, 3, 1]",0,1.0,4,1,0,0,0,1,1,inv-U,0
+hrru95,tonic A4,fc_accents_54_2.mp3,"[1, 2, 6, 5, 4, 5, 3, 1]",0,0.0,4,0,1,0,0,1,1,U,0
+hrru95,tonic A4,fc_accents_32_2.mp3,"[1, 2, 6, 3, 2, 3, 1]",1,1.0,4,0,1,0,0,1,1,U,0
+hrru95,tonic A4,fc_accents_56_1.mp3,"[1, 2, 6, 5, 6, 5, 3, 1]",0,1.0,4,1,0,0,0,1,1,inv-U,0
+hrru95,tonic A4,fc_accents_34_3.mp3,"[1, 2, 6, 3, 4, 3, 1]",0,0.0,4,1,0,0,0,1,1,inv-U,0
+hrru95,tonic A4,fc_accents_34_4.mp3,"[1, 2, 6, 3, 4, 5, 3, 1]",0,0.0,4,0,0,1,0,1,1,asc,0
+hrru95,tonic A4,fc_accents_56_3.mp3,"[1, 2, 6, 5, 6, 3, 1]",1,1.0,4,1,0,0,0,1,1,inv-U,0
+hrru95,tonic A4,fc_accents_32_3.mp3,"[1, 2, 6, 3, 2, 5, 3, 1]",0,1.0,4,0,1,0,0,1,1,U,0
+hrru95,tonic A4,fc_accents_54_4.mp3,"[1, 2, 6, 5, 4, 5, 3, 1]",0,0.0,4,0,1,0,0,1,1,U,0
+hrru95,tonic A4,fc_accents_32_1.mp3,"[1, 2, 6, 3, 2, 5, 3, 1]",1,1.0,4,0,1,0,0,1,1,U,0
+hrru95,tonic A4,fc_accents_34_2.mp3,"[1, 2, 6, 3, 4, 5, 3, 1]",0,0.0,4,0,0,1,0,1,1,asc,0
+hrru95,tonic A4,fc_accents_54_3.mp3,"[1, 2, 6, 5, 4, 5, 3, 1]",0,0.0,4,0,1,0,0,1,1,U,0
+ktwue4,tonic A4,fc_accents_32_1.mp3,"[1, 2, 6, 3, 2, 5, 3, 1]",1,1.0,4,0,1,0,0,1,1,U,1
+ktwue4,tonic A4,fc_accents_54_3.mp3,"[1, 2, 6, 5, 4, 5, 3, 1]",1,0.0,4,0,1,0,0,1,1,U,1
+ktwue4,tonic A4,fc_accents_34_2.mp3,"[1, 2, 6, 3, 4, 5, 3, 1]",1,0.0,4,0,0,1,0,1,1,asc,1
+ktwue4,tonic A4,fc_accents_34_1.mp3,"[1, 2, 6, 3, 4, 3, 1]",1,0.0,4,1,0,0,0,1,1,inv-U,1
+ktwue4,tonic A4,fc_accents_56_1.mp3,"[1, 2, 6, 5, 6, 5, 3, 1]",1,1.0,4,1,0,0,0,1,1,inv-U,1
+ktwue4,tonic A4,fc_accents_32_3.mp3,"[1, 2, 6, 3, 2, 5, 3, 1]",1,1.0,4,0,1,0,0,1,1,U,1
+ktwue4,tonic A4,fc_accents_56_4.mp3,"[1, 2, 6, 5, 6, 5, 3, 1]",1,1.0,4,1,0,0,0,1,1,inv-U,1
+ktwue4,tonic A4,fc_accents_32_2.mp3,"[1, 2, 6, 3, 2, 3, 1]",1,1.0,4,0,1,0,0,1,1,U,1
+ktwue4,tonic A4,fc_accents_34_4.mp3,"[1, 2, 6, 3, 4, 5, 3, 1]",1,0.0,4,0,0,1,0,1,1,asc,1
+ktwue4,tonic A4,fc_accents_34_3.mp3,"[1, 2, 6, 3, 4, 3, 1]",1,0.0,4,1,0,0,0,1,1,inv-U,1
+ktwue4,tonic A4,fc_accents_56_2.mp3,"[1, 2, 6, 5, 6, 5, 3, 1]",1,1.0,4,1,0,0,0,1,1,inv-U,1
+ktwue4,tonic A4,fc_accents_56_3.mp3,"[1, 2, 6, 5, 6, 3, 1]",1,1.0,4,1,0,0,0,1,1,inv-U,1
+ktwue4,tonic A4,fc_accents_54_4.mp3,"[1, 2, 6, 5, 4, 5, 3, 1]",1,0.0,4,0,1,0,0,1,1,U,1
+ktwue4,tonic A4,fc_accents_32_4.mp3,"[1, 2, 6, 3, 2, 5, 3, 1]",0,1.0,4,0,1,0,0,1,1,U,1
+ktwue4,tonic A4,fc_accents_54_2.mp3,"[1, 2, 6, 5, 4, 5, 3, 1]",1,0.0,4,0,1,0,0,1,1,U,1
+ktwue4,tonic A4,fc_accents_54_1.mp3,"[1, 2, 6, 5, 4, 5, 3, 1]",1,0.0,4,0,1,0,0,1,1,U,1
+899lar,tonic A4,fc_accents_54_1.mp3,"[1, 2, 6, 5, 4, 5, 3, 1]",0,0.0,4,0,1,0,0,1,1,U,0
+899lar,tonic A4,fc_accents_32_2.mp3,"[1, 2, 6, 3, 2, 3, 1]",0,1.0,4,0,1,0,0,1,1,U,0
+899lar,tonic A4,fc_accents_32_4.mp3,"[1, 2, 6, 3, 2, 5, 3, 1]",0,1.0,4,0,1,0,0,1,1,U,0
+899lar,tonic A4,fc_accents_54_3.mp3,"[1, 2, 6, 5, 4, 5, 3, 1]",0,0.0,4,0,1,0,0,1,1,U,0
+899lar,tonic A4,fc_accents_34_3.mp3,"[1, 2, 6, 3, 4, 3, 1]",0,0.0,4,1,0,0,0,1,1,inv-U,0
+899lar,tonic A4,fc_accents_54_4.mp3,"[1, 2, 6, 5, 4, 5, 3, 1]",0,0.0,4,0,1,0,0,1,1,U,0
+899lar,tonic A4,fc_accents_56_4.mp3,"[1, 2, 6, 5, 6, 5, 3, 1]",0,1.0,4,1,0,0,0,1,1,inv-U,0
+899lar,tonic A4,fc_accents_32_3.mp3,"[1, 2, 6, 3, 2, 5, 3, 1]",0,1.0,4,0,1,0,0,1,1,U,0
+899lar,tonic A4,fc_accents_56_1.mp3,"[1, 2, 6, 5, 6, 5, 3, 1]",0,1.0,4,1,0,0,0,1,1,inv-U,0
+899lar,tonic A4,fc_accents_32_1.mp3,"[1, 2, 6, 3, 2, 5, 3, 1]",0,1.0,4,0,1,0,0,1,1,U,0
+899lar,tonic A4,fc_accents_34_2.mp3,"[1, 2, 6, 3, 4, 5, 3, 1]",0,0.0,4,0,0,1,0,1,1,asc,0
+899lar,tonic A4,fc_accents_34_1.mp3,"[1, 2, 6, 3, 4, 3, 1]",1,0.0,4,1,0,0,0,1,1,inv-U,0
+899lar,tonic A4,fc_accents_34_4.mp3,"[1, 2, 6, 3, 4, 5, 3, 1]",1,0.0,4,0,0,1,0,1,1,asc,0
+899lar,tonic A4,fc_accents_56_3.mp3,"[1, 2, 6, 5, 6, 3, 1]",0,1.0,4,1,0,0,0,1,1,inv-U,0
+899lar,tonic A4,fc_accents_54_2.mp3,"[1, 2, 6, 5, 4, 5, 3, 1]",1,0.0,4,0,1,0,0,1,1,U,0
+899lar,tonic A4,fc_accents_56_2.mp3,"[1, 2, 6, 5, 6, 5, 3, 1]",1,1.0,4,1,0,0,0,1,1,inv-U,0
+uf48fg,tonic A4,fc_accents_54_2.mp3,"[1, 2, 6, 5, 4, 5, 3, 1]",0,0.0,4,0,1,0,0,1,1,U,1
+uf48fg,tonic A4,fc_accents_32_1.mp3,"[1, 2, 6, 3, 2, 5, 3, 1]",0,1.0,4,0,1,0,0,1,1,U,1
+uf48fg,tonic A4,fc_accents_56_1.mp3,"[1, 2, 6, 5, 6, 5, 3, 1]",0,1.0,4,1,0,0,0,1,1,inv-U,1
+uf48fg,tonic A4,fc_accents_56_4.mp3,"[1, 2, 6, 5, 6, 5, 3, 1]",0,1.0,4,1,0,0,0,1,1,inv-U,1
+uf48fg,tonic A4,fc_accents_34_2.mp3,"[1, 2, 6, 3, 4, 5, 3, 1]",0,0.0,4,0,0,1,0,1,1,asc,1
+uf48fg,tonic A4,fc_accents_32_2.mp3,"[1, 2, 6, 3, 2, 3, 1]",0,1.0,4,0,1,0,0,1,1,U,1
+uf48fg,tonic A4,fc_accents_54_4.mp3,"[1, 2, 6, 5, 4, 5, 3, 1]",0,0.0,4,0,1,0,0,1,1,U,1
+uf48fg,tonic A4,fc_accents_32_4.mp3,"[1, 2, 6, 3, 2, 5, 3, 1]",0,1.0,4,0,1,0,0,1,1,U,1
+uf48fg,tonic A4,fc_accents_32_3.mp3,"[1, 2, 6, 3, 2, 5, 3, 1]",0,1.0,4,0,1,0,0,1,1,U,1
+uf48fg,tonic A4,fc_accents_56_2.mp3,"[1, 2, 6, 5, 6, 5, 3, 1]",0,1.0,4,1,0,0,0,1,1,inv-U,1
+uf48fg,tonic A4,fc_accents_34_1.mp3,"[1, 2, 6, 3, 4, 3, 1]",1,0.0,4,1,0,0,0,1,1,inv-U,1
+uf48fg,tonic A4,fc_accents_34_4.mp3,"[1, 2, 6, 3, 4, 5, 3, 1]",1,0.0,4,0,0,1,0,1,1,asc,1
+uf48fg,tonic A4,fc_accents_34_3.mp3,"[1, 2, 6, 3, 4, 3, 1]",1,0.0,4,1,0,0,0,1,1,inv-U,1
+uf48fg,tonic A4,fc_accents_54_3.mp3,"[1, 2, 6, 5, 4, 5, 3, 1]",1,0.0,4,0,1,0,0,1,1,U,1
+uf48fg,tonic A4,fc_accents_54_1.mp3,"[1, 2, 6, 5, 4, 5, 3, 1]",1,0.0,4,0,1,0,0,1,1,U,1
+uf48fg,tonic A4,fc_accents_56_3.mp3,"[1, 2, 6, 5, 6, 3, 1]",0,1.0,4,1,0,0,0,1,1,inv-U,1
+bdcpw0,tonic A4,fc_accents_54_3.mp3,"[1, 2, 6, 5, 4, 5, 3, 1]",1,0.0,4,0,1,0,0,1,1,U,0
+bdcpw0,tonic A4,fc_accents_34_1.mp3,"[1, 2, 6, 3, 4, 3, 1]",0,0.0,4,1,0,0,0,1,1,inv-U,0
+bdcpw0,tonic A4,fc_accents_54_1.mp3,"[1, 2, 6, 5, 4, 5, 3, 1]",0,0.0,4,0,1,0,0,1,1,U,0
+bdcpw0,tonic A4,fc_accents_34_2.mp3,"[1, 2, 6, 3, 4, 5, 3, 1]",1,0.0,4,0,0,1,0,1,1,asc,0
+bdcpw0,tonic A4,fc_accents_56_3.mp3,"[1, 2, 6, 5, 6, 3, 1]",0,1.0,4,1,0,0,0,1,1,inv-U,0
+bdcpw0,tonic A4,fc_accents_34_3.mp3,"[1, 2, 6, 3, 4, 3, 1]",1,0.0,4,1,0,0,0,1,1,inv-U,0
+bdcpw0,tonic A4,fc_accents_32_2.mp3,"[1, 2, 6, 3, 2, 3, 1]",0,1.0,4,0,1,0,0,1,1,U,0
+bdcpw0,tonic A4,fc_accents_32_1.mp3,"[1, 2, 6, 3, 2, 5, 3, 1]",0,1.0,4,0,1,0,0,1,1,U,0
+bdcpw0,tonic A4,fc_accents_56_2.mp3,"[1, 2, 6, 5, 6, 5, 3, 1]",0,1.0,4,1,0,0,0,1,1,inv-U,0
+bdcpw0,tonic A4,fc_accents_56_1.mp3,"[1, 2, 6, 5, 6, 5, 3, 1]",0,1.0,4,1,0,0,0,1,1,inv-U,0
+bdcpw0,tonic A4,fc_accents_34_4.mp3,"[1, 2, 6, 3, 4, 5, 3, 1]",0,0.0,4,0,0,1,0,1,1,asc,0
+bdcpw0,tonic A4,fc_accents_56_4.mp3,"[1, 2, 6, 5, 6, 5, 3, 1]",0,1.0,4,1,0,0,0,1,1,inv-U,0
+bdcpw0,tonic A4,fc_accents_54_4.mp3,"[1, 2, 6, 5, 4, 5, 3, 1]",0,0.0,4,0,1,0,0,1,1,U,0
+bdcpw0,tonic A4,fc_accents_54_2.mp3,"[1, 2, 6, 5, 4, 5, 3, 1]",0,0.0,4,0,1,0,0,1,1,U,0
+bdcpw0,tonic A4,fc_accents_32_3.mp3,"[1, 2, 6, 3, 2, 5, 3, 1]",0,1.0,4,0,1,0,0,1,1,U,0
+bdcpw0,tonic A4,fc_accents_32_4.mp3,"[1, 2, 6, 3, 2, 5, 3, 1]",0,1.0,4,0,1,0,0,1,1,U,0
+87o3mz,tonic Bb4,fc_accents_34_2.mp3,"[1, 2, 6, 3, 4, 3, 1]",1,0.0,4,1,0,0,0,1,1,inv-U,1
+87o3mz,tonic Bb4,fc_accents_54_2.mp3,"[1, 2, 6, 5, 4, 3, 1]",1,0.0,4,0,0,0,1,1,1,des,1
+87o3mz,tonic Bb4,fc_accents_34_1.mp3,"[1, 2, 6, 3, 4, 5, 3, 1]",0,0.0,4,0,0,1,0,1,1,asc,1
+87o3mz,tonic Bb4,fc_accents_32_1.mp3,"[1, 2, 6, 3, 2, 3, 1]",0,1.0,4,0,1,0,0,1,1,U,1
+87o3mz,tonic Bb4,fc_accents_32_3.mp3,"[1, 2, 6, 3, 2, 3, 1]",1,1.0,4,0,1,0,0,1,1,U,1
+87o3mz,tonic Bb4,fc_accents_54_1.mp3,"[1, 2, 6, 5, 4, 5, 3, 1]",1,0.0,4,0,1,0,0,1,1,U,1
+87o3mz,tonic Bb4,fc_accents_54_4.mp3,"[1, 2, 3, 6, 5, 4, 5, 3, 1]",0,0.0,5,0,1,0,0,2,2,U,1
+87o3mz,tonic Bb4,fc_accents_32_2.mp3,"[1, 2, 6, 3, 2, 5, 3, 1]",0,1.0,4,0,1,0,0,1,1,U,1
+87o3mz,tonic Bb4,fc_accents_56_4.mp3,"[1, 2, 6, 5, 6, 3, 1]",0,1.0,4,1,0,0,0,1,1,inv-U,1
+87o3mz,tonic Bb4,fc_accents_34_4.mp3,"[1, 2, 6, 3, 4, 3, 1]",0,0.0,4,1,0,0,0,1,1,inv-U,1
+87o3mz,tonic Bb4,fc_accents_32_4.mp3,"[1, 2, 6, 3, 2, 3, 1]",1,1.0,4,0,1,0,0,1,1,U,1
+87o3mz,tonic Bb4,fc_accents_56_1.mp3,"[1, 2, 6, 5, 6, 5, 3, 1]",1,1.0,4,1,0,0,0,1,1,inv-U,1
+87o3mz,tonic Bb4,fc_accents_56_3.mp3,"[1, 2, 5, 6, 3, 1]",0,1.0,3,1,0,0,0,2,4,inv-U,1
+87o3mz,tonic Bb4,fc_accents_54_3.mp3,"[1, 2, 6, 5, 4, 5, 3, 1]",0,0.0,4,0,1,0,0,1,1,U,1
+87o3mz,tonic Bb4,fc_accents_56_2.mp3,"[1, 2, 6, 5, 6, 5, 3, 1]",1,1.0,4,1,0,0,0,1,1,inv-U,1
+87o3mz,tonic Bb4,fc_accents_34_3.mp3,"[1, 2, 6, 3, 4, 3, 1]",1,0.0,4,1,0,0,0,1,1,inv-U,1
+n727gy,tonic Bb4,fc_accents_34_2.mp3,"[1, 2, 6, 3, 4, 3, 1]",0,0.0,4,1,0,0,0,1,1,inv-U,0
+n727gy,tonic Bb4,fc_accents_34_4.mp3,"[1, 2, 6, 3, 4, 3, 1]",0,0.0,4,1,0,0,0,1,1,inv-U,0
+n727gy,tonic Bb4,fc_accents_32_1.mp3,"[1, 2, 6, 3, 2, 3, 1]",0,1.0,4,0,1,0,0,1,1,U,0
+n727gy,tonic Bb4,fc_accents_54_2.mp3,"[1, 2, 6, 5, 4, 3, 1]",0,0.0,4,0,0,0,1,1,1,des,0
+n727gy,tonic Bb4,fc_accents_56_4.mp3,"[1, 2, 6, 5, 6, 3, 1]",0,1.0,4,1,0,0,0,1,1,inv-U,0
+n727gy,tonic Bb4,fc_accents_34_3.mp3,"[1, 2, 6, 3, 4, 3, 1]",0,0.0,4,1,0,0,0,1,1,inv-U,0
+n727gy,tonic Bb4,fc_accents_56_2.mp3,"[1, 2, 6, 5, 6, 5, 3, 1]",0,1.0,4,1,0,0,0,1,1,inv-U,0
+n727gy,tonic Bb4,fc_accents_32_3.mp3,"[1, 2, 6, 3, 2, 3, 1]",0,1.0,4,0,1,0,0,1,1,U,0
+n727gy,tonic Bb4,fc_accents_56_3.mp3,"[1, 2, 5, 6, 3, 1]",0,1.0,3,1,0,0,0,2,4,inv-U,0
+n727gy,tonic Bb4,fc_accents_54_1.mp3,"[1, 2, 6, 5, 4, 5, 3, 1]",0,0.0,4,0,1,0,0,1,1,U,0
+n727gy,tonic Bb4,fc_accents_54_3.mp3,"[1, 2, 6, 5, 4, 5, 3, 1]",0,0.0,4,0,1,0,0,1,1,U,0
+n727gy,tonic Bb4,fc_accents_34_1.mp3,"[1, 2, 6, 3, 4, 5, 3, 1]",0,0.0,4,0,0,1,0,1,1,asc,0
+n727gy,tonic Bb4,fc_accents_32_2.mp3,"[1, 2, 6, 3, 2, 5, 3, 1]",0,1.0,4,0,1,0,0,1,1,U,0
+n727gy,tonic Bb4,fc_accents_32_4.mp3,"[1, 2, 6, 3, 2, 3, 1]",0,1.0,4,0,1,0,0,1,1,U,0
+n727gy,tonic Bb4,fc_accents_54_4.mp3,"[1, 2, 3, 6, 5, 4, 5, 3, 1]",0,0.0,5,0,1,0,0,2,2,U,0
+n727gy,tonic Bb4,fc_accents_56_1.mp3,"[1, 2, 6, 5, 6, 5, 3, 1]",0,1.0,4,1,0,0,0,1,1,inv-U,0
+c27twk,tonic Bb4,fc_accents_32_4.mp3,"[1, 2, 6, 3, 2, 3, 1]",1,1.0,4,0,1,0,0,1,1,U,0
+c27twk,tonic Bb4,fc_accents_54_2.mp3,"[1, 2, 6, 5, 4, 3, 1]",0,0.0,4,0,0,0,1,1,1,des,0
+c27twk,tonic Bb4,fc_accents_56_1.mp3,"[1, 2, 6, 5, 6, 5, 3, 1]",0,1.0,4,1,0,0,0,1,1,inv-U,0
+c27twk,tonic Bb4,fc_accents_54_4.mp3,"[1, 2, 3, 6, 5, 4, 5, 3, 1]",1,0.0,5,0,1,0,0,2,2,U,0
+c27twk,tonic Bb4,fc_accents_34_4.mp3,"[1, 2, 6, 3, 4, 3, 1]",1,0.0,4,1,0,0,0,1,1,inv-U,0
+c27twk,tonic Bb4,fc_accents_54_1.mp3,"[1, 2, 6, 5, 4, 5, 3, 1]",0,0.0,4,0,1,0,0,1,1,U,0
+c27twk,tonic Bb4,fc_accents_32_1.mp3,"[1, 2, 6, 3, 2, 3, 1]",0,1.0,4,0,1,0,0,1,1,U,0
+c27twk,tonic Bb4,fc_accents_32_3.mp3,"[1, 2, 6, 3, 2, 3, 1]",1,1.0,4,0,1,0,0,1,1,U,0
+c27twk,tonic Bb4,fc_accents_34_1.mp3,"[1, 2, 6, 3, 4, 5, 3, 1]",0,0.0,4,0,0,1,0,1,1,asc,0
+c27twk,tonic Bb4,fc_accents_56_3.mp3,"[1, 2, 5, 6, 3, 1]",0,1.0,3,1,0,0,0,2,4,inv-U,0
+c27twk,tonic Bb4,fc_accents_54_3.mp3,"[1, 2, 6, 5, 4, 5, 3, 1]",1,0.0,4,0,1,0,0,1,1,U,0
+c27twk,tonic Bb4,fc_accents_56_4.mp3,"[1, 2, 6, 5, 6, 3, 1]",1,1.0,4,1,0,0,0,1,1,inv-U,0
+c27twk,tonic Bb4,fc_accents_34_2.mp3,"[1, 2, 6, 3, 4, 3, 1]",0,0.0,4,1,0,0,0,1,1,inv-U,0
+c27twk,tonic Bb4,fc_accents_34_3.mp3,"[1, 2, 6, 3, 4, 3, 1]",0,0.0,4,1,0,0,0,1,1,inv-U,0
+c27twk,tonic Bb4,fc_accents_32_2.mp3,"[1, 2, 6, 3, 2, 5, 3, 1]",1,1.0,4,0,1,0,0,1,1,U,0
+c27twk,tonic Bb4,fc_accents_56_2.mp3,"[1, 2, 6, 5, 6, 5, 3, 1]",0,1.0,4,1,0,0,0,1,1,inv-U,0
+hljjmo,tonic Bb4,fc_accents_54_3.mp3,"[1, 2, 6, 5, 4, 5, 3, 1]",0,0.0,4,0,1,0,0,1,1,U,1
+hljjmo,tonic Bb4,fc_accents_56_3.mp3,"[1, 2, 5, 6, 3, 1]",0,1.0,3,1,0,0,0,2,4,inv-U,1
+hljjmo,tonic Bb4,fc_accents_54_1.mp3,"[1, 2, 6, 5, 4, 5, 3, 1]",1,0.0,4,0,1,0,0,1,1,U,1
+hljjmo,tonic Bb4,fc_accents_34_1.mp3,"[1, 2, 6, 3, 4, 5, 3, 1]",0,0.0,4,0,0,1,0,1,1,asc,1
+hljjmo,tonic Bb4,fc_accents_32_4.mp3,"[1, 2, 6, 3, 2, 3, 1]",0,1.0,4,0,1,0,0,1,1,U,1
+hljjmo,tonic Bb4,fc_accents_54_4.mp3,"[1, 2, 3, 6, 5, 4, 5, 3, 1]",0,0.0,5,0,1,0,0,2,2,U,1
+hljjmo,tonic Bb4,fc_accents_56_1.mp3,"[1, 2, 6, 5, 6, 5, 3, 1]",0,1.0,4,1,0,0,0,1,1,inv-U,1
+hljjmo,tonic Bb4,fc_accents_34_2.mp3,"[1, 2, 6, 3, 4, 3, 1]",0,0.0,4,1,0,0,0,1,1,inv-U,1
+hljjmo,tonic Bb4,fc_accents_32_2.mp3,"[1, 2, 6, 3, 2, 5, 3, 1]",0,1.0,4,0,1,0,0,1,1,U,1
+hljjmo,tonic Bb4,fc_accents_54_2.mp3,"[1, 2, 6, 5, 4, 3, 1]",0,0.0,4,0,0,0,1,1,1,des,1
+hljjmo,tonic Bb4,fc_accents_56_2.mp3,"[1, 2, 6, 5, 6, 5, 3, 1]",0,1.0,4,1,0,0,0,1,1,inv-U,1
+hljjmo,tonic Bb4,fc_accents_32_1.mp3,"[1, 2, 6, 3, 2, 3, 1]",0,1.0,4,0,1,0,0,1,1,U,1
+hljjmo,tonic Bb4,fc_accents_34_4.mp3,"[1, 2, 6, 3, 4, 3, 1]",0,0.0,4,1,0,0,0,1,1,inv-U,1
+hljjmo,tonic Bb4,fc_accents_32_3.mp3,"[1, 2, 6, 3, 2, 3, 1]",0,1.0,4,0,1,0,0,1,1,U,1
+hljjmo,tonic Bb4,fc_accents_56_4.mp3,"[1, 2, 6, 5, 6, 3, 1]",0,1.0,4,1,0,0,0,1,1,inv-U,1
+hljjmo,tonic Bb4,fc_accents_34_3.mp3,"[1, 2, 6, 3, 4, 3, 1]",0,0.0,4,1,0,0,0,1,1,inv-U,1
+8rmmbt,tonic Bb4,fc_accents_56_3.mp3,"[1, 2, 5, 6, 3, 1]",1,1.0,3,1,0,0,0,2,4,inv-U,0
+8rmmbt,tonic Bb4,fc_accents_34_3.mp3,"[1, 2, 6, 3, 4, 3, 1]",0,0.0,4,1,0,0,0,1,1,inv-U,0
+8rmmbt,tonic Bb4,fc_accents_56_4.mp3,"[1, 2, 6, 5, 6, 3, 1]",1,1.0,4,1,0,0,0,1,1,inv-U,0
+8rmmbt,tonic Bb4,fc_accents_56_1.mp3,"[1, 2, 6, 5, 6, 5, 3, 1]",0,1.0,4,1,0,0,0,1,1,inv-U,0
+8rmmbt,tonic Bb4,fc_accents_32_2.mp3,"[1, 2, 6, 3, 2, 5, 3, 1]",0,1.0,4,0,1,0,0,1,1,U,0
+8rmmbt,tonic Bb4,fc_accents_32_1.mp3,"[1, 2, 6, 3, 2, 3, 1]",1,1.0,4,0,1,0,0,1,1,U,0
+8rmmbt,tonic Bb4,fc_accents_54_2.mp3,"[1, 2, 6, 5, 4, 3, 1]",1,0.0,4,0,0,0,1,1,1,des,0
+8rmmbt,tonic Bb4,fc_accents_56_2.mp3,"[1, 2, 6, 5, 6, 5, 3, 1]",1,1.0,4,1,0,0,0,1,1,inv-U,0
+8rmmbt,tonic Bb4,fc_accents_34_2.mp3,"[1, 2, 6, 3, 4, 3, 1]",1,0.0,4,1,0,0,0,1,1,inv-U,0
+8rmmbt,tonic Bb4,fc_accents_32_3.mp3,"[1, 2, 6, 3, 2, 3, 1]",1,1.0,4,0,1,0,0,1,1,U,0
+8rmmbt,tonic Bb4,fc_accents_34_4.mp3,"[1, 2, 6, 3, 4, 3, 1]",0,0.0,4,1,0,0,0,1,1,inv-U,0
+8rmmbt,tonic Bb4,fc_accents_34_1.mp3,"[1, 2, 6, 3, 4, 5, 3, 1]",0,0.0,4,0,0,1,0,1,1,asc,0
+8rmmbt,tonic Bb4,fc_accents_32_4.mp3,"[1, 2, 6, 3, 2, 3, 1]",1,1.0,4,0,1,0,0,1,1,U,0
+8rmmbt,tonic Bb4,fc_accents_54_1.mp3,"[1, 2, 6, 5, 4, 5, 3, 1]",0,0.0,4,0,1,0,0,1,1,U,0
+8rmmbt,tonic Bb4,fc_accents_54_4.mp3,"[1, 2, 3, 6, 5, 4, 5, 3, 1]",1,0.0,5,0,1,0,0,2,2,U,0
+8rmmbt,tonic Bb4,fc_accents_54_3.mp3,"[1, 2, 6, 5, 4, 5, 3, 1]",0,0.0,4,0,1,0,0,1,1,U,0
+54kfmx,tonic Bb4,fc_accents_56_2.mp3,"[1, 2, 6, 5, 6, 5, 3, 1]",1,1.0,4,1,0,0,0,1,1,inv-U,0
+54kfmx,tonic Bb4,fc_accents_54_4.mp3,"[1, 2, 3, 6, 5, 4, 5, 3, 1]",0,0.0,5,0,1,0,0,2,2,U,0
+54kfmx,tonic Bb4,fc_accents_56_3.mp3,"[1, 2, 5, 6, 3, 1]",1,1.0,3,1,0,0,0,2,4,inv-U,0
+54kfmx,tonic Bb4,fc_accents_54_2.mp3,"[1, 2, 6, 5, 4, 3, 1]",0,0.0,4,0,0,0,1,1,1,des,0
+54kfmx,tonic Bb4,fc_accents_32_4.mp3,"[1, 2, 6, 3, 2, 3, 1]",0,1.0,4,0,1,0,0,1,1,U,0
+54kfmx,tonic Bb4,fc_accents_32_1.mp3,"[1, 2, 6, 3, 2, 3, 1]",0,1.0,4,0,1,0,0,1,1,U,0
+54kfmx,tonic Bb4,fc_accents_34_2.mp3,"[1, 2, 6, 3, 4, 3, 1]",0,0.0,4,1,0,0,0,1,1,inv-U,0
+54kfmx,tonic Bb4,fc_accents_54_1.mp3,"[1, 2, 6, 5, 4, 5, 3, 1]",1,0.0,4,0,1,0,0,1,1,U,0
+54kfmx,tonic Bb4,fc_accents_56_1.mp3,"[1, 2, 6, 5, 6, 5, 3, 1]",1,1.0,4,1,0,0,0,1,1,inv-U,0
+54kfmx,tonic Bb4,fc_accents_32_2.mp3,"[1, 2, 6, 3, 2, 5, 3, 1]",0,1.0,4,0,1,0,0,1,1,U,0
+54kfmx,tonic Bb4,fc_accents_34_1.mp3,"[1, 2, 6, 3, 4, 5, 3, 1]",1,0.0,4,0,0,1,0,1,1,asc,0
+54kfmx,tonic Bb4,fc_accents_54_3.mp3,"[1, 2, 6, 5, 4, 5, 3, 1]",1,0.0,4,0,1,0,0,1,1,U,0
+54kfmx,tonic Bb4,fc_accents_34_3.mp3,"[1, 2, 6, 3, 4, 3, 1]",1,0.0,4,1,0,0,0,1,1,inv-U,0
+54kfmx,tonic Bb4,fc_accents_34_4.mp3,"[1, 2, 6, 3, 4, 3, 1]",1,0.0,4,1,0,0,0,1,1,inv-U,0
+54kfmx,tonic Bb4,fc_accents_56_4.mp3,"[1, 2, 6, 5, 6, 3, 1]",1,1.0,4,1,0,0,0,1,1,inv-U,0
+54kfmx,tonic Bb4,fc_accents_32_3.mp3,"[1, 2, 6, 3, 2, 3, 1]",0,1.0,4,0,1,0,0,1,1,U,0
+awcp74,tonic Bb4,fc_accents_56_4.mp3,"[1, 2, 6, 5, 6, 3, 1]",1,1.0,4,1,0,0,0,1,1,inv-U,0
+awcp74,tonic Bb4,fc_accents_54_1.mp3,"[1, 2, 6, 5, 4, 5, 3, 1]",1,0.0,4,0,1,0,0,1,1,U,0
+awcp74,tonic Bb4,fc_accents_54_4.mp3,"[1, 2, 3, 6, 5, 4, 5, 3, 1]",1,0.0,5,0,1,0,0,2,2,U,0
+awcp74,tonic Bb4,fc_accents_34_1.mp3,"[1, 2, 6, 3, 4, 5, 3, 1]",0,0.0,4,0,0,1,0,1,1,asc,0
+awcp74,tonic Bb4,fc_accents_34_2.mp3,"[1, 2, 6, 3, 4, 3, 1]",0,0.0,4,1,0,0,0,1,1,inv-U,0
+awcp74,tonic Bb4,fc_accents_56_2.mp3,"[1, 2, 6, 5, 6, 5, 3, 1]",1,1.0,4,1,0,0,0,1,1,inv-U,0
+awcp74,tonic Bb4,fc_accents_54_2.mp3,"[1, 2, 6, 5, 4, 3, 1]",1,0.0,4,0,0,0,1,1,1,des,0
+awcp74,tonic Bb4,fc_accents_54_3.mp3,"[1, 2, 6, 5, 4, 5, 3, 1]",1,0.0,4,0,1,0,0,1,1,U,0
+awcp74,tonic Bb4,fc_accents_32_2.mp3,"[1, 2, 6, 3, 2, 5, 3, 1]",1,1.0,4,0,1,0,0,1,1,U,0
+awcp74,tonic Bb4,fc_accents_32_3.mp3,"[1, 2, 6, 3, 2, 3, 1]",1,1.0,4,0,1,0,0,1,1,U,0
+awcp74,tonic Bb4,fc_accents_32_4.mp3,"[1, 2, 6, 3, 2, 3, 1]",0,1.0,4,0,1,0,0,1,1,U,0
+awcp74,tonic Bb4,fc_accents_56_3.mp3,"[1, 2, 5, 6, 3, 1]",1,1.0,3,1,0,0,0,2,4,inv-U,0
+awcp74,tonic Bb4,fc_accents_56_1.mp3,"[1, 2, 6, 5, 6, 5, 3, 1]",1,1.0,4,1,0,0,0,1,1,inv-U,0
+awcp74,tonic Bb4,fc_accents_34_3.mp3,"[1, 2, 6, 3, 4, 3, 1]",0,0.0,4,1,0,0,0,1,1,inv-U,0
+awcp74,tonic Bb4,fc_accents_34_4.mp3,"[1, 2, 6, 3, 4, 3, 1]",1,0.0,4,1,0,0,0,1,1,inv-U,0
+awcp74,tonic Bb4,fc_accents_32_1.mp3,"[1, 2, 6, 3, 2, 3, 1]",0,1.0,4,0,1,0,0,1,1,U,0
+3bx7hg,tonic Bb4,fc_accents_54_2.mp3,"[1, 2, 6, 5, 4, 3, 1]",0,0.0,4,0,0,0,1,1,1,des,0
+3bx7hg,tonic Bb4,fc_accents_34_1.mp3,"[1, 2, 6, 3, 4, 5, 3, 1]",0,0.0,4,0,0,1,0,1,1,asc,0
+3bx7hg,tonic Bb4,fc_accents_32_1.mp3,"[1, 2, 6, 3, 2, 3, 1]",0,1.0,4,0,1,0,0,1,1,U,0
+3bx7hg,tonic Bb4,fc_accents_32_2.mp3,"[1, 2, 6, 3, 2, 5, 3, 1]",0,1.0,4,0,1,0,0,1,1,U,0
+3bx7hg,tonic Bb4,fc_accents_56_4.mp3,"[1, 2, 6, 5, 6, 3, 1]",0,1.0,4,1,0,0,0,1,1,inv-U,0
+3bx7hg,tonic Bb4,fc_accents_56_3.mp3,"[1, 2, 5, 6, 3, 1]",1,1.0,3,1,0,0,0,2,4,inv-U,0
+3bx7hg,tonic Bb4,fc_accents_56_1.mp3,"[1, 2, 6, 5, 6, 5, 3, 1]",0,1.0,4,1,0,0,0,1,1,inv-U,0
+3bx7hg,tonic Bb4,fc_accents_34_4.mp3,"[1, 2, 6, 3, 4, 3, 1]",0,0.0,4,1,0,0,0,1,1,inv-U,0
+3bx7hg,tonic Bb4,fc_accents_54_1.mp3,"[1, 2, 6, 5, 4, 5, 3, 1]",0,0.0,4,0,1,0,0,1,1,U,0
+3bx7hg,tonic Bb4,fc_accents_56_2.mp3,"[1, 2, 6, 5, 6, 5, 3, 1]",0,1.0,4,1,0,0,0,1,1,inv-U,0
+3bx7hg,tonic Bb4,fc_accents_32_3.mp3,"[1, 2, 6, 3, 2, 3, 1]",0,1.0,4,0,1,0,0,1,1,U,0
+3bx7hg,tonic Bb4,fc_accents_54_4.mp3,"[1, 2, 3, 6, 5, 4, 5, 3, 1]",1,0.0,5,0,1,0,0,2,2,U,0
+3bx7hg,tonic Bb4,fc_accents_34_2.mp3,"[1, 2, 6, 3, 4, 3, 1]",0,0.0,4,1,0,0,0,1,1,inv-U,0
+3bx7hg,tonic Bb4,fc_accents_54_3.mp3,"[1, 2, 6, 5, 4, 5, 3, 1]",0,0.0,4,0,1,0,0,1,1,U,0
+3bx7hg,tonic Bb4,fc_accents_34_3.mp3,"[1, 2, 6, 3, 4, 3, 1]",0,0.0,4,1,0,0,0,1,1,inv-U,0
+3bx7hg,tonic Bb4,fc_accents_32_4.mp3,"[1, 2, 6, 3, 2, 3, 1]",1,1.0,4,0,1,0,0,1,1,U,0
+qnqpy5,tonic Bb4,fc_accents_34_3.mp3,"[1, 2, 6, 3, 4, 3, 1]",1,0.0,4,1,0,0,0,1,1,inv-U,0
+qnqpy5,tonic Bb4,fc_accents_32_2.mp3,"[1, 2, 6, 3, 2, 5, 3, 1]",0,1.0,4,0,1,0,0,1,1,U,0
+qnqpy5,tonic Bb4,fc_accents_32_4.mp3,"[1, 2, 6, 3, 2, 3, 1]",0,1.0,4,0,1,0,0,1,1,U,0
+qnqpy5,tonic Bb4,fc_accents_34_2.mp3,"[1, 2, 6, 3, 4, 3, 1]",1,0.0,4,1,0,0,0,1,1,inv-U,0
+qnqpy5,tonic Bb4,fc_accents_32_1.mp3,"[1, 2, 6, 3, 2, 3, 1]",0,1.0,4,0,1,0,0,1,1,U,0
+qnqpy5,tonic Bb4,fc_accents_56_3.mp3,"[1, 2, 5, 6, 3, 1]",1,1.0,3,1,0,0,0,2,4,inv-U,0
+qnqpy5,tonic Bb4,fc_accents_34_4.mp3,"[1, 2, 6, 3, 4, 3, 1]",1,0.0,4,1,0,0,0,1,1,inv-U,0
+qnqpy5,tonic Bb4,fc_accents_34_1.mp3,"[1, 2, 6, 3, 4, 5, 3, 1]",0,0.0,4,0,0,1,0,1,1,asc,0
+qnqpy5,tonic Bb4,fc_accents_56_2.mp3,"[1, 2, 6, 5, 6, 5, 3, 1]",0,1.0,4,1,0,0,0,1,1,inv-U,0
+qnqpy5,tonic Bb4,fc_accents_54_4.mp3,"[1, 2, 3, 6, 5, 4, 5, 3, 1]",1,0.0,5,0,1,0,0,2,2,U,0
+qnqpy5,tonic Bb4,fc_accents_32_3.mp3,"[1, 2, 6, 3, 2, 3, 1]",1,1.0,4,0,1,0,0,1,1,U,0
+qnqpy5,tonic Bb4,fc_accents_56_4.mp3,"[1, 2, 6, 5, 6, 3, 1]",1,1.0,4,1,0,0,0,1,1,inv-U,0
+qnqpy5,tonic Bb4,fc_accents_54_2.mp3,"[1, 2, 6, 5, 4, 3, 1]",0,0.0,4,0,0,0,1,1,1,des,0
+qnqpy5,tonic Bb4,fc_accents_56_1.mp3,"[1, 2, 6, 5, 6, 5, 3, 1]",1,1.0,4,1,0,0,0,1,1,inv-U,0
+qnqpy5,tonic Bb4,fc_accents_54_1.mp3,"[1, 2, 6, 5, 4, 5, 3, 1]",1,0.0,4,0,1,0,0,1,1,U,0
+qnqpy5,tonic Bb4,fc_accents_54_3.mp3,"[1, 2, 6, 5, 4, 5, 3, 1]",0,0.0,4,0,1,0,0,1,1,U,0
+47gbpj,tonic Bb4,fc_accents_54_3.mp3,"[1, 2, 6, 5, 4, 5, 3, 1]",1,0.0,4,0,1,0,0,1,1,U,0
+47gbpj,tonic Bb4,fc_accents_56_3.mp3,"[1, 2, 5, 6, 3, 1]",1,1.0,3,1,0,0,0,2,4,inv-U,0
+47gbpj,tonic Bb4,fc_accents_32_4.mp3,"[1, 2, 6, 3, 2, 3, 1]",1,1.0,4,0,1,0,0,1,1,U,0
+47gbpj,tonic Bb4,fc_accents_32_2.mp3,"[1, 2, 6, 3, 2, 5, 3, 1]",0,1.0,4,0,1,0,0,1,1,U,0
+47gbpj,tonic Bb4,fc_accents_32_1.mp3,"[1, 2, 6, 3, 2, 3, 1]",0,1.0,4,0,1,0,0,1,1,U,0
+47gbpj,tonic Bb4,fc_accents_54_4.mp3,"[1, 2, 3, 6, 5, 4, 5, 3, 1]",1,0.0,5,0,1,0,0,2,2,U,0
+47gbpj,tonic Bb4,fc_accents_34_2.mp3,"[1, 2, 6, 3, 4, 3, 1]",1,0.0,4,1,0,0,0,1,1,inv-U,0
+47gbpj,tonic Bb4,fc_accents_54_2.mp3,"[1, 2, 6, 5, 4, 3, 1]",1,0.0,4,0,0,0,1,1,1,des,0
+47gbpj,tonic Bb4,fc_accents_56_4.mp3,"[1, 2, 6, 5, 6, 3, 1]",1,1.0,4,1,0,0,0,1,1,inv-U,0
+47gbpj,tonic Bb4,fc_accents_34_4.mp3,"[1, 2, 6, 3, 4, 3, 1]",1,0.0,4,1,0,0,0,1,1,inv-U,0
+47gbpj,tonic Bb4,fc_accents_56_2.mp3,"[1, 2, 6, 5, 6, 5, 3, 1]",1,1.0,4,1,0,0,0,1,1,inv-U,0
+47gbpj,tonic Bb4,fc_accents_32_3.mp3,"[1, 2, 6, 3, 2, 3, 1]",1,1.0,4,0,1,0,0,1,1,U,0
+47gbpj,tonic Bb4,fc_accents_54_1.mp3,"[1, 2, 6, 5, 4, 5, 3, 1]",1,0.0,4,0,1,0,0,1,1,U,0
+47gbpj,tonic Bb4,fc_accents_34_3.mp3,"[1, 2, 6, 3, 4, 3, 1]",0,0.0,4,1,0,0,0,1,1,inv-U,0
+47gbpj,tonic Bb4,fc_accents_56_1.mp3,"[1, 2, 6, 5, 6, 5, 3, 1]",1,1.0,4,1,0,0,0,1,1,inv-U,0
+47gbpj,tonic Bb4,fc_accents_34_1.mp3,"[1, 2, 6, 3, 4, 5, 3, 1]",0,0.0,4,0,0,1,0,1,1,asc,0
+kkm9yc,tonic Bb4,fc_accents_54_2.mp3,"[1, 2, 6, 5, 4, 3, 1]",0,0.0,4,0,0,0,1,1,1,des,0
+kkm9yc,tonic Bb4,fc_accents_54_4.mp3,"[1, 2, 3, 6, 5, 4, 5, 3, 1]",0,0.0,5,0,1,0,0,2,2,U,0
+kkm9yc,tonic Bb4,fc_accents_34_2.mp3,"[1, 2, 6, 3, 4, 3, 1]",0,0.0,4,1,0,0,0,1,1,inv-U,0
+kkm9yc,tonic Bb4,fc_accents_54_3.mp3,"[1, 2, 6, 5, 4, 5, 3, 1]",0,0.0,4,0,1,0,0,1,1,U,0
+kkm9yc,tonic Bb4,fc_accents_34_3.mp3,"[1, 2, 6, 3, 4, 3, 1]",0,0.0,4,1,0,0,0,1,1,inv-U,0
+kkm9yc,tonic Bb4,fc_accents_56_4.mp3,"[1, 2, 6, 5, 6, 3, 1]",0,1.0,4,1,0,0,0,1,1,inv-U,0
+kkm9yc,tonic Bb4,fc_accents_32_1.mp3,"[1, 2, 6, 3, 2, 3, 1]",0,1.0,4,0,1,0,0,1,1,U,0
+kkm9yc,tonic Bb4,fc_accents_56_3.mp3,"[1, 2, 5, 6, 3, 1]",0,1.0,3,1,0,0,0,2,4,inv-U,0
+kkm9yc,tonic Bb4,fc_accents_54_1.mp3,"[1, 2, 6, 5, 4, 5, 3, 1]",0,0.0,4,0,1,0,0,1,1,U,0
+kkm9yc,tonic Bb4,fc_accents_56_2.mp3,"[1, 2, 6, 5, 6, 5, 3, 1]",1,1.0,4,1,0,0,0,1,1,inv-U,0
+kkm9yc,tonic Bb4,fc_accents_34_1.mp3,"[1, 2, 6, 3, 4, 5, 3, 1]",0,0.0,4,0,0,1,0,1,1,asc,0
+kkm9yc,tonic Bb4,fc_accents_32_4.mp3,"[1, 2, 6, 3, 2, 3, 1]",0,1.0,4,0,1,0,0,1,1,U,0
+kkm9yc,tonic Bb4,fc_accents_56_1.mp3,"[1, 2, 6, 5, 6, 5, 3, 1]",0,1.0,4,1,0,0,0,1,1,inv-U,0
+kkm9yc,tonic Bb4,fc_accents_32_2.mp3,"[1, 2, 6, 3, 2, 5, 3, 1]",0,1.0,4,0,1,0,0,1,1,U,0
+kkm9yc,tonic Bb4,fc_accents_32_3.mp3,"[1, 2, 6, 3, 2, 3, 1]",0,1.0,4,0,1,0,0,1,1,U,0
+kkm9yc,tonic Bb4,fc_accents_34_4.mp3,"[1, 2, 6, 3, 4, 3, 1]",1,0.0,4,1,0,0,0,1,1,inv-U,0
+f6j9pl,tonic Bb4,fc_accents_32_2.mp3,"[1, 2, 6, 3, 2, 5, 3, 1]",1,1.0,4,0,1,0,0,1,1,U,0
+f6j9pl,tonic Bb4,fc_accents_54_1.mp3,"[1, 2, 6, 5, 4, 5, 3, 1]",1,0.0,4,0,1,0,0,1,1,U,0
+f6j9pl,tonic Bb4,fc_accents_32_1.mp3,"[1, 2, 6, 3, 2, 3, 1]",1,1.0,4,0,1,0,0,1,1,U,0
+f6j9pl,tonic Bb4,fc_accents_34_3.mp3,"[1, 2, 6, 3, 4, 3, 1]",1,0.0,4,1,0,0,0,1,1,inv-U,0
+f6j9pl,tonic Bb4,fc_accents_54_4.mp3,"[1, 2, 3, 6, 5, 4, 5, 3, 1]",1,0.0,5,0,1,0,0,2,2,U,0
+f6j9pl,tonic Bb4,fc_accents_56_3.mp3,"[1, 2, 5, 6, 3, 1]",1,1.0,3,1,0,0,0,2,4,inv-U,0
+f6j9pl,tonic Bb4,fc_accents_56_4.mp3,"[1, 2, 6, 5, 6, 3, 1]",1,1.0,4,1,0,0,0,1,1,inv-U,0
+f6j9pl,tonic Bb4,fc_accents_34_1.mp3,"[1, 2, 6, 3, 4, 5, 3, 1]",1,0.0,4,0,0,1,0,1,1,asc,0
+f6j9pl,tonic Bb4,fc_accents_54_2.mp3,"[1, 2, 6, 5, 4, 3, 1]",0,0.0,4,0,0,0,1,1,1,des,0
+f6j9pl,tonic Bb4,fc_accents_34_4.mp3,"[1, 2, 6, 3, 4, 3, 1]",1,0.0,4,1,0,0,0,1,1,inv-U,0
+f6j9pl,tonic Bb4,fc_accents_56_1.mp3,"[1, 2, 6, 5, 6, 5, 3, 1]",0,1.0,4,1,0,0,0,1,1,inv-U,0
+f6j9pl,tonic Bb4,fc_accents_32_3.mp3,"[1, 2, 6, 3, 2, 3, 1]",0,1.0,4,0,1,0,0,1,1,U,0
+f6j9pl,tonic Bb4,fc_accents_54_3.mp3,"[1, 2, 6, 5, 4, 5, 3, 1]",0,0.0,4,0,1,0,0,1,1,U,0
+f6j9pl,tonic Bb4,fc_accents_34_2.mp3,"[1, 2, 6, 3, 4, 3, 1]",1,0.0,4,1,0,0,0,1,1,inv-U,0
+f6j9pl,tonic Bb4,fc_accents_56_2.mp3,"[1, 2, 6, 5, 6, 5, 3, 1]",0,1.0,4,1,0,0,0,1,1,inv-U,0
+f6j9pl,tonic Bb4,fc_accents_32_4.mp3,"[1, 2, 6, 3, 2, 3, 1]",0,1.0,4,0,1,0,0,1,1,U,0
+wrywed,tonic C5,fc_accents_32_4.mp3,"[1, 2, 6, 3, 2, 5, 3, 1]",1,1.0,4,0,1,0,0,1,1,U,0
+wrywed,tonic C5,fc_accents_54_1.mp3,"[1, 2, 6, 5, 4, 3, 1]",1,0.0,4,0,0,0,1,1,1,des,0
+wrywed,tonic C5,fc_accents_34_1.mp3,"[1, 2, 6, 3, 4, 5, 3, 1]",1,0.0,4,0,0,1,0,1,1,asc,0
+wrywed,tonic C5,fc_accents_34_2.mp3,"[1, 2, 6, 3, 4, 5, 3, 1]",1,0.0,4,0,0,1,0,1,1,asc,0
+wrywed,tonic C5,fc_accents_54_2.mp3,"[1, 2, 6, 5, 4, 5, 3, 1]",1,0.0,4,0,1,0,0,1,1,U,0
+wrywed,tonic C5,fc_accents_56_2.mp3,"[1, 2, 6, 5, 6, 3, 1]",1,1.0,4,1,0,0,0,1,1,inv-U,0
+wrywed,tonic C5,fc_accents_34_4.mp3,"[1, 2, 6, 3, 4, 5, 3, 1]",1,0.0,4,0,0,1,0,1,1,asc,0
+wrywed,tonic C5,fc_accents_32_2.mp3,"[1, 2, 6, 3, 2, 3, 1]",0,1.0,4,0,1,0,0,1,1,U,0
+wrywed,tonic C5,fc_accents_32_3.mp3,"[1, 2, 6, 3, 2, 3, 1]",1,1.0,4,0,1,0,0,1,1,U,0
+wrywed,tonic C5,fc_accents_54_3.mp3,"[1, 2, 6, 5, 4, 5, 3, 1]",1,0.0,4,0,1,0,0,1,1,U,0
+wrywed,tonic C5,fc_accents_34_3.mp3,"[1, 2, 3, 4, 5, 3, 1]",1,0.0,3,0,0,1,0,2,4,asc,0
+wrywed,tonic C5,fc_accents_56_4.mp3,"[1, 2, 6, 5, 6, 5, 3, 1]",1,1.0,4,1,0,0,0,1,1,inv-U,0
+wrywed,tonic C5,fc_accents_56_1.mp3,"[1, 2, 6, 5, 6, 5, 3, 1]",1,1.0,4,1,0,0,0,1,1,inv-U,0
+wrywed,tonic C5,fc_accents_54_4.mp3,"[1, 2, 6, 5, 4, 3, 1]",1,0.0,4,0,0,0,1,1,1,des,0
+wrywed,tonic C5,fc_accents_56_3.mp3,"[1, 2, 6, 5, 6, 5, 3, 1]",1,1.0,4,1,0,0,0,1,1,inv-U,0
+wrywed,tonic C5,fc_accents_32_1.mp3,"[1, 3, 6, 3, 2, 3, 1]",1,1.0,4,0,1,0,0,1,1,U,0
+x8c67z,tonic C5,fc_accents_34_2.mp3,"[1, 2, 6, 3, 4, 5, 3, 1]",1,0.0,4,0,0,1,0,1,1,asc,0
+x8c67z,tonic C5,fc_accents_34_3.mp3,"[1, 2, 3, 4, 5, 3, 1]",1,0.0,3,0,0,1,0,2,4,asc,0
+x8c67z,tonic C5,fc_accents_34_4.mp3,"[1, 2, 6, 3, 4, 5, 3, 1]",1,0.0,4,0,0,1,0,1,1,asc,0
+x8c67z,tonic C5,fc_accents_34_1.mp3,"[1, 2, 6, 3, 4, 5, 3, 1]",1,0.0,4,0,0,1,0,1,1,asc,0
+x8c67z,tonic C5,fc_accents_54_2.mp3,"[1, 2, 6, 5, 4, 5, 3, 1]",0,0.0,4,0,1,0,0,1,1,U,0
+x8c67z,tonic C5,fc_accents_56_2.mp3,"[1, 2, 6, 5, 6, 3, 1]",0,1.0,4,1,0,0,0,1,1,inv-U,0
+x8c67z,tonic C5,fc_accents_54_1.mp3,"[1, 2, 6, 5, 4, 3, 1]",1,0.0,4,0,0,0,1,1,1,des,0
+x8c67z,tonic C5,fc_accents_54_4.mp3,"[1, 2, 6, 5, 4, 3, 1]",1,0.0,4,0,0,0,1,1,1,des,0
+x8c67z,tonic C5,fc_accents_32_4.mp3,"[1, 2, 6, 3, 2, 5, 3, 1]",0,1.0,4,0,1,0,0,1,1,U,0
+x8c67z,tonic C5,fc_accents_54_3.mp3,"[1, 2, 6, 5, 4, 5, 3, 1]",1,0.0,4,0,1,0,0,1,1,U,0
+x8c67z,tonic C5,fc_accents_56_1.mp3,"[1, 2, 6, 5, 6, 5, 3, 1]",1,1.0,4,1,0,0,0,1,1,inv-U,0
+x8c67z,tonic C5,fc_accents_56_3.mp3,"[1, 2, 6, 5, 6, 5, 3, 1]",0,1.0,4,1,0,0,0,1,1,inv-U,0
+x8c67z,tonic C5,fc_accents_32_2.mp3,"[1, 2, 6, 3, 2, 3, 1]",1,1.0,4,0,1,0,0,1,1,U,0
+x8c67z,tonic C5,fc_accents_32_3.mp3,"[1, 2, 6, 3, 2, 3, 1]",0,1.0,4,0,1,0,0,1,1,U,0
+x8c67z,tonic C5,fc_accents_56_4.mp3,"[1, 2, 6, 5, 6, 5, 3, 1]",1,1.0,4,1,0,0,0,1,1,inv-U,0
+x8c67z,tonic C5,fc_accents_32_1.mp3,"[1, 3, 6, 3, 2, 3, 1]",0,1.0,4,0,1,0,0,1,1,U,0
+58cf32,tonic C5,fc_accents_34_4.mp3,"[1, 2, 6, 3, 4, 5, 3, 1]",0,0.0,4,0,0,1,0,1,1,asc,0
+58cf32,tonic C5,fc_accents_56_1.mp3,"[1, 2, 6, 5, 6, 5, 3, 1]",1,1.0,4,1,0,0,0,1,1,inv-U,0
+58cf32,tonic C5,fc_accents_32_2.mp3,"[1, 2, 6, 3, 2, 3, 1]",1,1.0,4,0,1,0,0,1,1,U,0
+58cf32,tonic C5,fc_accents_32_1.mp3,"[1, 3, 6, 3, 2, 3, 1]",0,1.0,4,0,1,0,0,1,1,U,0
+58cf32,tonic C5,fc_accents_54_4.mp3,"[1, 2, 6, 5, 4, 3, 1]",0,0.0,4,0,0,0,1,1,1,des,0
+58cf32,tonic C5,fc_accents_56_3.mp3,"[1, 2, 6, 5, 6, 5, 3, 1]",0,1.0,4,1,0,0,0,1,1,inv-U,0
+58cf32,tonic C5,fc_accents_56_4.mp3,"[1, 2, 6, 5, 6, 5, 3, 1]",1,1.0,4,1,0,0,0,1,1,inv-U,0
+58cf32,tonic C5,fc_accents_54_1.mp3,"[1, 2, 6, 5, 4, 3, 1]",1,0.0,4,0,0,0,1,1,1,des,0
+58cf32,tonic C5,fc_accents_32_3.mp3,"[1, 2, 6, 3, 2, 3, 1]",0,1.0,4,0,1,0,0,1,1,U,0
+58cf32,tonic C5,fc_accents_54_3.mp3,"[1, 2, 6, 5, 4, 5, 3, 1]",0,0.0,4,0,1,0,0,1,1,U,0
+58cf32,tonic C5,fc_accents_34_2.mp3,"[1, 2, 6, 3, 4, 5, 3, 1]",1,0.0,4,0,0,1,0,1,1,asc,0
+58cf32,tonic C5,fc_accents_56_2.mp3,"[1, 2, 6, 5, 6, 3, 1]",0,1.0,4,1,0,0,0,1,1,inv-U,0
+58cf32,tonic C5,fc_accents_34_1.mp3,"[1, 2, 6, 3, 4, 5, 3, 1]",0,0.0,4,0,0,1,0,1,1,asc,0
+58cf32,tonic C5,fc_accents_34_3.mp3,"[1, 2, 3, 4, 5, 3, 1]",0,0.0,3,0,0,1,0,2,4,asc,0
+58cf32,tonic C5,fc_accents_54_2.mp3,"[1, 2, 6, 5, 4, 5, 3, 1]",0,0.0,4,0,1,0,0,1,1,U,0
+58cf32,tonic C5,fc_accents_32_4.mp3,"[1, 2, 6, 3, 2, 5, 3, 1]",0,1.0,4,0,1,0,0,1,1,U,0
+p1o8hj,tonic C5,fc_accents_34_1.mp3,"[1, 2, 6, 3, 4, 5, 3, 1]",1,0.0,4,0,0,1,0,1,1,asc,0
+p1o8hj,tonic C5,fc_accents_34_3.mp3,"[1, 2, 3, 4, 5, 3, 1]",0,0.0,3,0,0,1,0,2,4,asc,0
+p1o8hj,tonic C5,fc_accents_56_3.mp3,"[1, 2, 6, 5, 6, 5, 3, 1]",1,1.0,4,1,0,0,0,1,1,inv-U,0
+p1o8hj,tonic C5,fc_accents_56_1.mp3,"[1, 2, 6, 5, 6, 5, 3, 1]",1,1.0,4,1,0,0,0,1,1,inv-U,0
+p1o8hj,tonic C5,fc_accents_54_4.mp3,"[1, 2, 6, 5, 4, 3, 1]",0,0.0,4,0,0,0,1,1,1,des,0
+p1o8hj,tonic C5,fc_accents_54_3.mp3,"[1, 2, 6, 5, 4, 5, 3, 1]",1,0.0,4,0,1,0,0,1,1,U,0
+p1o8hj,tonic C5,fc_accents_56_2.mp3,"[1, 2, 6, 5, 6, 3, 1]",0,1.0,4,1,0,0,0,1,1,inv-U,0
+p1o8hj,tonic C5,fc_accents_54_2.mp3,"[1, 2, 6, 5, 4, 5, 3, 1]",1,0.0,4,0,1,0,0,1,1,U,0
+p1o8hj,tonic C5,fc_accents_32_2.mp3,"[1, 2, 6, 3, 2, 3, 1]",1,1.0,4,0,1,0,0,1,1,U,0
+p1o8hj,tonic C5,fc_accents_32_3.mp3,"[1, 2, 6, 3, 2, 3, 1]",1,1.0,4,0,1,0,0,1,1,U,0
+p1o8hj,tonic C5,fc_accents_32_4.mp3,"[1, 2, 6, 3, 2, 5, 3, 1]",0,1.0,4,0,1,0,0,1,1,U,0
+p1o8hj,tonic C5,fc_accents_34_2.mp3,"[1, 2, 6, 3, 4, 5, 3, 1]",0,0.0,4,0,0,1,0,1,1,asc,0
+p1o8hj,tonic C5,fc_accents_32_1.mp3,"[1, 3, 6, 3, 2, 3, 1]",1,1.0,4,0,1,0,0,1,1,U,0
+p1o8hj,tonic C5,fc_accents_54_1.mp3,"[1, 2, 6, 5, 4, 3, 1]",0,0.0,4,0,0,0,1,1,1,des,0
+p1o8hj,tonic C5,fc_accents_56_4.mp3,"[1, 2, 6, 5, 6, 5, 3, 1]",0,1.0,4,1,0,0,0,1,1,inv-U,0
+p1o8hj,tonic C5,fc_accents_34_4.mp3,"[1, 2, 6, 3, 4, 5, 3, 1]",0,0.0,4,0,0,1,0,1,1,asc,0
+2rygdo,tonic C5,fc_accents_56_2.mp3,"[1, 2, 6, 5, 6, 3, 1]",1,1.0,4,1,0,0,0,1,1,inv-U,0
+2rygdo,tonic C5,fc_accents_32_3.mp3,"[1, 2, 6, 3, 2, 3, 1]",0,1.0,4,0,1,0,0,1,1,U,0
+2rygdo,tonic C5,fc_accents_34_3.mp3,"[1, 2, 3, 4, 5, 3, 1]",0,0.0,3,0,0,1,0,2,4,asc,0
+2rygdo,tonic C5,fc_accents_56_4.mp3,"[1, 2, 6, 5, 6, 5, 3, 1]",0,1.0,4,1,0,0,0,1,1,inv-U,0
+2rygdo,tonic C5,fc_accents_32_2.mp3,"[1, 2, 6, 3, 2, 3, 1]",0,1.0,4,0,1,0,0,1,1,U,0
+2rygdo,tonic C5,fc_accents_34_4.mp3,"[1, 2, 6, 3, 4, 5, 3, 1]",0,0.0,4,0,0,1,0,1,1,asc,0
+2rygdo,tonic C5,fc_accents_32_1.mp3,"[1, 3, 6, 3, 2, 3, 1]",0,1.0,4,0,1,0,0,1,1,U,0
+2rygdo,tonic C5,fc_accents_54_4.mp3,"[1, 2, 6, 5, 4, 3, 1]",0,0.0,4,0,0,0,1,1,1,des,0
+2rygdo,tonic C5,fc_accents_34_2.mp3,"[1, 2, 6, 3, 4, 5, 3, 1]",0,0.0,4,0,0,1,0,1,1,asc,0
+2rygdo,tonic C5,fc_accents_54_3.mp3,"[1, 2, 6, 5, 4, 5, 3, 1]",0,0.0,4,0,1,0,0,1,1,U,0
+2rygdo,tonic C5,fc_accents_54_1.mp3,"[1, 2, 6, 5, 4, 3, 1]",0,0.0,4,0,0,0,1,1,1,des,0
+2rygdo,tonic C5,fc_accents_56_3.mp3,"[1, 2, 6, 5, 6, 5, 3, 1]",1,1.0,4,1,0,0,0,1,1,inv-U,0
+2rygdo,tonic C5,fc_accents_54_2.mp3,"[1, 2, 6, 5, 4, 5, 3, 1]",0,0.0,4,0,1,0,0,1,1,U,0
+2rygdo,tonic C5,fc_accents_34_1.mp3,"[1, 2, 6, 3, 4, 5, 3, 1]",0,0.0,4,0,0,1,0,1,1,asc,0
+2rygdo,tonic C5,fc_accents_32_4.mp3,"[1, 2, 6, 3, 2, 5, 3, 1]",0,1.0,4,0,1,0,0,1,1,U,0
+2rygdo,tonic C5,fc_accents_56_1.mp3,"[1, 2, 6, 5, 6, 5, 3, 1]",1,1.0,4,1,0,0,0,1,1,inv-U,0
+vekvhu,tonic C5,fc_accents_56_3.mp3,"[1, 2, 6, 5, 6, 5, 3, 1]",0,1.0,4,1,0,0,0,1,1,inv-U,0
+vekvhu,tonic C5,fc_accents_56_1.mp3,"[1, 2, 6, 5, 6, 5, 3, 1]",0,1.0,4,1,0,0,0,1,1,inv-U,0
+vekvhu,tonic C5,fc_accents_54_3.mp3,"[1, 2, 6, 5, 4, 5, 3, 1]",0,0.0,4,0,1,0,0,1,1,U,0
+vekvhu,tonic C5,fc_accents_34_4.mp3,"[1, 2, 6, 3, 4, 5, 3, 1]",0,0.0,4,0,0,1,0,1,1,asc,0
+vekvhu,tonic C5,fc_accents_34_1.mp3,"[1, 2, 6, 3, 4, 5, 3, 1]",0,0.0,4,0,0,1,0,1,1,asc,0
+vekvhu,tonic C5,fc_accents_56_4.mp3,"[1, 2, 6, 5, 6, 5, 3, 1]",0,1.0,4,1,0,0,0,1,1,inv-U,0
+vekvhu,tonic C5,fc_accents_32_4.mp3,"[1, 2, 6, 3, 2, 5, 3, 1]",0,1.0,4,0,1,0,0,1,1,U,0
+vekvhu,tonic C5,fc_accents_32_2.mp3,"[1, 2, 6, 3, 2, 3, 1]",0,1.0,4,0,1,0,0,1,1,U,0
+vekvhu,tonic C5,fc_accents_34_2.mp3,"[1, 2, 6, 3, 4, 5, 3, 1]",0,0.0,4,0,0,1,0,1,1,asc,0
+vekvhu,tonic C5,fc_accents_54_2.mp3,"[1, 2, 6, 5, 4, 5, 3, 1]",0,0.0,4,0,1,0,0,1,1,U,0
+vekvhu,tonic C5,fc_accents_32_1.mp3,"[1, 3, 6, 3, 2, 3, 1]",0,1.0,4,0,1,0,0,1,1,U,0
+vekvhu,tonic C5,fc_accents_56_2.mp3,"[1, 2, 6, 5, 6, 3, 1]",0,1.0,4,1,0,0,0,1,1,inv-U,0
+vekvhu,tonic C5,fc_accents_54_4.mp3,"[1, 2, 6, 5, 4, 3, 1]",0,0.0,4,0,0,0,1,1,1,des,0
+vekvhu,tonic C5,fc_accents_54_1.mp3,"[1, 2, 6, 5, 4, 3, 1]",0,0.0,4,0,0,0,1,1,1,des,0
+vekvhu,tonic C5,fc_accents_32_3.mp3,"[1, 2, 6, 3, 2, 3, 1]",0,1.0,4,0,1,0,0,1,1,U,0
+vekvhu,tonic C5,fc_accents_34_3.mp3,"[1, 2, 3, 4, 5, 3, 1]",0,0.0,3,0,0,1,0,2,4,asc,0
+wwgtn8,tonic C5,fc_accents_32_2.mp3,"[1, 2, 6, 3, 2, 3, 1]",1,1.0,4,0,1,0,0,1,1,U,0
+wwgtn8,tonic C5,fc_accents_56_2.mp3,"[1, 2, 6, 5, 6, 3, 1]",1,1.0,4,1,0,0,0,1,1,inv-U,0
+wwgtn8,tonic C5,fc_accents_54_3.mp3,"[1, 2, 6, 5, 4, 5, 3, 1]",1,0.0,4,0,1,0,0,1,1,U,0
+wwgtn8,tonic C5,fc_accents_56_1.mp3,"[1, 2, 6, 5, 6, 5, 3, 1]",1,1.0,4,1,0,0,0,1,1,inv-U,0
+wwgtn8,tonic C5,fc_accents_32_1.mp3,"[1, 3, 6, 3, 2, 3, 1]",1,1.0,4,0,1,0,0,1,1,U,0
+wwgtn8,tonic C5,fc_accents_54_4.mp3,"[1, 2, 6, 5, 4, 3, 1]",1,0.0,4,0,0,0,1,1,1,des,0
+wwgtn8,tonic C5,fc_accents_34_3.mp3,"[1, 2, 3, 4, 5, 3, 1]",1,0.0,3,0,0,1,0,2,4,asc,0
+wwgtn8,tonic C5,fc_accents_56_4.mp3,"[1, 2, 6, 5, 6, 5, 3, 1]",0,1.0,4,1,0,0,0,1,1,inv-U,0
+wwgtn8,tonic C5,fc_accents_32_4.mp3,"[1, 2, 6, 3, 2, 5, 3, 1]",1,1.0,4,0,1,0,0,1,1,U,0
+wwgtn8,tonic C5,fc_accents_54_1.mp3,"[1, 2, 6, 5, 4, 3, 1]",1,0.0,4,0,0,0,1,1,1,des,0
+wwgtn8,tonic C5,fc_accents_54_2.mp3,"[1, 2, 6, 5, 4, 5, 3, 1]",0,0.0,4,0,1,0,0,1,1,U,0
+wwgtn8,tonic C5,fc_accents_32_3.mp3,"[1, 2, 6, 3, 2, 3, 1]",1,1.0,4,0,1,0,0,1,1,U,0
+wwgtn8,tonic C5,fc_accents_56_3.mp3,"[1, 2, 6, 5, 6, 5, 3, 1]",1,1.0,4,1,0,0,0,1,1,inv-U,0
+wwgtn8,tonic C5,fc_accents_34_2.mp3,"[1, 2, 6, 3, 4, 5, 3, 1]",1,0.0,4,0,0,1,0,1,1,asc,0
+wwgtn8,tonic C5,fc_accents_34_1.mp3,"[1, 2, 6, 3, 4, 5, 3, 1]",1,0.0,4,0,0,1,0,1,1,asc,0
+wwgtn8,tonic C5,fc_accents_34_4.mp3,"[1, 2, 6, 3, 4, 5, 3, 1]",1,0.0,4,0,0,1,0,1,1,asc,0
+4qn9t3,tonic C5,fc_accents_32_3.mp3,"[1, 2, 6, 3, 2, 3, 1]",0,1.0,4,0,1,0,0,1,1,U,0
+4qn9t3,tonic C5,fc_accents_54_3.mp3,"[1, 2, 6, 5, 4, 5, 3, 1]",0,0.0,4,0,1,0,0,1,1,U,0
+4qn9t3,tonic C5,fc_accents_34_1.mp3,"[1, 2, 6, 3, 4, 5, 3, 1]",0,0.0,4,0,0,1,0,1,1,asc,0
+4qn9t3,tonic C5,fc_accents_56_4.mp3,"[1, 2, 6, 5, 6, 5, 3, 1]",1,1.0,4,1,0,0,0,1,1,inv-U,0
+4qn9t3,tonic C5,fc_accents_34_3.mp3,"[1, 2, 3, 4, 5, 3, 1]",1,0.0,3,0,0,1,0,2,4,asc,0
+4qn9t3,tonic C5,fc_accents_54_2.mp3,"[1, 2, 6, 5, 4, 5, 3, 1]",0,0.0,4,0,1,0,0,1,1,U,0
+4qn9t3,tonic C5,fc_accents_56_2.mp3,"[1, 2, 6, 5, 6, 3, 1]",0,1.0,4,1,0,0,0,1,1,inv-U,0
+4qn9t3,tonic C5,fc_accents_56_1.mp3,"[1, 2, 6, 5, 6, 5, 3, 1]",0,1.0,4,1,0,0,0,1,1,inv-U,0
+4qn9t3,tonic C5,fc_accents_32_2.mp3,"[1, 2, 6, 3, 2, 3, 1]",0,1.0,4,0,1,0,0,1,1,U,0
+4qn9t3,tonic C5,fc_accents_54_1.mp3,"[1, 2, 6, 5, 4, 3, 1]",0,0.0,4,0,0,0,1,1,1,des,0
+4qn9t3,tonic C5,fc_accents_32_1.mp3,"[1, 3, 6, 3, 2, 3, 1]",1,1.0,4,0,1,0,0,1,1,U,0
+4qn9t3,tonic C5,fc_accents_32_4.mp3,"[1, 2, 6, 3, 2, 5, 3, 1]",0,1.0,4,0,1,0,0,1,1,U,0
+4qn9t3,tonic C5,fc_accents_34_2.mp3,"[1, 2, 6, 3, 4, 5, 3, 1]",0,0.0,4,0,0,1,0,1,1,asc,0
+4qn9t3,tonic C5,fc_accents_34_4.mp3,"[1, 2, 6, 3, 4, 5, 3, 1]",0,0.0,4,0,0,1,0,1,1,asc,0
+4qn9t3,tonic C5,fc_accents_56_3.mp3,"[1, 2, 6, 5, 6, 5, 3, 1]",0,1.0,4,1,0,0,0,1,1,inv-U,0
+4qn9t3,tonic C5,fc_accents_54_4.mp3,"[1, 2, 6, 5, 4, 3, 1]",0,0.0,4,0,0,0,1,1,1,des,0
+f0sl72,tonic C5,fc_accents_34_3.mp3,"[1, 2, 3, 4, 5, 3, 1]",0,0.0,3,0,0,1,0,2,4,asc,1
+f0sl72,tonic C5,fc_accents_54_2.mp3,"[1, 2, 6, 5, 4, 5, 3, 1]",1,0.0,4,0,1,0,0,1,1,U,1
+f0sl72,tonic C5,fc_accents_32_4.mp3,"[1, 2, 6, 3, 2, 5, 3, 1]",1,1.0,4,0,1,0,0,1,1,U,1
+f0sl72,tonic C5,fc_accents_34_4.mp3,"[1, 2, 6, 3, 4, 5, 3, 1]",0,0.0,4,0,0,1,0,1,1,asc,1
+f0sl72,tonic C5,fc_accents_56_1.mp3,"[1, 2, 6, 5, 6, 5, 3, 1]",1,1.0,4,1,0,0,0,1,1,inv-U,1
+f0sl72,tonic C5,fc_accents_34_1.mp3,"[1, 2, 6, 3, 4, 5, 3, 1]",0,0.0,4,0,0,1,0,1,1,asc,1
+f0sl72,tonic C5,fc_accents_32_3.mp3,"[1, 2, 6, 3, 2, 3, 1]",1,1.0,4,0,1,0,0,1,1,U,1
+f0sl72,tonic C5,fc_accents_34_2.mp3,"[1, 2, 6, 3, 4, 5, 3, 1]",0,0.0,4,0,0,1,0,1,1,asc,1
+f0sl72,tonic C5,fc_accents_54_4.mp3,"[1, 2, 6, 5, 4, 3, 1]",0,0.0,4,0,0,0,1,1,1,des,1
+f0sl72,tonic C5,fc_accents_54_3.mp3,"[1, 2, 6, 5, 4, 5, 3, 1]",1,0.0,4,0,1,0,0,1,1,U,1
+f0sl72,tonic C5,fc_accents_32_2.mp3,"[1, 2, 6, 3, 2, 3, 1]",0,1.0,4,0,1,0,0,1,1,U,1
+f0sl72,tonic C5,fc_accents_56_2.mp3,"[1, 2, 6, 5, 6, 3, 1]",0,1.0,4,1,0,0,0,1,1,inv-U,1
+f0sl72,tonic C5,fc_accents_54_1.mp3,"[1, 2, 6, 5, 4, 3, 1]",1,0.0,4,0,0,0,1,1,1,des,1
+f0sl72,tonic C5,fc_accents_32_1.mp3,"[1, 3, 6, 3, 2, 3, 1]",1,1.0,4,0,1,0,0,1,1,U,1
+f0sl72,tonic C5,fc_accents_56_4.mp3,"[1, 2, 6, 5, 6, 5, 3, 1]",0,1.0,4,1,0,0,0,1,1,inv-U,1
+f0sl72,tonic C5,fc_accents_56_3.mp3,"[1, 2, 6, 5, 6, 5, 3, 1]",0,1.0,4,1,0,0,0,1,1,inv-U,1
+7q280f,tonic C5,fc_accents_56_3.mp3,"[1, 2, 6, 5, 6, 5, 3, 1]",0,1.0,4,1,0,0,0,1,1,inv-U,0
+7q280f,tonic C5,fc_accents_34_1.mp3,"[1, 2, 6, 3, 4, 5, 3, 1]",0,0.0,4,0,0,1,0,1,1,asc,0
+7q280f,tonic C5,fc_accents_34_4.mp3,"[1, 2, 6, 3, 4, 5, 3, 1]",0,0.0,4,0,0,1,0,1,1,asc,0
+7q280f,tonic C5,fc_accents_32_4.mp3,"[1, 2, 6, 3, 2, 5, 3, 1]",0,1.0,4,0,1,0,0,1,1,U,0
+7q280f,tonic C5,fc_accents_54_2.mp3,"[1, 2, 6, 5, 4, 5, 3, 1]",1,0.0,4,0,1,0,0,1,1,U,0
+7q280f,tonic C5,fc_accents_54_4.mp3,"[1, 2, 6, 5, 4, 3, 1]",1,0.0,4,0,0,0,1,1,1,des,0
+7q280f,tonic C5,fc_accents_34_2.mp3,"[1, 2, 6, 3, 4, 5, 3, 1]",1,0.0,4,0,0,1,0,1,1,asc,0
+7q280f,tonic C5,fc_accents_34_3.mp3,"[1, 2, 3, 4, 5, 3, 1]",1,0.0,3,0,0,1,0,2,4,asc,0
+7q280f,tonic C5,fc_accents_32_1.mp3,"[1, 3, 6, 3, 2, 3, 1]",1,1.0,4,0,1,0,0,1,1,U,0
+7q280f,tonic C5,fc_accents_54_1.mp3,"[1, 2, 6, 5, 4, 3, 1]",0,0.0,4,0,0,0,1,1,1,des,0
+7q280f,tonic C5,fc_accents_56_4.mp3,"[1, 2, 6, 5, 6, 5, 3, 1]",1,1.0,4,1,0,0,0,1,1,inv-U,0
+7q280f,tonic C5,fc_accents_54_3.mp3,"[1, 2, 6, 5, 4, 5, 3, 1]",1,0.0,4,0,1,0,0,1,1,U,0
+7q280f,tonic C5,fc_accents_32_3.mp3,"[1, 2, 6, 3, 2, 3, 1]",1,1.0,4,0,1,0,0,1,1,U,0
+7q280f,tonic C5,fc_accents_32_2.mp3,"[1, 2, 6, 3, 2, 3, 1]",0,1.0,4,0,1,0,0,1,1,U,0
+7q280f,tonic C5,fc_accents_56_2.mp3,"[1, 2, 6, 5, 6, 3, 1]",1,1.0,4,1,0,0,0,1,1,inv-U,0
+7q280f,tonic C5,fc_accents_56_1.mp3,"[1, 2, 6, 5, 6, 5, 3, 1]",1,1.0,4,1,0,0,0,1,1,inv-U,0
+b4yhdr,tonic C5,fc_accents_54_1.mp3,"[1, 2, 6, 5, 4, 3, 1]",0,0.0,4,0,0,0,1,1,1,des,1
+b4yhdr,tonic C5,fc_accents_32_2.mp3,"[1, 2, 6, 3, 2, 3, 1]",1,1.0,4,0,1,0,0,1,1,U,1
+b4yhdr,tonic C5,fc_accents_56_2.mp3,"[1, 2, 6, 5, 6, 3, 1]",1,1.0,4,1,0,0,0,1,1,inv-U,1
+b4yhdr,tonic C5,fc_accents_56_4.mp3,"[1, 2, 6, 5, 6, 5, 3, 1]",1,1.0,4,1,0,0,0,1,1,inv-U,1
+b4yhdr,tonic C5,fc_accents_34_4.mp3,"[1, 2, 6, 3, 4, 5, 3, 1]",0,0.0,4,0,0,1,0,1,1,asc,1
+b4yhdr,tonic C5,fc_accents_34_1.mp3,"[1, 2, 6, 3, 4, 5, 3, 1]",1,0.0,4,0,0,1,0,1,1,asc,1
+b4yhdr,tonic C5,fc_accents_54_3.mp3,"[1, 2, 6, 5, 4, 5, 3, 1]",1,0.0,4,0,1,0,0,1,1,U,1
+b4yhdr,tonic C5,fc_accents_56_1.mp3,"[1, 2, 6, 5, 6, 5, 3, 1]",1,1.0,4,1,0,0,0,1,1,inv-U,1
+b4yhdr,tonic C5,fc_accents_54_2.mp3,"[1, 2, 6, 5, 4, 5, 3, 1]",1,0.0,4,0,1,0,0,1,1,U,1
+b4yhdr,tonic C5,fc_accents_56_3.mp3,"[1, 2, 6, 5, 6, 5, 3, 1]",1,1.0,4,1,0,0,0,1,1,inv-U,1
+b4yhdr,tonic C5,fc_accents_34_2.mp3,"[1, 2, 6, 3, 4, 5, 3, 1]",1,0.0,4,0,0,1,0,1,1,asc,1
+b4yhdr,tonic C5,fc_accents_34_3.mp3,"[1, 2, 3, 4, 5, 3, 1]",1,0.0,3,0,0,1,0,2,4,asc,1
+b4yhdr,tonic C5,fc_accents_32_1.mp3,"[1, 3, 6, 3, 2, 3, 1]",1,1.0,4,0,1,0,0,1,1,U,1
+b4yhdr,tonic C5,fc_accents_32_3.mp3,"[1, 2, 6, 3, 2, 3, 1]",1,1.0,4,0,1,0,0,1,1,U,1
+b4yhdr,tonic C5,fc_accents_32_4.mp3,"[1, 2, 6, 3, 2, 5, 3, 1]",0,1.0,4,0,1,0,0,1,1,U,1
+b4yhdr,tonic C5,fc_accents_54_4.mp3,"[1, 2, 6, 5, 4, 3, 1]",1,0.0,4,0,0,0,1,1,1,des,1
+2ouu3l,tonic C5,fc_accents_32_2.mp3,"[1, 2, 6, 3, 2, 3, 1]",0,1.0,4,0,1,0,0,1,1,U,0
+2ouu3l,tonic C5,fc_accents_34_4.mp3,"[1, 2, 6, 3, 4, 5, 3, 1]",1,0.0,4,0,0,1,0,1,1,asc,0
+2ouu3l,tonic C5,fc_accents_32_1.mp3,"[1, 3, 6, 3, 2, 3, 1]",1,1.0,4,0,1,0,0,1,1,U,0
+2ouu3l,tonic C5,fc_accents_34_2.mp3,"[1, 2, 6, 3, 4, 5, 3, 1]",1,0.0,4,0,0,1,0,1,1,asc,0
+2ouu3l,tonic C5,fc_accents_32_3.mp3,"[1, 2, 6, 3, 2, 3, 1]",1,1.0,4,0,1,0,0,1,1,U,0
+2ouu3l,tonic C5,fc_accents_34_1.mp3,"[1, 2, 6, 3, 4, 5, 3, 1]",1,0.0,4,0,0,1,0,1,1,asc,0
+2ouu3l,tonic C5,fc_accents_34_3.mp3,"[1, 2, 3, 4, 5, 3, 1]",1,0.0,3,0,0,1,0,2,4,asc,0
+2ouu3l,tonic C5,fc_accents_54_1.mp3,"[1, 2, 6, 5, 4, 3, 1]",1,0.0,4,0,0,0,1,1,1,des,0
+2ouu3l,tonic C5,fc_accents_54_2.mp3,"[1, 2, 6, 5, 4, 5, 3, 1]",1,0.0,4,0,1,0,0,1,1,U,0
+2ouu3l,tonic C5,fc_accents_56_1.mp3,"[1, 2, 6, 5, 6, 5, 3, 1]",0,1.0,4,1,0,0,0,1,1,inv-U,0
+2ouu3l,tonic C5,fc_accents_56_3.mp3,"[1, 2, 6, 5, 6, 5, 3, 1]",1,1.0,4,1,0,0,0,1,1,inv-U,0
+2ouu3l,tonic C5,fc_accents_54_3.mp3,"[1, 2, 6, 5, 4, 5, 3, 1]",1,0.0,4,0,1,0,0,1,1,U,0
+2ouu3l,tonic C5,fc_accents_56_4.mp3,"[1, 2, 6, 5, 6, 5, 3, 1]",1,1.0,4,1,0,0,0,1,1,inv-U,0
+2ouu3l,tonic C5,fc_accents_32_4.mp3,"[1, 2, 6, 3, 2, 5, 3, 1]",1,1.0,4,0,1,0,0,1,1,U,0
+2ouu3l,tonic C5,fc_accents_54_4.mp3,"[1, 2, 6, 5, 4, 3, 1]",1,0.0,4,0,0,0,1,1,1,des,0
+2ouu3l,tonic C5,fc_accents_56_2.mp3,"[1, 2, 6, 5, 6, 3, 1]",0,1.0,4,1,0,0,0,1,1,inv-U,0
+7e9x0n,tonic G5,fc_accents_56_4.mp3,"[1, 2, 6, 5, 6, 3, 1]",0,1.0,4,1,0,0,0,1,1,inv-U,0
+7e9x0n,tonic G5,fc_accents_34_1.mp3,"[1, 2, 6, 3, 4, 3, 1]",1,0.0,4,1,0,0,0,1,1,inv-U,0
+7e9x0n,tonic G5,fc_accents_54_2.mp3,"[1, 2, 6, 5, 4, 3, 1]",0,0.0,4,0,0,0,1,1,1,des,0
+7e9x0n,tonic G5,fc_accents_54_3.mp3,"[1, 2, 6, 5, 4, 5, 3, 1]",1,0.0,4,0,1,0,0,1,1,U,0
+7e9x0n,tonic G5,fc_accents_32_4.mp3,"[1, 2, 6, 3, 2, 5, 3, 1]",1,1.0,4,0,1,0,0,1,1,U,0
+7e9x0n,tonic G5,fc_accents_54_4.mp3,"[1, 3, 6, 5, 4, 3, 1]",1,0.0,4,0,0,0,1,1,1,des,0
+7e9x0n,tonic G5,fc_accents_34_2.mp3,"[1, 2, 3, 4, 3, 1]",0,0.0,3,1,0,0,0,2,4,inv-U,0
+7e9x0n,tonic G5,fc_accents_56_3.mp3,"[1, 3, 6, 5, 6, 3, 1]",1,1.0,4,1,0,0,0,1,1,inv-U,0
+7e9x0n,tonic G5,fc_accents_32_3.mp3,"[1, 3, 6, 3, 2, 3, 1]",1,1.0,4,0,1,0,0,1,1,U,0
+7e9x0n,tonic G5,fc_accents_34_3.mp3,"[1, 2, 6, 3, 4, 5, 3, 1]",0,0.0,4,0,0,1,0,1,1,asc,0
+7e9x0n,tonic G5,fc_accents_34_4.mp3,"[1, 2, 6, 3, 4, 5, 3, 1]",0,0.0,4,0,0,1,0,1,1,asc,0
+7e9x0n,tonic G5,fc_accents_56_2.mp3,"[1, 2, 6, 5, 6, 3, 1]",0,1.0,4,1,0,0,0,1,1,inv-U,0
+7e9x0n,tonic G5,fc_accents_32_1.mp3,"[1, 2, 3, 2, 5, 3, 1]",1,1.0,3,0,1,0,0,2,4,U,0
+7e9x0n,tonic G5,fc_accents_32_2.mp3,"[1, 2, 6, 3, 2, 5, 3, 1]",1,1.0,4,0,1,0,0,1,1,U,0
+7e9x0n,tonic G5,fc_accents_56_1.mp3,"[1, 2, 5, 6, 3, 1]",1,1.0,3,1,0,0,0,2,4,inv-U,0
+7e9x0n,tonic G5,fc_accents_54_1.mp3,"[1, 2, 6, 5, 4, 3, 1]",1,0.0,4,0,0,0,1,1,1,des,0
+vxv6m3,tonic G5,fc_accents_54_4.mp3,"[1, 3, 6, 5, 4, 3, 1]",0,0.0,4,0,0,0,1,1,1,des,0
+vxv6m3,tonic G5,fc_accents_56_2.mp3,"[1, 2, 6, 5, 6, 3, 1]",0,1.0,4,1,0,0,0,1,1,inv-U,0
+vxv6m3,tonic G5,fc_accents_32_2.mp3,"[1, 2, 6, 3, 2, 5, 3, 1]",0,1.0,4,0,1,0,0,1,1,U,0
+vxv6m3,tonic G5,fc_accents_54_2.mp3,"[1, 2, 6, 5, 4, 3, 1]",0,0.0,4,0,0,0,1,1,1,des,0
+vxv6m3,tonic G5,fc_accents_56_3.mp3,"[1, 3, 6, 5, 6, 3, 1]",0,1.0,4,1,0,0,0,1,1,inv-U,0
+vxv6m3,tonic G5,fc_accents_56_1.mp3,"[1, 2, 5, 6, 3, 1]",0,1.0,3,1,0,0,0,2,4,inv-U,0
+vxv6m3,tonic G5,fc_accents_32_4.mp3,"[1, 2, 6, 3, 2, 5, 3, 1]",0,1.0,4,0,1,0,0,1,1,U,0
+vxv6m3,tonic G5,fc_accents_56_4.mp3,"[1, 2, 6, 5, 6, 3, 1]",0,1.0,4,1,0,0,0,1,1,inv-U,0
+vxv6m3,tonic G5,fc_accents_54_3.mp3,"[1, 2, 6, 5, 4, 5, 3, 1]",0,0.0,4,0,1,0,0,1,1,U,0
+vxv6m3,tonic G5,fc_accents_34_1.mp3,"[1, 2, 6, 3, 4, 3, 1]",0,0.0,4,1,0,0,0,1,1,inv-U,0
+vxv6m3,tonic G5,fc_accents_32_3.mp3,"[1, 3, 6, 3, 2, 3, 1]",0,1.0,4,0,1,0,0,1,1,U,0
+vxv6m3,tonic G5,fc_accents_34_3.mp3,"[1, 2, 6, 3, 4, 5, 3, 1]",0,0.0,4,0,0,1,0,1,1,asc,0
+vxv6m3,tonic G5,fc_accents_32_1.mp3,"[1, 2, 3, 2, 5, 3, 1]",0,1.0,3,0,1,0,0,2,4,U,0
+vxv6m3,tonic G5,fc_accents_34_2.mp3,"[1, 2, 3, 4, 3, 1]",0,0.0,3,1,0,0,0,2,4,inv-U,0
+vxv6m3,tonic G5,fc_accents_54_1.mp3,"[1, 2, 6, 5, 4, 3, 1]",0,0.0,4,0,0,0,1,1,1,des,0
+vxv6m3,tonic G5,fc_accents_34_4.mp3,"[1, 2, 6, 3, 4, 5, 3, 1]",0,0.0,4,0,0,1,0,1,1,asc,0
+qghju0,tonic G5,fc_accents_32_2.mp3,"[1, 2, 6, 3, 2, 5, 3, 1]",0,1.0,4,0,1,0,0,1,1,U,0
+qghju0,tonic G5,fc_accents_54_1.mp3,"[1, 2, 6, 5, 4, 3, 1]",0,0.0,4,0,0,0,1,1,1,des,0
+qghju0,tonic G5,fc_accents_54_3.mp3,"[1, 2, 6, 5, 4, 5, 3, 1]",0,0.0,4,0,1,0,0,1,1,U,0
+qghju0,tonic G5,fc_accents_32_1.mp3,"[1, 2, 3, 2, 5, 3, 1]",0,1.0,3,0,1,0,0,2,4,U,0
+qghju0,tonic G5,fc_accents_34_1.mp3,"[1, 2, 6, 3, 4, 3, 1]",0,0.0,4,1,0,0,0,1,1,inv-U,0
+qghju0,tonic G5,fc_accents_34_3.mp3,"[1, 2, 6, 3, 4, 5, 3, 1]",0,0.0,4,0,0,1,0,1,1,asc,0
+qghju0,tonic G5,fc_accents_34_2.mp3,"[1, 2, 3, 4, 3, 1]",0,0.0,3,1,0,0,0,2,4,inv-U,0
+qghju0,tonic G5,fc_accents_54_2.mp3,"[1, 2, 6, 5, 4, 3, 1]",0,0.0,4,0,0,0,1,1,1,des,0
+qghju0,tonic G5,fc_accents_56_1.mp3,"[1, 2, 5, 6, 3, 1]",0,1.0,3,1,0,0,0,2,4,inv-U,0
+qghju0,tonic G5,fc_accents_32_4.mp3,"[1, 2, 6, 3, 2, 5, 3, 1]",0,1.0,4,0,1,0,0,1,1,U,0
+qghju0,tonic G5,fc_accents_56_4.mp3,"[1, 2, 6, 5, 6, 3, 1]",0,1.0,4,1,0,0,0,1,1,inv-U,0
+qghju0,tonic G5,fc_accents_56_2.mp3,"[1, 2, 6, 5, 6, 3, 1]",0,1.0,4,1,0,0,0,1,1,inv-U,0
+qghju0,tonic G5,fc_accents_34_4.mp3,"[1, 2, 6, 3, 4, 5, 3, 1]",0,0.0,4,0,0,1,0,1,1,asc,0
+qghju0,tonic G5,fc_accents_56_3.mp3,"[1, 3, 6, 5, 6, 3, 1]",1,1.0,4,1,0,0,0,1,1,inv-U,0
+qghju0,tonic G5,fc_accents_54_4.mp3,"[1, 3, 6, 5, 4, 3, 1]",0,0.0,4,0,0,0,1,1,1,des,0
+qghju0,tonic G5,fc_accents_32_3.mp3,"[1, 3, 6, 3, 2, 3, 1]",0,1.0,4,0,1,0,0,1,1,U,0
+d1ao35,tonic G5,fc_accents_32_1.mp3,"[1, 2, 3, 2, 5, 3, 1]",0,1.0,3,0,1,0,0,2,4,U,0
+d1ao35,tonic G5,fc_accents_34_2.mp3,"[1, 2, 3, 4, 3, 1]",1,0.0,3,1,0,0,0,2,4,inv-U,0
+d1ao35,tonic G5,fc_accents_56_2.mp3,"[1, 2, 6, 5, 6, 3, 1]",0,1.0,4,1,0,0,0,1,1,inv-U,0
+d1ao35,tonic G5,fc_accents_56_4.mp3,"[1, 2, 6, 5, 6, 3, 1]",0,1.0,4,1,0,0,0,1,1,inv-U,0
+d1ao35,tonic G5,fc_accents_32_3.mp3,"[1, 3, 6, 3, 2, 3, 1]",1,1.0,4,0,1,0,0,1,1,U,0
+d1ao35,tonic G5,fc_accents_56_1.mp3,"[1, 2, 5, 6, 3, 1]",1,1.0,3,1,0,0,0,2,4,inv-U,0
+d1ao35,tonic G5,fc_accents_32_4.mp3,"[1, 2, 6, 3, 2, 5, 3, 1]",0,1.0,4,0,1,0,0,1,1,U,0
+d1ao35,tonic G5,fc_accents_54_2.mp3,"[1, 2, 6, 5, 4, 3, 1]",1,0.0,4,0,0,0,1,1,1,des,0
+d1ao35,tonic G5,fc_accents_54_4.mp3,"[1, 3, 6, 5, 4, 3, 1]",0,0.0,4,0,0,0,1,1,1,des,0
+d1ao35,tonic G5,fc_accents_34_3.mp3,"[1, 2, 6, 3, 4, 5, 3, 1]",0,0.0,4,0,0,1,0,1,1,asc,0
+d1ao35,tonic G5,fc_accents_56_3.mp3,"[1, 3, 6, 5, 6, 3, 1]",0,1.0,4,1,0,0,0,1,1,inv-U,0
+d1ao35,tonic G5,fc_accents_54_1.mp3,"[1, 2, 6, 5, 4, 3, 1]",1,0.0,4,0,0,0,1,1,1,des,0
+d1ao35,tonic G5,fc_accents_34_1.mp3,"[1, 2, 6, 3, 4, 3, 1]",1,0.0,4,1,0,0,0,1,1,inv-U,0
+d1ao35,tonic G5,fc_accents_54_3.mp3,"[1, 2, 6, 5, 4, 5, 3, 1]",1,0.0,4,0,1,0,0,1,1,U,0
+d1ao35,tonic G5,fc_accents_34_4.mp3,"[1, 2, 6, 3, 4, 5, 3, 1]",0,0.0,4,0,0,1,0,1,1,asc,0
+d1ao35,tonic G5,fc_accents_32_2.mp3,"[1, 2, 6, 3, 2, 5, 3, 1]",0,1.0,4,0,1,0,0,1,1,U,0
+l1czo5,tonic G5,fc_accents_34_2.mp3,"[1, 2, 3, 4, 3, 1]",0,0.0,3,1,0,0,0,2,4,inv-U,0
+l1czo5,tonic G5,fc_accents_54_1.mp3,"[1, 2, 6, 5, 4, 3, 1]",1,0.0,4,0,0,0,1,1,1,des,0
+l1czo5,tonic G5,fc_accents_32_3.mp3,"[1, 3, 6, 3, 2, 3, 1]",1,1.0,4,0,1,0,0,1,1,U,0
+l1czo5,tonic G5,fc_accents_34_3.mp3,"[1, 2, 6, 3, 4, 5, 3, 1]",0,0.0,4,0,0,1,0,1,1,asc,0
+l1czo5,tonic G5,fc_accents_56_4.mp3,"[1, 2, 6, 5, 6, 3, 1]",1,1.0,4,1,0,0,0,1,1,inv-U,0
+l1czo5,tonic G5,fc_accents_56_1.mp3,"[1, 2, 5, 6, 3, 1]",0,1.0,3,1,0,0,0,2,4,inv-U,0
+l1czo5,tonic G5,fc_accents_34_4.mp3,"[1, 2, 6, 3, 4, 5, 3, 1]",1,0.0,4,0,0,1,0,1,1,asc,0
+l1czo5,tonic G5,fc_accents_54_2.mp3,"[1, 2, 6, 5, 4, 3, 1]",1,0.0,4,0,0,0,1,1,1,des,0
+l1czo5,tonic G5,fc_accents_32_2.mp3,"[1, 2, 6, 3, 2, 5, 3, 1]",0,1.0,4,0,1,0,0,1,1,U,0
+l1czo5,tonic G5,fc_accents_56_3.mp3,"[1, 3, 6, 5, 6, 3, 1]",1,1.0,4,1,0,0,0,1,1,inv-U,0
+l1czo5,tonic G5,fc_accents_54_4.mp3,"[1, 3, 6, 5, 4, 3, 1]",0,0.0,4,0,0,0,1,1,1,des,0
+l1czo5,tonic G5,fc_accents_54_3.mp3,"[1, 2, 6, 5, 4, 5, 3, 1]",0,0.0,4,0,1,0,0,1,1,U,0
+l1czo5,tonic G5,fc_accents_34_1.mp3,"[1, 2, 6, 3, 4, 3, 1]",0,0.0,4,1,0,0,0,1,1,inv-U,0
+l1czo5,tonic G5,fc_accents_32_1.mp3,"[1, 2, 3, 2, 5, 3, 1]",1,1.0,3,0,1,0,0,2,4,U,0
+l1czo5,tonic G5,fc_accents_32_4.mp3,"[1, 2, 6, 3, 2, 5, 3, 1]",0,1.0,4,0,1,0,0,1,1,U,0
+l1czo5,tonic G5,fc_accents_56_2.mp3,"[1, 2, 6, 5, 6, 3, 1]",1,1.0,4,1,0,0,0,1,1,inv-U,0
+x74bb0,tonic G5,fc_accents_34_2.mp3,"[1, 2, 3, 4, 3, 1]",0,0.0,3,1,0,0,0,2,4,inv-U,0
+x74bb0,tonic G5,fc_accents_34_4.mp3,"[1, 2, 6, 3, 4, 5, 3, 1]",0,0.0,4,0,0,1,0,1,1,asc,0
+x74bb0,tonic G5,fc_accents_56_3.mp3,"[1, 3, 6, 5, 6, 3, 1]",0,1.0,4,1,0,0,0,1,1,inv-U,0
+x74bb0,tonic G5,fc_accents_54_3.mp3,"[1, 2, 6, 5, 4, 5, 3, 1]",0,0.0,4,0,1,0,0,1,1,U,0
+x74bb0,tonic G5,fc_accents_32_4.mp3,"[1, 2, 6, 3, 2, 5, 3, 1]",0,1.0,4,0,1,0,0,1,1,U,0
+x74bb0,tonic G5,fc_accents_54_1.mp3,"[1, 2, 6, 5, 4, 3, 1]",0,0.0,4,0,0,0,1,1,1,des,0
+x74bb0,tonic G5,fc_accents_32_2.mp3,"[1, 2, 6, 3, 2, 5, 3, 1]",0,1.0,4,0,1,0,0,1,1,U,0
+x74bb0,tonic G5,fc_accents_34_3.mp3,"[1, 2, 6, 3, 4, 5, 3, 1]",1,0.0,4,0,0,1,0,1,1,asc,0
+x74bb0,tonic G5,fc_accents_56_2.mp3,"[1, 2, 6, 5, 6, 3, 1]",0,1.0,4,1,0,0,0,1,1,inv-U,0
+x74bb0,tonic G5,fc_accents_34_1.mp3,"[1, 2, 6, 3, 4, 3, 1]",1,0.0,4,1,0,0,0,1,1,inv-U,0
+x74bb0,tonic G5,fc_accents_32_1.mp3,"[1, 2, 3, 2, 5, 3, 1]",0,1.0,3,0,1,0,0,2,4,U,0
+x74bb0,tonic G5,fc_accents_32_3.mp3,"[1, 3, 6, 3, 2, 3, 1]",0,1.0,4,0,1,0,0,1,1,U,0
+x74bb0,tonic G5,fc_accents_54_2.mp3,"[1, 2, 6, 5, 4, 3, 1]",0,0.0,4,0,0,0,1,1,1,des,0
+x74bb0,tonic G5,fc_accents_54_4.mp3,"[1, 3, 6, 5, 4, 3, 1]",0,0.0,4,0,0,0,1,1,1,des,0
+x74bb0,tonic G5,fc_accents_56_4.mp3,"[1, 2, 6, 5, 6, 3, 1]",0,1.0,4,1,0,0,0,1,1,inv-U,0
+x74bb0,tonic G5,fc_accents_56_1.mp3,"[1, 2, 5, 6, 3, 1]",0,1.0,3,1,0,0,0,2,4,inv-U,0
+hlv1ng,tonic G5,fc_accents_32_3.mp3,"[1, 3, 6, 3, 2, 3, 1]",0,1.0,4,0,1,0,0,1,1,U,0
+hlv1ng,tonic G5,fc_accents_34_3.mp3,"[1, 2, 6, 3, 4, 5, 3, 1]",0,0.0,4,0,0,1,0,1,1,asc,0
+hlv1ng,tonic G5,fc_accents_56_2.mp3,"[1, 2, 6, 5, 6, 3, 1]",0,1.0,4,1,0,0,0,1,1,inv-U,0
+hlv1ng,tonic G5,fc_accents_34_4.mp3,"[1, 2, 6, 3, 4, 5, 3, 1]",0,0.0,4,0,0,1,0,1,1,asc,0
+hlv1ng,tonic G5,fc_accents_54_3.mp3,"[1, 2, 6, 5, 4, 5, 3, 1]",0,0.0,4,0,1,0,0,1,1,U,0
+hlv1ng,tonic G5,fc_accents_32_4.mp3,"[1, 2, 6, 3, 2, 5, 3, 1]",0,1.0,4,0,1,0,0,1,1,U,0
+hlv1ng,tonic G5,fc_accents_34_1.mp3,"[1, 2, 6, 3, 4, 3, 1]",0,0.0,4,1,0,0,0,1,1,inv-U,0
+hlv1ng,tonic G5,fc_accents_32_1.mp3,"[1, 2, 3, 2, 5, 3, 1]",0,1.0,3,0,1,0,0,2,4,U,0
+hlv1ng,tonic G5,fc_accents_56_3.mp3,"[1, 3, 6, 5, 6, 3, 1]",0,1.0,4,1,0,0,0,1,1,inv-U,0
+hlv1ng,tonic G5,fc_accents_32_2.mp3,"[1, 2, 6, 3, 2, 5, 3, 1]",0,1.0,4,0,1,0,0,1,1,U,0
+hlv1ng,tonic G5,fc_accents_56_1.mp3,"[1, 2, 5, 6, 3, 1]",0,1.0,3,1,0,0,0,2,4,inv-U,0
+hlv1ng,tonic G5,fc_accents_54_1.mp3,"[1, 2, 6, 5, 4, 3, 1]",0,0.0,4,0,0,0,1,1,1,des,0
+hlv1ng,tonic G5,fc_accents_56_4.mp3,"[1, 2, 6, 5, 6, 3, 1]",0,1.0,4,1,0,0,0,1,1,inv-U,0
+hlv1ng,tonic G5,fc_accents_34_2.mp3,"[1, 2, 3, 4, 3, 1]",0,0.0,3,1,0,0,0,2,4,inv-U,0
+hlv1ng,tonic G5,fc_accents_54_4.mp3,"[1, 3, 6, 5, 4, 3, 1]",0,0.0,4,0,0,0,1,1,1,des,0
+hlv1ng,tonic G5,fc_accents_54_2.mp3,"[1, 2, 6, 5, 4, 3, 1]",0,0.0,4,0,0,0,1,1,1,des,0
+63jhey,tonic G5,fc_accents_54_4.mp3,"[1, 3, 6, 5, 4, 3, 1]",0,0.0,4,0,0,0,1,1,1,des,1
+63jhey,tonic G5,fc_accents_32_1.mp3,"[1, 2, 3, 2, 5, 3, 1]",1,1.0,3,0,1,0,0,2,4,U,1
+63jhey,tonic G5,fc_accents_56_3.mp3,"[1, 3, 6, 5, 6, 3, 1]",1,1.0,4,1,0,0,0,1,1,inv-U,1
+63jhey,tonic G5,fc_accents_54_1.mp3,"[1, 2, 6, 5, 4, 3, 1]",0,0.0,4,0,0,0,1,1,1,des,1
+63jhey,tonic G5,fc_accents_34_3.mp3,"[1, 2, 6, 3, 4, 5, 3, 1]",0,0.0,4,0,0,1,0,1,1,asc,1
+63jhey,tonic G5,fc_accents_54_2.mp3,"[1, 2, 6, 5, 4, 3, 1]",0,0.0,4,0,0,0,1,1,1,des,1
+63jhey,tonic G5,fc_accents_34_2.mp3,"[1, 2, 3, 4, 3, 1]",0,0.0,3,1,0,0,0,2,4,inv-U,1
+63jhey,tonic G5,fc_accents_34_1.mp3,"[1, 2, 6, 3, 4, 3, 1]",0,0.0,4,1,0,0,0,1,1,inv-U,1
+63jhey,tonic G5,fc_accents_54_3.mp3,"[1, 2, 6, 5, 4, 5, 3, 1]",0,0.0,4,0,1,0,0,1,1,U,1
+63jhey,tonic G5,fc_accents_56_4.mp3,"[1, 2, 6, 5, 6, 3, 1]",0,1.0,4,1,0,0,0,1,1,inv-U,1
+63jhey,tonic G5,fc_accents_32_2.mp3,"[1, 2, 6, 3, 2, 5, 3, 1]",0,1.0,4,0,1,0,0,1,1,U,1
+63jhey,tonic G5,fc_accents_34_4.mp3,"[1, 2, 6, 3, 4, 5, 3, 1]",0,0.0,4,0,0,1,0,1,1,asc,1
+63jhey,tonic G5,fc_accents_32_4.mp3,"[1, 2, 6, 3, 2, 5, 3, 1]",0,1.0,4,0,1,0,0,1,1,U,1
+63jhey,tonic G5,fc_accents_56_1.mp3,"[1, 2, 5, 6, 3, 1]",1,1.0,3,1,0,0,0,2,4,inv-U,1
+63jhey,tonic G5,fc_accents_32_3.mp3,"[1, 3, 6, 3, 2, 3, 1]",1,1.0,4,0,1,0,0,1,1,U,1
+63jhey,tonic G5,fc_accents_56_2.mp3,"[1, 2, 6, 5, 6, 3, 1]",0,1.0,4,1,0,0,0,1,1,inv-U,1
+1ynj9z,tonic G5,fc_accents_54_1.mp3,"[1, 2, 6, 5, 4, 3, 1]",0,0.0,4,0,0,0,1,1,1,des,0
+1ynj9z,tonic G5,fc_accents_54_2.mp3,"[1, 2, 6, 5, 4, 3, 1]",0,0.0,4,0,0,0,1,1,1,des,0
+1ynj9z,tonic G5,fc_accents_54_4.mp3,"[1, 3, 6, 5, 4, 3, 1]",0,0.0,4,0,0,0,1,1,1,des,0
+1ynj9z,tonic G5,fc_accents_32_1.mp3,"[1, 2, 3, 2, 5, 3, 1]",0,1.0,3,0,1,0,0,2,4,U,0
+1ynj9z,tonic G5,fc_accents_32_4.mp3,"[1, 2, 6, 3, 2, 5, 3, 1]",0,1.0,4,0,1,0,0,1,1,U,0
+1ynj9z,tonic G5,fc_accents_34_2.mp3,"[1, 2, 3, 4, 3, 1]",1,0.0,3,1,0,0,0,2,4,inv-U,0
+1ynj9z,tonic G5,fc_accents_32_2.mp3,"[1, 2, 6, 3, 2, 5, 3, 1]",1,1.0,4,0,1,0,0,1,1,U,0
+1ynj9z,tonic G5,fc_accents_34_1.mp3,"[1, 2, 6, 3, 4, 3, 1]",1,0.0,4,1,0,0,0,1,1,inv-U,0
+1ynj9z,tonic G5,fc_accents_34_3.mp3,"[1, 2, 6, 3, 4, 5, 3, 1]",1,0.0,4,0,0,1,0,1,1,asc,0
+1ynj9z,tonic G5,fc_accents_56_3.mp3,"[1, 3, 6, 5, 6, 3, 1]",0,1.0,4,1,0,0,0,1,1,inv-U,0
+1ynj9z,tonic G5,fc_accents_34_4.mp3,"[1, 2, 6, 3, 4, 5, 3, 1]",1,0.0,4,0,0,1,0,1,1,asc,0
+1ynj9z,tonic G5,fc_accents_54_3.mp3,"[1, 2, 6, 5, 4, 5, 3, 1]",1,0.0,4,0,1,0,0,1,1,U,0
+1ynj9z,tonic G5,fc_accents_56_4.mp3,"[1, 2, 6, 5, 6, 3, 1]",1,1.0,4,1,0,0,0,1,1,inv-U,0
+1ynj9z,tonic G5,fc_accents_56_1.mp3,"[1, 2, 5, 6, 3, 1]",1,1.0,3,1,0,0,0,2,4,inv-U,0
+1ynj9z,tonic G5,fc_accents_32_3.mp3,"[1, 3, 6, 3, 2, 3, 1]",1,1.0,4,0,1,0,0,1,1,U,0
+1ynj9z,tonic G5,fc_accents_56_2.mp3,"[1, 2, 6, 5, 6, 3, 1]",1,1.0,4,1,0,0,0,1,1,inv-U,0
+bavbyu,tonic G5,fc_accents_54_1.mp3,"[1, 2, 6, 5, 4, 3, 1]",0,0.0,4,0,0,0,1,1,1,des,0
+bavbyu,tonic G5,fc_accents_32_4.mp3,"[1, 2, 6, 3, 2, 5, 3, 1]",0,1.0,4,0,1,0,0,1,1,U,0
+bavbyu,tonic G5,fc_accents_34_1.mp3,"[1, 2, 6, 3, 4, 3, 1]",0,0.0,4,1,0,0,0,1,1,inv-U,0
+bavbyu,tonic G5,fc_accents_54_2.mp3,"[1, 2, 6, 5, 4, 3, 1]",0,0.0,4,0,0,0,1,1,1,des,0
+bavbyu,tonic G5,fc_accents_56_2.mp3,"[1, 2, 6, 5, 6, 3, 1]",0,1.0,4,1,0,0,0,1,1,inv-U,0
+bavbyu,tonic G5,fc_accents_32_2.mp3,"[1, 2, 6, 3, 2, 5, 3, 1]",0,1.0,4,0,1,0,0,1,1,U,0
+bavbyu,tonic G5,fc_accents_34_2.mp3,"[1, 2, 3, 4, 3, 1]",0,0.0,3,1,0,0,0,2,4,inv-U,0
+bavbyu,tonic G5,fc_accents_32_1.mp3,"[1, 2, 3, 2, 5, 3, 1]",0,1.0,3,0,1,0,0,2,4,U,0
+bavbyu,tonic G5,fc_accents_56_3.mp3,"[1, 3, 6, 5, 6, 3, 1]",0,1.0,4,1,0,0,0,1,1,inv-U,0
+bavbyu,tonic G5,fc_accents_56_1.mp3,"[1, 2, 5, 6, 3, 1]",0,1.0,3,1,0,0,0,2,4,inv-U,0
+bavbyu,tonic G5,fc_accents_54_4.mp3,"[1, 3, 6, 5, 4, 3, 1]",0,0.0,4,0,0,0,1,1,1,des,0
+bavbyu,tonic G5,fc_accents_34_4.mp3,"[1, 2, 6, 3, 4, 5, 3, 1]",0,0.0,4,0,0,1,0,1,1,asc,0
+bavbyu,tonic G5,fc_accents_32_3.mp3,"[1, 3, 6, 3, 2, 3, 1]",0,1.0,4,0,1,0,0,1,1,U,0
+bavbyu,tonic G5,fc_accents_34_3.mp3,"[1, 2, 6, 3, 4, 5, 3, 1]",0,0.0,4,0,0,1,0,1,1,asc,0
+bavbyu,tonic G5,fc_accents_54_3.mp3,"[1, 2, 6, 5, 4, 5, 3, 1]",0,0.0,4,0,1,0,0,1,1,U,0
+bavbyu,tonic G5,fc_accents_56_4.mp3,"[1, 2, 6, 5, 6, 3, 1]",0,1.0,4,1,0,0,0,1,1,inv-U,0
+f7dzsk,tonic G5,fc_accents_56_3.mp3,"[1, 3, 6, 5, 6, 3, 1]",1,1.0,4,1,0,0,0,1,1,inv-U,0
+f7dzsk,tonic G5,fc_accents_54_1.mp3,"[1, 2, 6, 5, 4, 3, 1]",0,0.0,4,0,0,0,1,1,1,des,0
+f7dzsk,tonic G5,fc_accents_32_4.mp3,"[1, 2, 6, 3, 2, 5, 3, 1]",0,1.0,4,0,1,0,0,1,1,U,0
+f7dzsk,tonic G5,fc_accents_56_1.mp3,"[1, 2, 5, 6, 3, 1]",1,1.0,3,1,0,0,0,2,4,inv-U,0
+f7dzsk,tonic G5,fc_accents_56_4.mp3,"[1, 2, 6, 5, 6, 3, 1]",0,1.0,4,1,0,0,0,1,1,inv-U,0
+f7dzsk,tonic G5,fc_accents_54_2.mp3,"[1, 2, 6, 5, 4, 3, 1]",0,0.0,4,0,0,0,1,1,1,des,0
+f7dzsk,tonic G5,fc_accents_34_2.mp3,"[1, 2, 3, 4, 3, 1]",1,0.0,3,1,0,0,0,2,4,inv-U,0
+f7dzsk,tonic G5,fc_accents_32_2.mp3,"[1, 2, 6, 3, 2, 5, 3, 1]",1,1.0,4,0,1,0,0,1,1,U,0
+f7dzsk,tonic G5,fc_accents_56_2.mp3,"[1, 2, 6, 5, 6, 3, 1]",0,1.0,4,1,0,0,0,1,1,inv-U,0
+f7dzsk,tonic G5,fc_accents_32_1.mp3,"[1, 2, 3, 2, 5, 3, 1]",0,1.0,3,0,1,0,0,2,4,U,0
+f7dzsk,tonic G5,fc_accents_34_1.mp3,"[1, 2, 6, 3, 4, 3, 1]",1,0.0,4,1,0,0,0,1,1,inv-U,0
+f7dzsk,tonic G5,fc_accents_54_4.mp3,"[1, 3, 6, 5, 4, 3, 1]",1,0.0,4,0,0,0,1,1,1,des,0
+f7dzsk,tonic G5,fc_accents_32_3.mp3,"[1, 3, 6, 3, 2, 3, 1]",1,1.0,4,0,1,0,0,1,1,U,0
+f7dzsk,tonic G5,fc_accents_54_3.mp3,"[1, 2, 6, 5, 4, 5, 3, 1]",0,0.0,4,0,1,0,0,1,1,U,0
+f7dzsk,tonic G5,fc_accents_34_3.mp3,"[1, 2, 6, 3, 4, 5, 3, 1]",1,0.0,4,0,0,1,0,1,1,asc,0
+f7dzsk,tonic G5,fc_accents_34_4.mp3,"[1, 2, 6, 3, 4, 5, 3, 1]",0,0.0,4,0,0,1,0,1,1,asc,0
+edcv02,tonic G5,fc_accents_54_2.mp3,"[1, 2, 6, 5, 4, 3, 1]",0,0.0,4,0,0,0,1,1,1,des,0
+edcv02,tonic G5,fc_accents_56_4.mp3,"[1, 2, 6, 5, 6, 3, 1]",1,1.0,4,1,0,0,0,1,1,inv-U,0
+edcv02,tonic G5,fc_accents_32_4.mp3,"[1, 2, 6, 3, 2, 5, 3, 1]",0,1.0,4,0,1,0,0,1,1,U,0
+edcv02,tonic G5,fc_accents_34_4.mp3,"[1, 2, 6, 3, 4, 5, 3, 1]",0,0.0,4,0,0,1,0,1,1,asc,0
+edcv02,tonic G5,fc_accents_34_2.mp3,"[1, 2, 3, 4, 3, 1]",0,0.0,3,1,0,0,0,2,4,inv-U,0
+edcv02,tonic G5,fc_accents_54_1.mp3,"[1, 2, 6, 5, 4, 3, 1]",0,0.0,4,0,0,0,1,1,1,des,0
+edcv02,tonic G5,fc_accents_56_1.mp3,"[1, 2, 5, 6, 3, 1]",0,1.0,3,1,0,0,0,2,4,inv-U,0
+edcv02,tonic G5,fc_accents_32_2.mp3,"[1, 2, 6, 3, 2, 5, 3, 1]",0,1.0,4,0,1,0,0,1,1,U,0
+edcv02,tonic G5,fc_accents_32_3.mp3,"[1, 3, 6, 3, 2, 3, 1]",0,1.0,4,0,1,0,0,1,1,U,0
+edcv02,tonic G5,fc_accents_54_4.mp3,"[1, 3, 6, 5, 4, 3, 1]",0,0.0,4,0,0,0,1,1,1,des,0
+edcv02,tonic G5,fc_accents_56_3.mp3,"[1, 3, 6, 5, 6, 3, 1]",0,1.0,4,1,0,0,0,1,1,inv-U,0
+edcv02,tonic G5,fc_accents_54_3.mp3,"[1, 2, 6, 5, 4, 5, 3, 1]",0,0.0,4,0,1,0,0,1,1,U,0
+edcv02,tonic G5,fc_accents_34_3.mp3,"[1, 2, 6, 3, 4, 5, 3, 1]",0,0.0,4,0,0,1,0,1,1,asc,0
+edcv02,tonic G5,fc_accents_34_1.mp3,"[1, 2, 6, 3, 4, 3, 1]",0,0.0,4,1,0,0,0,1,1,inv-U,0
+edcv02,tonic G5,fc_accents_56_2.mp3,"[1, 2, 6, 5, 6, 3, 1]",0,1.0,4,1,0,0,0,1,1,inv-U,0
+edcv02,tonic G5,fc_accents_32_1.mp3,"[1, 2, 3, 2, 5, 3, 1]",0,1.0,3,0,1,0,0,2,4,U,0
+xk6t6z,tonic E5,fc_accents_56_4.mp3,"[1, 2, 6, 5, 6, 5, 3, 1]",1,1.0,4,1,0,0,0,1,1,inv-U,0
+xk6t6z,tonic E5,fc_accents_56_1.mp3,"[1, 2, 6, 5, 6, 5, 3, 1]",1,1.0,4,1,0,0,0,1,1,inv-U,0
+xk6t6z,tonic E5,fc_accents_32_4.mp3,"[1, 2, 6, 3, 2, 5, 3, 1]",0,1.0,4,0,1,0,0,1,1,U,0
+xk6t6z,tonic E5,fc_accents_54_1.mp3,"[1, 2, 6, 5, 4, 3, 1]",1,0.0,4,0,0,0,1,1,1,des,0
+xk6t6z,tonic E5,fc_accents_56_3.mp3,"[1, 2, 6, 5, 6, 5, 3, 1]",1,1.0,4,1,0,0,0,1,1,inv-U,0
+xk6t6z,tonic E5,fc_accents_34_1.mp3,"[1, 2, 6, 3, 4, 5, 3, 1]",0,0.0,4,0,0,1,0,1,1,asc,0
+xk6t6z,tonic E5,fc_accents_54_4.mp3,"[1, 2, 6, 5, 4, 3, 1]",1,0.0,4,0,0,0,1,1,1,des,0
+xk6t6z,tonic E5,fc_accents_34_3.mp3,"[1, 2, 6, 3, 4, 5, 3, 1]",0,0.0,4,0,0,1,0,1,1,asc,0
+xk6t6z,tonic E5,fc_accents_32_1.mp3,"[1, 2, 6, 3, 2, 5, 3, 1]",0,1.0,4,0,1,0,0,1,1,U,0
+xk6t6z,tonic E5,fc_accents_32_3.mp3,"[1, 3, 6, 3, 2, 3, 1]",1,1.0,4,0,1,0,0,1,1,U,0
+xk6t6z,tonic E5,fc_accents_56_2.mp3,"[1, 2, 6, 5, 6, 3, 1]",1,1.0,4,1,0,0,0,1,1,inv-U,0
+xk6t6z,tonic E5,fc_accents_34_2.mp3,"[1, 2, 6, 3, 4, 3, 1]",1,0.0,4,1,0,0,0,1,1,inv-U,0
+xk6t6z,tonic E5,fc_accents_32_2.mp3,"[1, 2, 6, 3, 2, 3, 1]",1,1.0,4,0,1,0,0,1,1,U,0
+xk6t6z,tonic E5,fc_accents_54_3.mp3,"[1, 2, 6, 5, 4, 5, 3, 1]",0,0.0,4,0,1,0,0,1,1,U,0
+xk6t6z,tonic E5,fc_accents_34_4.mp3,"[1, 2, 6, 3, 4, 5, 3, 1]",1,0.0,4,0,0,1,0,1,1,asc,0
+xk6t6z,tonic E5,fc_accents_54_2.mp3,"[1, 2, 6, 5, 4, 5, 3, 1]",0,0.0,4,0,1,0,0,1,1,U,0
+lcw0nv,tonic E5,fc_accents_32_3.mp3,"[1, 3, 6, 3, 2, 3, 1]",1,1.0,4,0,1,0,0,1,1,U,1
+lcw0nv,tonic E5,fc_accents_34_3.mp3,"[1, 2, 6, 3, 4, 5, 3, 1]",0,0.0,4,0,0,1,0,1,1,asc,1
+lcw0nv,tonic E5,fc_accents_54_3.mp3,"[1, 2, 6, 5, 4, 5, 3, 1]",1,0.0,4,0,1,0,0,1,1,U,1
+lcw0nv,tonic E5,fc_accents_34_4.mp3,"[1, 2, 6, 3, 4, 5, 3, 1]",0,0.0,4,0,0,1,0,1,1,asc,1
+lcw0nv,tonic E5,fc_accents_54_2.mp3,"[1, 2, 6, 5, 4, 5, 3, 1]",0,0.0,4,0,1,0,0,1,1,U,1
+lcw0nv,tonic E5,fc_accents_32_2.mp3,"[1, 2, 6, 3, 2, 3, 1]",0,1.0,4,0,1,0,0,1,1,U,1
+lcw0nv,tonic E5,fc_accents_34_1.mp3,"[1, 2, 6, 3, 4, 5, 3, 1]",1,0.0,4,0,0,1,0,1,1,asc,1
+lcw0nv,tonic E5,fc_accents_56_3.mp3,"[1, 2, 6, 5, 6, 5, 3, 1]",0,1.0,4,1,0,0,0,1,1,inv-U,1
+lcw0nv,tonic E5,fc_accents_32_1.mp3,"[1, 2, 6, 3, 2, 5, 3, 1]",0,1.0,4,0,1,0,0,1,1,U,1
+lcw0nv,tonic E5,fc_accents_32_4.mp3,"[1, 2, 6, 3, 2, 5, 3, 1]",0,1.0,4,0,1,0,0,1,1,U,1
+lcw0nv,tonic E5,fc_accents_54_1.mp3,"[1, 2, 6, 5, 4, 3, 1]",0,0.0,4,0,0,0,1,1,1,des,1
+lcw0nv,tonic E5,fc_accents_56_1.mp3,"[1, 2, 6, 5, 6, 5, 3, 1]",1,1.0,4,1,0,0,0,1,1,inv-U,1
+lcw0nv,tonic E5,fc_accents_56_2.mp3,"[1, 2, 6, 5, 6, 3, 1]",0,1.0,4,1,0,0,0,1,1,inv-U,1
+lcw0nv,tonic E5,fc_accents_34_2.mp3,"[1, 2, 6, 3, 4, 3, 1]",1,0.0,4,1,0,0,0,1,1,inv-U,1
+lcw0nv,tonic E5,fc_accents_54_4.mp3,"[1, 2, 6, 5, 4, 3, 1]",0,0.0,4,0,0,0,1,1,1,des,1
+lcw0nv,tonic E5,fc_accents_56_4.mp3,"[1, 2, 6, 5, 6, 5, 3, 1]",1,1.0,4,1,0,0,0,1,1,inv-U,1
+jh8l3p,tonic E5,fc_accents_34_2.mp3,"[1, 2, 6, 3, 4, 3, 1]",0,0.0,4,1,0,0,0,1,1,inv-U,0
+jh8l3p,tonic E5,fc_accents_54_3.mp3,"[1, 2, 6, 5, 4, 5, 3, 1]",0,0.0,4,0,1,0,0,1,1,U,0
+jh8l3p,tonic E5,fc_accents_54_2.mp3,"[1, 2, 6, 5, 4, 5, 3, 1]",0,0.0,4,0,1,0,0,1,1,U,0
+jh8l3p,tonic E5,fc_accents_34_4.mp3,"[1, 2, 6, 3, 4, 5, 3, 1]",0,0.0,4,0,0,1,0,1,1,asc,0
+jh8l3p,tonic E5,fc_accents_56_2.mp3,"[1, 2, 6, 5, 6, 3, 1]",0,1.0,4,1,0,0,0,1,1,inv-U,0
+jh8l3p,tonic E5,fc_accents_34_1.mp3,"[1, 2, 6, 3, 4, 5, 3, 1]",1,0.0,4,0,0,1,0,1,1,asc,0
+jh8l3p,tonic E5,fc_accents_32_2.mp3,"[1, 2, 6, 3, 2, 3, 1]",1,1.0,4,0,1,0,0,1,1,U,0
+jh8l3p,tonic E5,fc_accents_32_3.mp3,"[1, 3, 6, 3, 2, 3, 1]",1,1.0,4,0,1,0,0,1,1,U,0
+jh8l3p,tonic E5,fc_accents_54_1.mp3,"[1, 2, 6, 5, 4, 3, 1]",0,0.0,4,0,0,0,1,1,1,des,0
+jh8l3p,tonic E5,fc_accents_56_1.mp3,"[1, 2, 6, 5, 6, 5, 3, 1]",1,1.0,4,1,0,0,0,1,1,inv-U,0
+jh8l3p,tonic E5,fc_accents_56_3.mp3,"[1, 2, 6, 5, 6, 5, 3, 1]",1,1.0,4,1,0,0,0,1,1,inv-U,0
+jh8l3p,tonic E5,fc_accents_56_4.mp3,"[1, 2, 6, 5, 6, 5, 3, 1]",1,1.0,4,1,0,0,0,1,1,inv-U,0
+jh8l3p,tonic E5,fc_accents_32_1.mp3,"[1, 2, 6, 3, 2, 5, 3, 1]",1,1.0,4,0,1,0,0,1,1,U,0
+jh8l3p,tonic E5,fc_accents_32_4.mp3,"[1, 2, 6, 3, 2, 5, 3, 1]",1,1.0,4,0,1,0,0,1,1,U,0
+jh8l3p,tonic E5,fc_accents_34_3.mp3,"[1, 2, 6, 3, 4, 5, 3, 1]",0,0.0,4,0,0,1,0,1,1,asc,0
+jh8l3p,tonic E5,fc_accents_54_4.mp3,"[1, 2, 6, 5, 4, 3, 1]",0,0.0,4,0,0,0,1,1,1,des,0
+smxkvk,tonic E5,fc_accents_34_2.mp3,"[1, 2, 6, 3, 4, 3, 1]",1,0.0,4,1,0,0,0,1,1,inv-U,0
+smxkvk,tonic E5,fc_accents_34_1.mp3,"[1, 2, 6, 3, 4, 5, 3, 1]",0,0.0,4,0,0,1,0,1,1,asc,0
+smxkvk,tonic E5,fc_accents_32_3.mp3,"[1, 3, 6, 3, 2, 3, 1]",1,1.0,4,0,1,0,0,1,1,U,0
+smxkvk,tonic E5,fc_accents_32_1.mp3,"[1, 2, 6, 3, 2, 5, 3, 1]",0,1.0,4,0,1,0,0,1,1,U,0
+smxkvk,tonic E5,fc_accents_54_2.mp3,"[1, 2, 6, 5, 4, 5, 3, 1]",0,0.0,4,0,1,0,0,1,1,U,0
+smxkvk,tonic E5,fc_accents_56_2.mp3,"[1, 2, 6, 5, 6, 3, 1]",1,1.0,4,1,0,0,0,1,1,inv-U,0
+smxkvk,tonic E5,fc_accents_54_4.mp3,"[1, 2, 6, 5, 4, 3, 1]",1,0.0,4,0,0,0,1,1,1,des,0
+smxkvk,tonic E5,fc_accents_34_3.mp3,"[1, 2, 6, 3, 4, 5, 3, 1]",0,0.0,4,0,0,1,0,1,1,asc,0
+smxkvk,tonic E5,fc_accents_56_4.mp3,"[1, 2, 6, 5, 6, 5, 3, 1]",0,1.0,4,1,0,0,0,1,1,inv-U,0
+smxkvk,tonic E5,fc_accents_32_4.mp3,"[1, 2, 6, 3, 2, 5, 3, 1]",0,1.0,4,0,1,0,0,1,1,U,0
+smxkvk,tonic E5,fc_accents_32_2.mp3,"[1, 2, 6, 3, 2, 3, 1]",0,1.0,4,0,1,0,0,1,1,U,0
+smxkvk,tonic E5,fc_accents_34_4.mp3,"[1, 2, 6, 3, 4, 5, 3, 1]",0,0.0,4,0,0,1,0,1,1,asc,0
+smxkvk,tonic E5,fc_accents_56_1.mp3,"[1, 2, 6, 5, 6, 5, 3, 1]",0,1.0,4,1,0,0,0,1,1,inv-U,0
+smxkvk,tonic E5,fc_accents_56_3.mp3,"[1, 2, 6, 5, 6, 5, 3, 1]",1,1.0,4,1,0,0,0,1,1,inv-U,0
+smxkvk,tonic E5,fc_accents_54_3.mp3,"[1, 2, 6, 5, 4, 5, 3, 1]",0,0.0,4,0,1,0,0,1,1,U,0
+smxkvk,tonic E5,fc_accents_54_1.mp3,"[1, 2, 6, 5, 4, 3, 1]",0,0.0,4,0,0,0,1,1,1,des,0
+opwoxj,tonic E5,fc_accents_54_1.mp3,"[1, 2, 6, 5, 4, 3, 1]",0,0.0,4,0,0,0,1,1,1,des,1
+opwoxj,tonic E5,fc_accents_34_4.mp3,"[1, 2, 6, 3, 4, 5, 3, 1]",0,0.0,4,0,0,1,0,1,1,asc,1
+opwoxj,tonic E5,fc_accents_34_1.mp3,"[1, 2, 6, 3, 4, 5, 3, 1]",1,0.0,4,0,0,1,0,1,1,asc,1
+opwoxj,tonic E5,fc_accents_56_4.mp3,"[1, 2, 6, 5, 6, 5, 3, 1]",0,1.0,4,1,0,0,0,1,1,inv-U,1
+opwoxj,tonic E5,fc_accents_54_2.mp3,"[1, 2, 6, 5, 4, 5, 3, 1]",0,0.0,4,0,1,0,0,1,1,U,1
+opwoxj,tonic E5,fc_accents_56_2.mp3,"[1, 2, 6, 5, 6, 3, 1]",0,1.0,4,1,0,0,0,1,1,inv-U,1
+opwoxj,tonic E5,fc_accents_32_2.mp3,"[1, 2, 6, 3, 2, 3, 1]",0,1.0,4,0,1,0,0,1,1,U,1
+opwoxj,tonic E5,fc_accents_34_3.mp3,"[1, 2, 6, 3, 4, 5, 3, 1]",1,0.0,4,0,0,1,0,1,1,asc,1
+opwoxj,tonic E5,fc_accents_32_3.mp3,"[1, 3, 6, 3, 2, 3, 1]",0,1.0,4,0,1,0,0,1,1,U,1
+opwoxj,tonic E5,fc_accents_34_2.mp3,"[1, 2, 6, 3, 4, 3, 1]",1,0.0,4,1,0,0,0,1,1,inv-U,1
+opwoxj,tonic E5,fc_accents_54_3.mp3,"[1, 2, 6, 5, 4, 5, 3, 1]",1,0.0,4,0,1,0,0,1,1,U,1
+opwoxj,tonic E5,fc_accents_56_1.mp3,"[1, 2, 6, 5, 6, 5, 3, 1]",1,1.0,4,1,0,0,0,1,1,inv-U,1
+opwoxj,tonic E5,fc_accents_32_4.mp3,"[1, 2, 6, 3, 2, 5, 3, 1]",1,1.0,4,0,1,0,0,1,1,U,1
+opwoxj,tonic E5,fc_accents_56_3.mp3,"[1, 2, 6, 5, 6, 5, 3, 1]",1,1.0,4,1,0,0,0,1,1,inv-U,1
+opwoxj,tonic E5,fc_accents_32_1.mp3,"[1, 2, 6, 3, 2, 5, 3, 1]",1,1.0,4,0,1,0,0,1,1,U,1
+opwoxj,tonic E5,fc_accents_54_4.mp3,"[1, 2, 6, 5, 4, 3, 1]",1,0.0,4,0,0,0,1,1,1,des,1
+879vr1,tonic E5,fc_accents_34_3.mp3,"[1, 2, 6, 3, 4, 5, 3, 1]",0,0.0,4,0,0,1,0,1,1,asc,0
+879vr1,tonic E5,fc_accents_34_2.mp3,"[1, 2, 6, 3, 4, 3, 1]",0,0.0,4,1,0,0,0,1,1,inv-U,0
+879vr1,tonic E5,fc_accents_56_4.mp3,"[1, 2, 6, 5, 6, 5, 3, 1]",1,1.0,4,1,0,0,0,1,1,inv-U,0
+879vr1,tonic E5,fc_accents_54_4.mp3,"[1, 2, 6, 5, 4, 3, 1]",0,0.0,4,0,0,0,1,1,1,des,0
+879vr1,tonic E5,fc_accents_34_1.mp3,"[1, 2, 6, 3, 4, 5, 3, 1]",1,0.0,4,0,0,1,0,1,1,asc,0
+879vr1,tonic E5,fc_accents_56_2.mp3,"[1, 2, 6, 5, 6, 3, 1]",1,1.0,4,1,0,0,0,1,1,inv-U,0
+879vr1,tonic E5,fc_accents_54_3.mp3,"[1, 2, 6, 5, 4, 5, 3, 1]",0,0.0,4,0,1,0,0,1,1,U,0
+879vr1,tonic E5,fc_accents_34_4.mp3,"[1, 2, 6, 3, 4, 5, 3, 1]",0,0.0,4,0,0,1,0,1,1,asc,0
+879vr1,tonic E5,fc_accents_32_1.mp3,"[1, 2, 6, 3, 2, 5, 3, 1]",0,1.0,4,0,1,0,0,1,1,U,0
+879vr1,tonic E5,fc_accents_56_3.mp3,"[1, 2, 6, 5, 6, 5, 3, 1]",1,1.0,4,1,0,0,0,1,1,inv-U,0
+879vr1,tonic E5,fc_accents_54_2.mp3,"[1, 2, 6, 5, 4, 5, 3, 1]",0,0.0,4,0,1,0,0,1,1,U,0
+879vr1,tonic E5,fc_accents_56_1.mp3,"[1, 2, 6, 5, 6, 5, 3, 1]",1,1.0,4,1,0,0,0,1,1,inv-U,0
+879vr1,tonic E5,fc_accents_32_2.mp3,"[1, 2, 6, 3, 2, 3, 1]",1,1.0,4,0,1,0,0,1,1,U,0
+879vr1,tonic E5,fc_accents_32_3.mp3,"[1, 3, 6, 3, 2, 3, 1]",1,1.0,4,0,1,0,0,1,1,U,0
+879vr1,tonic E5,fc_accents_32_4.mp3,"[1, 2, 6, 3, 2, 5, 3, 1]",0,1.0,4,0,1,0,0,1,1,U,0
+879vr1,tonic E5,fc_accents_54_1.mp3,"[1, 2, 6, 5, 4, 3, 1]",1,0.0,4,0,0,0,1,1,1,des,0
+9ju643,tonic E5,fc_accents_34_1.mp3,"[1, 2, 6, 3, 4, 5, 3, 1]",0,0.0,4,0,0,1,0,1,1,asc,1
+9ju643,tonic E5,fc_accents_34_2.mp3,"[1, 2, 6, 3, 4, 3, 1]",1,0.0,4,1,0,0,0,1,1,inv-U,1
+9ju643,tonic E5,fc_accents_32_2.mp3,"[1, 2, 6, 3, 2, 3, 1]",1,1.0,4,0,1,0,0,1,1,U,1
+9ju643,tonic E5,fc_accents_54_3.mp3,"[1, 2, 6, 5, 4, 5, 3, 1]",0,0.0,4,0,1,0,0,1,1,U,1
+9ju643,tonic E5,fc_accents_54_4.mp3,"[1, 2, 6, 5, 4, 3, 1]",1,0.0,4,0,0,0,1,1,1,des,1
+9ju643,tonic E5,fc_accents_56_1.mp3,"[1, 2, 6, 5, 6, 5, 3, 1]",1,1.0,4,1,0,0,0,1,1,inv-U,1
+9ju643,tonic E5,fc_accents_32_4.mp3,"[1, 2, 6, 3, 2, 5, 3, 1]",0,1.0,4,0,1,0,0,1,1,U,1
+9ju643,tonic E5,fc_accents_34_3.mp3,"[1, 2, 6, 3, 4, 5, 3, 1]",1,0.0,4,0,0,1,0,1,1,asc,1
+9ju643,tonic E5,fc_accents_54_2.mp3,"[1, 2, 6, 5, 4, 5, 3, 1]",1,0.0,4,0,1,0,0,1,1,U,1
+9ju643,tonic E5,fc_accents_56_3.mp3,"[1, 2, 6, 5, 6, 5, 3, 1]",1,1.0,4,1,0,0,0,1,1,inv-U,1
+9ju643,tonic E5,fc_accents_56_2.mp3,"[1, 2, 6, 5, 6, 3, 1]",1,1.0,4,1,0,0,0,1,1,inv-U,1
+9ju643,tonic E5,fc_accents_32_1.mp3,"[1, 2, 6, 3, 2, 5, 3, 1]",0,1.0,4,0,1,0,0,1,1,U,1
+9ju643,tonic E5,fc_accents_34_4.mp3,"[1, 2, 6, 3, 4, 5, 3, 1]",0,0.0,4,0,0,1,0,1,1,asc,1
+9ju643,tonic E5,fc_accents_56_4.mp3,"[1, 2, 6, 5, 6, 5, 3, 1]",0,1.0,4,1,0,0,0,1,1,inv-U,1
+9ju643,tonic E5,fc_accents_32_3.mp3,"[1, 3, 6, 3, 2, 3, 1]",1,1.0,4,0,1,0,0,1,1,U,1
+9ju643,tonic E5,fc_accents_54_1.mp3,"[1, 2, 6, 5, 4, 3, 1]",0,0.0,4,0,0,0,1,1,1,des,1
+ufmcn3,tonic E5,fc_accents_56_1.mp3,"[1, 2, 6, 5, 6, 5, 3, 1]",0,1.0,4,1,0,0,0,1,1,inv-U,0
+ufmcn3,tonic E5,fc_accents_56_2.mp3,"[1, 2, 6, 5, 6, 3, 1]",0,1.0,4,1,0,0,0,1,1,inv-U,0
+ufmcn3,tonic E5,fc_accents_34_2.mp3,"[1, 2, 6, 3, 4, 3, 1]",0,0.0,4,1,0,0,0,1,1,inv-U,0
+ufmcn3,tonic E5,fc_accents_32_2.mp3,"[1, 2, 6, 3, 2, 3, 1]",1,1.0,4,0,1,0,0,1,1,U,0
+ufmcn3,tonic E5,fc_accents_34_1.mp3,"[1, 2, 6, 3, 4, 5, 3, 1]",1,0.0,4,0,0,1,0,1,1,asc,0
+ufmcn3,tonic E5,fc_accents_56_4.mp3,"[1, 2, 6, 5, 6, 5, 3, 1]",0,1.0,4,1,0,0,0,1,1,inv-U,0
+ufmcn3,tonic E5,fc_accents_32_3.mp3,"[1, 3, 6, 3, 2, 3, 1]",1,1.0,4,0,1,0,0,1,1,U,0
+ufmcn3,tonic E5,fc_accents_54_3.mp3,"[1, 2, 6, 5, 4, 5, 3, 1]",1,0.0,4,0,1,0,0,1,1,U,0
+ufmcn3,tonic E5,fc_accents_54_2.mp3,"[1, 2, 6, 5, 4, 5, 3, 1]",1,0.0,4,0,1,0,0,1,1,U,0
+ufmcn3,tonic E5,fc_accents_54_1.mp3,"[1, 2, 6, 5, 4, 3, 1]",1,0.0,4,0,0,0,1,1,1,des,0
+ufmcn3,tonic E5,fc_accents_32_1.mp3,"[1, 2, 6, 3, 2, 5, 3, 1]",0,1.0,4,0,1,0,0,1,1,U,0
+ufmcn3,tonic E5,fc_accents_32_4.mp3,"[1, 2, 6, 3, 2, 5, 3, 1]",0,1.0,4,0,1,0,0,1,1,U,0
+ufmcn3,tonic E5,fc_accents_34_3.mp3,"[1, 2, 6, 3, 4, 5, 3, 1]",1,0.0,4,0,0,1,0,1,1,asc,0
+ufmcn3,tonic E5,fc_accents_56_3.mp3,"[1, 2, 6, 5, 6, 5, 3, 1]",1,1.0,4,1,0,0,0,1,1,inv-U,0
+ufmcn3,tonic E5,fc_accents_54_4.mp3,"[1, 2, 6, 5, 4, 3, 1]",1,0.0,4,0,0,0,1,1,1,des,0
+ufmcn3,tonic E5,fc_accents_34_4.mp3,"[1, 2, 6, 3, 4, 5, 3, 1]",0,0.0,4,0,0,1,0,1,1,asc,0
+t0675l,tonic E5,fc_accents_34_4.mp3,"[1, 2, 6, 3, 4, 5, 3, 1]",0,0.0,4,0,0,1,0,1,1,asc,0
+t0675l,tonic E5,fc_accents_32_1.mp3,"[1, 2, 6, 3, 2, 5, 3, 1]",0,1.0,4,0,1,0,0,1,1,U,0
+t0675l,tonic E5,fc_accents_34_3.mp3,"[1, 2, 6, 3, 4, 5, 3, 1]",0,0.0,4,0,0,1,0,1,1,asc,0
+t0675l,tonic E5,fc_accents_34_2.mp3,"[1, 2, 6, 3, 4, 3, 1]",0,0.0,4,1,0,0,0,1,1,inv-U,0
+t0675l,tonic E5,fc_accents_34_1.mp3,"[1, 2, 6, 3, 4, 5, 3, 1]",0,0.0,4,0,0,1,0,1,1,asc,0
+t0675l,tonic E5,fc_accents_56_3.mp3,"[1, 2, 6, 5, 6, 5, 3, 1]",0,1.0,4,1,0,0,0,1,1,inv-U,0
+t0675l,tonic E5,fc_accents_32_2.mp3,"[1, 2, 6, 3, 2, 3, 1]",0,1.0,4,0,1,0,0,1,1,U,0
+t0675l,tonic E5,fc_accents_56_2.mp3,"[1, 2, 6, 5, 6, 3, 1]",0,1.0,4,1,0,0,0,1,1,inv-U,0
+t0675l,tonic E5,fc_accents_54_4.mp3,"[1, 2, 6, 5, 4, 3, 1]",0,0.0,4,0,0,0,1,1,1,des,0
+t0675l,tonic E5,fc_accents_54_2.mp3,"[1, 2, 6, 5, 4, 5, 3, 1]",0,0.0,4,0,1,0,0,1,1,U,0
+t0675l,tonic E5,fc_accents_56_1.mp3,"[1, 2, 6, 5, 6, 5, 3, 1]",0,1.0,4,1,0,0,0,1,1,inv-U,0
+t0675l,tonic E5,fc_accents_56_4.mp3,"[1, 2, 6, 5, 6, 5, 3, 1]",0,1.0,4,1,0,0,0,1,1,inv-U,0
+t0675l,tonic E5,fc_accents_54_1.mp3,"[1, 2, 6, 5, 4, 3, 1]",0,0.0,4,0,0,0,1,1,1,des,0
+t0675l,tonic E5,fc_accents_32_4.mp3,"[1, 2, 6, 3, 2, 5, 3, 1]",0,1.0,4,0,1,0,0,1,1,U,0
+t0675l,tonic E5,fc_accents_54_3.mp3,"[1, 2, 6, 5, 4, 5, 3, 1]",0,0.0,4,0,1,0,0,1,1,U,0
+t0675l,tonic E5,fc_accents_32_3.mp3,"[1, 3, 6, 3, 2, 3, 1]",0,1.0,4,0,1,0,0,1,1,U,0
+wjde23,tonic E5,fc_accents_54_4.mp3,"[1, 2, 6, 5, 4, 3, 1]",0,0.0,4,0,0,0,1,1,1,des,0
+wjde23,tonic E5,fc_accents_56_4.mp3,"[1, 2, 6, 5, 6, 5, 3, 1]",0,1.0,4,1,0,0,0,1,1,inv-U,0
+wjde23,tonic E5,fc_accents_32_3.mp3,"[1, 3, 6, 3, 2, 3, 1]",0,1.0,4,0,1,0,0,1,1,U,0
+wjde23,tonic E5,fc_accents_34_3.mp3,"[1, 2, 6, 3, 4, 5, 3, 1]",0,0.0,4,0,0,1,0,1,1,asc,0
+wjde23,tonic E5,fc_accents_54_1.mp3,"[1, 2, 6, 5, 4, 3, 1]",0,0.0,4,0,0,0,1,1,1,des,0
+wjde23,tonic E5,fc_accents_54_3.mp3,"[1, 2, 6, 5, 4, 5, 3, 1]",0,0.0,4,0,1,0,0,1,1,U,0
+wjde23,tonic E5,fc_accents_56_2.mp3,"[1, 2, 6, 5, 6, 3, 1]",0,1.0,4,1,0,0,0,1,1,inv-U,0
+wjde23,tonic E5,fc_accents_34_1.mp3,"[1, 2, 6, 3, 4, 5, 3, 1]",0,0.0,4,0,0,1,0,1,1,asc,0
+wjde23,tonic E5,fc_accents_32_2.mp3,"[1, 2, 6, 3, 2, 3, 1]",0,1.0,4,0,1,0,0,1,1,U,0
+wjde23,tonic E5,fc_accents_56_1.mp3,"[1, 2, 6, 5, 6, 5, 3, 1]",1,1.0,4,1,0,0,0,1,1,inv-U,0
+wjde23,tonic E5,fc_accents_54_2.mp3,"[1, 2, 6, 5, 4, 5, 3, 1]",0,0.0,4,0,1,0,0,1,1,U,0
+wjde23,tonic E5,fc_accents_32_4.mp3,"[1, 2, 6, 3, 2, 5, 3, 1]",0,1.0,4,0,1,0,0,1,1,U,0
+wjde23,tonic E5,fc_accents_56_3.mp3,"[1, 2, 6, 5, 6, 5, 3, 1]",0,1.0,4,1,0,0,0,1,1,inv-U,0
+wjde23,tonic E5,fc_accents_32_1.mp3,"[1, 2, 6, 3, 2, 5, 3, 1]",0,1.0,4,0,1,0,0,1,1,U,0
+wjde23,tonic E5,fc_accents_34_4.mp3,"[1, 2, 6, 3, 4, 5, 3, 1]",0,0.0,4,0,0,1,0,1,1,asc,0
+wjde23,tonic E5,fc_accents_34_2.mp3,"[1, 2, 6, 3, 4, 3, 1]",0,0.0,4,1,0,0,0,1,1,inv-U,0
+es5pch,tonic E5,fc_accents_34_4.mp3,"[1, 2, 6, 3, 4, 5, 3, 1]",1,0.0,4,0,0,1,0,1,1,asc,0
+es5pch,tonic E5,fc_accents_56_2.mp3,"[1, 2, 6, 5, 6, 3, 1]",0,1.0,4,1,0,0,0,1,1,inv-U,0
+es5pch,tonic E5,fc_accents_34_2.mp3,"[1, 2, 6, 3, 4, 3, 1]",1,0.0,4,1,0,0,0,1,1,inv-U,0
+es5pch,tonic E5,fc_accents_34_3.mp3,"[1, 2, 6, 3, 4, 5, 3, 1]",1,0.0,4,0,0,1,0,1,1,asc,0
+es5pch,tonic E5,fc_accents_54_3.mp3,"[1, 2, 6, 5, 4, 5, 3, 1]",0,0.0,4,0,1,0,0,1,1,U,0
+es5pch,tonic E5,fc_accents_32_4.mp3,"[1, 2, 6, 3, 2, 5, 3, 1]",0,1.0,4,0,1,0,0,1,1,U,0
+es5pch,tonic E5,fc_accents_34_1.mp3,"[1, 2, 6, 3, 4, 5, 3, 1]",0,0.0,4,0,0,1,0,1,1,asc,0
+es5pch,tonic E5,fc_accents_56_4.mp3,"[1, 2, 6, 5, 6, 5, 3, 1]",0,1.0,4,1,0,0,0,1,1,inv-U,0
+es5pch,tonic E5,fc_accents_54_4.mp3,"[1, 2, 6, 5, 4, 3, 1]",1,0.0,4,0,0,0,1,1,1,des,0
+es5pch,tonic E5,fc_accents_54_2.mp3,"[1, 2, 6, 5, 4, 5, 3, 1]",0,0.0,4,0,1,0,0,1,1,U,0
+es5pch,tonic E5,fc_accents_56_1.mp3,"[1, 2, 6, 5, 6, 5, 3, 1]",1,1.0,4,1,0,0,0,1,1,inv-U,0
+es5pch,tonic E5,fc_accents_56_3.mp3,"[1, 2, 6, 5, 6, 5, 3, 1]",1,1.0,4,1,0,0,0,1,1,inv-U,0
+es5pch,tonic E5,fc_accents_32_1.mp3,"[1, 2, 6, 3, 2, 5, 3, 1]",1,1.0,4,0,1,0,0,1,1,U,0
+es5pch,tonic E5,fc_accents_32_2.mp3,"[1, 2, 6, 3, 2, 3, 1]",1,1.0,4,0,1,0,0,1,1,U,0
+es5pch,tonic E5,fc_accents_32_3.mp3,"[1, 3, 6, 3, 2, 3, 1]",1,1.0,4,0,1,0,0,1,1,U,0
+es5pch,tonic E5,fc_accents_54_1.mp3,"[1, 2, 6, 5, 4, 3, 1]",1,0.0,4,0,0,0,1,1,1,des,0
+mesgdu,tonic E5,fc_accents_34_2.mp3,"[1, 2, 6, 3, 4, 3, 1]",1,0.0,4,1,0,0,0,1,1,inv-U,0
+mesgdu,tonic E5,fc_accents_32_1.mp3,"[1, 2, 6, 3, 2, 5, 3, 1]",0,1.0,4,0,1,0,0,1,1,U,0
+mesgdu,tonic E5,fc_accents_54_2.mp3,"[1, 2, 6, 5, 4, 5, 3, 1]",0,0.0,4,0,1,0,0,1,1,U,0
+mesgdu,tonic E5,fc_accents_34_3.mp3,"[1, 2, 6, 3, 4, 5, 3, 1]",0,0.0,4,0,0,1,0,1,1,asc,0
+mesgdu,tonic E5,fc_accents_32_4.mp3,"[1, 2, 6, 3, 2, 5, 3, 1]",0,1.0,4,0,1,0,0,1,1,U,0
+mesgdu,tonic E5,fc_accents_56_4.mp3,"[1, 2, 6, 5, 6, 5, 3, 1]",0,1.0,4,1,0,0,0,1,1,inv-U,0
+mesgdu,tonic E5,fc_accents_32_3.mp3,"[1, 3, 6, 3, 2, 3, 1]",0,1.0,4,0,1,0,0,1,1,U,0
+mesgdu,tonic E5,fc_accents_54_1.mp3,"[1, 2, 6, 5, 4, 3, 1]",0,0.0,4,0,0,0,1,1,1,des,0
+mesgdu,tonic E5,fc_accents_54_3.mp3,"[1, 2, 6, 5, 4, 5, 3, 1]",0,0.0,4,0,1,0,0,1,1,U,0
+mesgdu,tonic E5,fc_accents_56_3.mp3,"[1, 2, 6, 5, 6, 5, 3, 1]",0,1.0,4,1,0,0,0,1,1,inv-U,0
+mesgdu,tonic E5,fc_accents_54_4.mp3,"[1, 2, 6, 5, 4, 3, 1]",0,0.0,4,0,0,0,1,1,1,des,0
+mesgdu,tonic E5,fc_accents_34_1.mp3,"[1, 2, 6, 3, 4, 5, 3, 1]",0,0.0,4,0,0,1,0,1,1,asc,0
+mesgdu,tonic E5,fc_accents_32_2.mp3,"[1, 2, 6, 3, 2, 3, 1]",0,1.0,4,0,1,0,0,1,1,U,0
+mesgdu,tonic E5,fc_accents_56_2.mp3,"[1, 2, 6, 5, 6, 3, 1]",0,1.0,4,1,0,0,0,1,1,inv-U,0
+mesgdu,tonic E5,fc_accents_56_1.mp3,"[1, 2, 6, 5, 6, 5, 3, 1]",0,1.0,4,1,0,0,0,1,1,inv-U,0
+mesgdu,tonic E5,fc_accents_34_4.mp3,"[1, 2, 6, 3, 4, 5, 3, 1]",1,0.0,4,0,0,1,0,1,1,asc,0
