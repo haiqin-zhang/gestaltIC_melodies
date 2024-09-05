@@ -6,5 +6,6 @@ figures/
 experiment_stimuli/
 intermediate_files/
 analysis_figs/
+data_other/
 
 *.png
